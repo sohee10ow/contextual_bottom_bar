@@ -9,6 +9,9 @@
 
 금융/커머스 앱에서 자주 쓰는 패턴처럼, **Global bar**(전역 탭) ↔ **Section bar**(섹션 탭)로 전환되는 하단 바를 쉽게 구현할 수 있는 Flutter 위젯입니다.
 
+![Uploading Simulator Screen Recording - iPhone 17 Pro Max - 2025-12-31 at 14.56.17.gif…]()
+
+
 ## 왜 필요한가요?
 
 전역 탭을 유지하다가 특정 섹션(예: 쇼핑/증권)으로 들어갈 때 하단 탭 구성이 완전히 바뀌는 UX가 많습니다. 이 패키지는 그 패턴을 `ContextualBottomBar` 하나로 구성할 수 있게 해줍니다.
