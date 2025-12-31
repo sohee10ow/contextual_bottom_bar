@@ -1,0 +1,736 @@
+|typeadaptcopyWithlerppadded
+shrinkWrapgetAdaptation_createAdaptationMap
+brightnessapplyElevationOverlayColorcupertinoOverrideTheme
+extensions	extensionadaptationMapinputDecorationThemematerialTapTargetSizepageTransitionsThemeplatformscrollbarThemesplashFactoryuseMaterial3visualDensitycanvasColor	cardColorcolorSchemedialogBackgroundColordisabledColordividerColor
+focusColorhighlightColor	hintColor
+hoverColorindicatorColorprimaryColorprimaryColorDarkprimaryColorLightscaffoldBackgroundColorsecondaryHeaderColorshadowColorsplashColorunselectedWidgetColor	iconThemeprimaryIconThemeprimaryTextTheme	textTheme
+typographyactionIconThemeappBarTheme
+badgeThemebannerThemebottomAppBarThemebottomNavigationBarThemebottomSheetThemebuttonTheme	cardThemecheckboxTheme	chipThemedataTableThemedatePickerThemedialogThemedividerThemedrawerThemedropdownMenuThemeelevatedButtonThemeexpansionTileThemefilledButtonThemefloatingActionButtonThemeiconButtonThemelistTileThememenuBarThememenuButtonTheme	menuThemenavigationBarThemenavigationDrawerThemenavigationRailThemeoutlinedButtonThemepopupMenuThemeprogressIndicatorTheme
+radioThemesearchBarThemesearchViewThemesegmentedButtonThemesliderThemesnackBarThemeswitchThemetabBarThemetextButtonThemetextSelectionThemetimePickerThemetoggleButtonsThemetooltipThemebuttonBarTheme_buttonBarTheme_localizedThemeDataCacheSize_localizedThemeDataCachelocalizeestimateBrightnessForColor_lerpThemeExtensions_themeExtensionIterableToMap==hashCodedebugFillProperties_materialTheme_cupertinoOverrideThemeprimaryContrastingColorresolveFrommaterialTheme	baseThemelocalTextGeometry_cache_maximumSizeputIfAbsentminimumDensitymaximumDensitystandardcomfortablecompactadaptivePlatformDensitydefaultDensityForPlatform
+horizontalverticalbaseSizeAdjustmenteffectiveConstraintstoStringShort
+AdaptationThemeExtensionMaterialTapTargetSize	ThemeDataMaterialBasedCupertinoThemeDataCupertinoBasedMaterialThemeData_IdentityThemeDataCacheKey
+_FifoCacheVisualDensity_colorSchemeLightM3_colorSchemeDarkM3ÁColor
+lerpDoubleInteractiveInkFeatureFactory
+BrightnessSwitchadaptiveTypeSwitchThemeDataadaptationMapObjectdoublematerialTapTargetSizeFloatingActionButtonMaterialButtonOutlinedButton
+TextButtonElevatedButton
+IconButtonshowTimePickerSnackBarChipRawChip	InputChip
+ChoiceChip
+FilterChip
+ActionChipRadioCheckboxThemeMaterialAppofBuildContextBuilderColorScheme	immutableDiagnosticablecolorSchemeSeedfromSeedcopyWithprimarySwatch	TextStylelightdarkfromIterableboolNoDefaultCupertinoThemeDatadynamicInputDecorationThemePageTransitionsThemeTargetPlatformScrollbarThemeDataMaterialColorStringListIconThemeData	TextTheme
+TypographyActionIconThemeDataAppBarThemeBadgeThemeDataMaterialBannerThemeDataBottomAppBarThemeBottomNavigationBarThemeDataBottomSheetThemeDataButtonThemeDataCheckboxThemeDataChipThemeDataDataTableThemeDataDatePickerThemeDataDividerThemeDataDrawerThemeDataDropdownMenuThemeDataElevatedButtonThemeDataExpansionTileThemeDataFilledButtonThemeDataFloatingActionButtonThemeDataIconButtonThemeDataListTileThemeDataMenuBarThemeDataMenuButtonThemeDataMenuThemeDataNavigationBarThemeDataNavigationDrawerThemeDataNavigationRailThemeDataOutlinedButtonThemeDataPopupMenuThemeDataProgressIndicatorThemeDataRadioThemeDataSearchBarThemeDataSearchViewThemeDataSegmentedButtonThemeDataSliderThemeDataSnackBarThemeDataTextButtonThemeDataTextSelectionThemeDataTimePickerThemeDataToggleButtonsThemeDataTooltipThemeData
+DeprecatedButtonBarThemeData	noDefaultadaptationsdefaultTargetPlatformandroidfuchsiaiOSpaddedlinuxmacOSwindows
+shrinkWrapdefaultDensityForPlatformkIsWeb
+InkSparklesplashFactory	InkRipple	InkSplash
+brightness	seedColorsurfaceprimary	onSurface	onPrimaryoutlineColorsbluegreyblackwhitewithOpacity
+fromSwatchaccentColor
+tealAccent	cardColorbackgroundColor
+errorColorredwhite70black54	secondarywhite60colorSchemebuttonColordisabledColor
+focusColor
+hoverColorhighlightColorsplashColorwhite38black38material2021platformmaterial2014
+fontFamilyapplyfontFamilyFallbackpackagemergecolorkDefaultIconLightColorkDefaultIconDarkColor	CardThemedataCardThemeDataArgumentErrorDialogThemeDialogThemeDataTabBarThemeTabBarThemeDatarawapplyElevationOverlayColorcupertinoOverrideTheme
+extensionsinputDecorationThemepageTransitionsThemescrollbarThemeuseMaterial3visualDensitycanvasColordialogBackgroundColordividerColor	hintColorindicatorColorprimaryColorprimaryColorDarkprimaryColorLightscaffoldBackgroundColorsecondaryHeaderColorshadowColorunselectedWidgetColor	iconThemeprimaryTextTheme	textTheme
+typographyprimaryIconThemeactionIconThemeappBarTheme
+badgeThemebannerThemebottomAppBarThemebottomNavigationBarThemebottomSheetThemebuttonTheme	cardThemecheckboxTheme	chipThemedataTableThemedatePickerThemedialogThemedividerThemedrawerThemedropdownMenuThemeelevatedButtonThemeexpansionTileThemefilledButtonThemefloatingActionButtonThemeiconButtonThemelistTileThememenuBarThememenuButtonTheme	menuThemenavigationBarThemenavigationDrawerThemenavigationRailThemeoutlinedButtonThemepopupMenuThemeprogressIndicatorTheme
+radioThemesearchBarThemesearchViewThemesegmentedButtonThemesliderThemesnackBarThemeswitchThemetabBarThemetextButtonThemetextSelectionThemetimePickerThemetoggleButtonsThemetooltipThemebuttonBarThemelocalizeMap
+adaptationtypeMaterialsurfaceTintColor	elevationElevationOverlayapplyOverlayCupertinoThemeDataCupertinoThemenewInputDecorationInputDecorator	TextFieldTextFormFieldapplyDefaultsMaterialPageRoutebuildTransitionsPageTransitionsBuilder"debugDefaultTargetPlatformOverride	ScrollbarInkWellInkResponseBadgeBottomAppBarBottomSheetFilledButtontonalextendedfilledfilledTonaloutlinedSegmentedButtonToggleButtonsCardCheckboxListTileshowDatePickershowDateRangePickerDatePickerDialogDateRangePickerDialogInputDatePickerFormFieldAlertDialogDialog
+fullscreenDividerVerticalDividerListTile
+MenuAnchorDropdownMenuMenuBarNavigationBarBottomNavigationBarNavigationDrawerDrawerNavigationRailCircularProgressIndicatorLinearProgressIndicatorRadioListTile	SearchBarSearchAnchorSliderRangeSliderSwitchListTileTabBarTimePickerDialogAppBarSliverAppBarmediumlargeMaterialScrollBehaviorminimumDensitymaximumDensitystandardPopupMenuDivider	DataTable
+BorderSidecreateBorderSideScaffoldPaginatedDataTableBackButtonIconCloseButtonIconDrawerButtonIconEndDrawerButtonIconMaterialBannerDropdownButton	ButtonBar	ChipThemeExpansionTile	MenuStyleSubmenuButtonMenuItemButtonProgressIndicatorSliderThemeTooltipTooltipThemeintinheritputIfAbsentcomputeLuminancemapidMapEntry
+extensionAlerp
+addEntriesentrieswherecontainsKeyentrykeyunmodifiable	identicaloverrideruntimeType	mapEqualskeysvalueshashAllvoidDiagnosticPropertiesBuilderdebugFillPropertiesfallbackaddIterablePropertydefaultValuelevelDiagnosticLeveldebugDiagnosticsPropertyEnumPropertyColorProperty_materialThemeprimaryContrastingColorbarBackgroundColorapplyThemeToAllCupertinoTextThemeDataresolveFromCupertinoApp	themeDataidentityHashCode	baseThemelocalTextGeometrylengthremovefirstRawMaterialButton
+horizontalverticalOffsetBoxConstraintsdebugAssertIsValidminWidthclampDoubledxmaxWidth	minHeightdy	maxHeighthashDoublePropertytoStringShortdebugFormatDoubleprimaryContaineronPrimaryContainerprimaryFixedprimaryFixedDimonPrimaryFixedonPrimaryFixedVariantonSecondarysecondaryContaineronSecondaryContainersecondaryFixedsecondaryFixedDimonSecondaryFixedonSecondaryFixedVarianttertiary
+onTertiarytertiaryContaineronTertiaryContainertertiaryFixedtertiaryFixedDimonTertiaryFixedonTertiaryFixedVarianterroronErrorerrorContaineronErrorContainer
+backgroundonBackgroundsurfaceBrightsurfaceContainerLowestsurfaceContainerLowsurfaceContainersurfaceContainerHighsurfaceContainerHighest
+surfaceDimsurfaceVariantonSurfaceVariantoutlineVariantshadowscriminverseSurfaceonInverseSurfaceinversePrimarysurfaceTintDiagnosticableCupertinoThemeDataŞC¯ù©õñºdqş¼P{‰‰
+Brightness ˆÚpackage:flutter/services.dart ?€ğColor
+lerpDouble €à   dart:ui  
+   package:flutter/cupertino.dart  3   package:flutter/foundation.dart  ^   action_buttons.dart  |   action_icons_theme.dart     app_bar_theme.dart  »   badge_theme.dart  Ö   banner_theme.dart  ò   bottom_app_bar_theme.dart  ‚    bottom_navigation_bar_theme.dart  ‚A   bottom_sheet_theme.dart  ‚c   button_bar_theme.dart  ‚ƒ   button_theme.dart  ‚Ÿ   card_theme.dart  ‚¹   checkbox_theme.dart  ‚×   chip_theme.dart  ‚ñ   color_scheme.dart  ƒ   colors.dart  ƒ#   constants.dart  ƒ<   data_table_theme.dart  ƒ\   date_picker_theme.dart  ƒ}   dialog_theme.dart  ƒ™   divider_theme.dart  ƒ¶   drawer_theme.dart  ƒÒ   dropdown_menu_theme.dart  ƒõ   elevated_button_theme.dart  „   expansion_tile_theme.dart  „>   filled_button_theme.dart  „a   !floating_action_button_theme.dart  „   icon_button_theme.dart  „®   ink_ripple.dart  „È   ink_sparkle.dart  „ã   ink_splash.dart……4InteractiveInkFeatureFactory „ı   ink_well.dart  …7   input_decorator.dart  …V   list_tile.dart  …o   list_tile_theme.dart  …   menu_bar_theme.dart  …¬   menu_button_theme.dart  …Í   menu_theme.dart  …ç   navigation_bar_theme.dart  †   navigation_drawer_theme.dart  †2   navigation_rail_theme.dart  †W   outlined_button_theme.dart  †|   page_transitions_theme.dart  †¢   popup_menu_theme.dart  †Â   progress_indicator_theme.dart  †ê   radio_theme.dart  ‡   scrollbar_theme.dart  ‡$   search_bar_theme.dart  ‡D   search_view_theme.dart  ‡e   segmented_button_theme.dart  ‡‹   slider_theme.dart  ‡§   snack_bar_theme.dart  ‡Æ   switch_theme.dart  ‡â   tab_bar_theme.dart  ‡ÿ   text_button_theme.dart  ˆ    text_selection_theme.dart  ˆD   text_theme.dart  ˆ^   time_picker_theme.dart  ˆ   toggle_buttons_theme.dart  ˆ£   tooltip_theme.dart  ˆÀ   typography.dartÀ ß÷ ÀéùŠ‡ <€†€¤€¥€Õ€Ş€ß	2\]{ºÕñ‚‚@‚b‚‚‚‚¸‚Ö‚ğƒƒ"ƒ;ƒ[ƒ|ƒ˜ƒµƒÑƒô„„=„`„Œ„­„Ç„â„ü…6…U…n……«…Ì…æ†
+†1†V†{†¡†Á†é‡‡#‡C‡d‡Š‡¦‡Å‡á‡şˆˆCˆ]ˆ~ˆ¢ˆ¿ˆÙˆÚ‰‰‰+‰I‰J‰ ‰¤‰ß‰õŠŠ*Š+ŠHŠ^Š_Š¯Šû‹‹F‹‡‹ØŒ(ŒuŒÆŒñŒ÷[«û(.u‡ÃÅÆUY¢òCY]qÁÙİ‘*‘:‘w‘¦‘À‘Á‘İ‘õ‘ö’9’j’Š’‹’Ì’Ò’õ“=“?“@“‹““Û“ù“ı”'”+”w””©”¾”×”ì••1•@•R•f•{••¥•µ•Æ•Ù•ö–1–7–„–Ç–Ş–è–é—3—H—V—X—Y—©—Ñ—Õ˜"˜n˜±˜µ™™V™¤™Ğ™Ôš#špš¹››U› ›Õ›Ù›íœ1œxœ¾H|€ÍİáFGRx·½ŸŸZŸ¦Ÿ¬Ÿ÷ A Œ Ú¡*¡_¡e¡®¡û¢G¢}¢ƒ¢É££g£™£Ÿ£í¤¤¤d¤­¤³¤ô¥@¥e¥k¥{¥¥Ì¦¦P¦¬¦Â§§`§®§Ò§Ó§ğ¨¨E¨~¨±¨á©©C©a©‰©º©Ò©ôªªª;ªWª­ªş«6«N«d«†« «¹«Ğ«ë¬¬¬3¬L¬i¬‡¬©¬Í¬î­­­@­`­x­­³­Ñ­ö®®1®M®e®®­®Í®÷¯!¯]¯‰¯«¯ï°°,°J°r°œ°â°û±±A±o±¡±Ñ±ÿ²=²g²²±²Û²ù³)³_³‘³Ã³ë´#´C´k´•´É´ëµµ3µyµ’µ¼µì¶¶F¶j¶ ¶±¶Ó···>·E·b·¤·Ô¸ ¸;¸c¸{¸¸Á¸à¹ ¹A¹b¹…¹Ê¹Ğºº>º‡º¢ºğ»»^»»€»»™»ÿ¼D¼¼¨¼¯¼ë½)½f½Ì¾¾?¾d¾Í¾Õ¿¿¿v¿ÒÀ @4À @5À @À @­À @ØÀ AÀ A8À AdÀ A™À AÉÀ BÀ BÀ B=À B`À B¡À CÀ CNÀ C”À CçÀ DDÀ D¡À DÃÀ EÀ E3À EpÀ EÁÀ FÀ F?À FkÀ FÀ FÚÀ FöÀ G?À GbÀ G‰À GÀ GØÀ H(À HvÀ H¿À I$À IoÀ IÀÀ IıÀ J"À JBÀ J‡À J«À JÉÀ JçÀ KÀ K-À KaÀ KhÀ K¨À KûÀ LKÀ LLÀ LlÀ LŒÀ LÚÀ MÀ M^À M»À MÙÀ N"À NyÀ NÀ N¥À NşÀ OeÀ OkÀ O†À OÉÀ PÀ P À PSÀ P›À QÀ QÀ Q‘À Q©À QÒÀ QıÀ R2À RgÀ R®À RåÀ SEÀ SbÀ S†À SªÀ SÚÀ T2À T:À T@À TiÀ TšÀ TÃÀ TöÀ U+À U‘À U°À UØÀ V À V4À V’À VšÀ V À VÍÀ VüÀ W)À WbÀ WŸÀ WÚÀ XÀ X\À X‘À XÂÀ XñÀ Y&À YOÀ YŠÀ YËÀ ZÀ ZEÀ ZxÀ Z»À ZæÀ [À [NÀ [À [ºÀ [ëÀ \À \~À \À \ÅÀ \íÀ ]!À ]À ]‡À ]À ]ºÀ ]ïÀ ^*À ^_À ^šÀ ^ÉÀ ^ÿÀ _2À _LÀ _À _îÀ `>À `dÀ `eÀ `„À `¼À `úÀ a0À alÀ aÀ aÒÀ bÀ bÀ bDÀ bhÀ bŠÀ b®À b½À bİÀ bùÀ cÀ cMÀ cqÀ c“À c±À c×À cóÀ dÀ d7À dYÀ dƒÀ d¯À dçÀ eÀ e9À eYÀ eÀ e¯À eËÀ eõÀ fÀ f/À fYÀ fsÀ f›À f»À fÙÀ fùÀ g%À g_À g‰À g©À gÖÀ gúÀ hÀ h<À hdÀ h—À h¹À hÙÀ iÀ i5À icÀ iÀ iËÀ ióÀ jÀ j9À jaÀ j}À j«À jßÀ kÀ k?À keÀ k›À k¹À kßÀ lÀ l9À lYÀ l}À lÀ lĞÀ løÀ m&À mNÀ m|À mÀ mÖÀ müÀ nÀ nÀ nÀ nTÀ nÀ nÇÀ nÍÀ oÀ oTÀ osÀ o‹À oÛÀ p)À pwÀ p›À pœÀ p¹À pÚÀ qÀ q2À qPÀ qxÀ q¡À qÉÀ qåÀ rÀ r(À rHÀ riÀ rvÀ r•À rëÀ s<À stÀ s“À s°À sÙÀ súÀ tÀ t8À tZÀ twÀ t•À t·À t×À tûÀ u À uKÀ usÀ u’À u±À uÚÀ uúÀ vÀ v;À v_À v|À všÀ v²À vÕÀ vôÀ wÀ w1À wVÀ w‚À w¦À wÅÀ wâÀ xÀ x À xBÀ xeÀ x„À x¤À xÃÀ xèÀ yÀ y5À yZÀ y‡À yªÀ yËÀ yëÀ zÀ z+À zQÀ zzÀ z¡À zÈÀ zêÀ {À {2À {TÀ {wÀ {ŸÀ {¾À {ßÀ {şÀ |À |@À |fÀ |‰À |¯À |ÏÀ }À }À }8À }uÀ }{À }£À }ÜÀ ~'À ~PÀ ~wÀ ~xÀ ~ÆÀ ~õÀ ~ûÀ 7À ƒÀ ÍÀ €À €À €dÀ €³À €ïÀ €õÀ À VÀ zÀ €À À ¡À èÀ ‚2À ‚:À ‚DÀ ‚VÀ ‚\À ‚À ‚ÅÀ ‚àÀ ƒÀ ƒ À ƒ8À ƒ?À ƒ‚À ƒƒÀ ƒØÀ „2À „’À „“À „©À „ÉÀ „óÀ …À …DÀ …xÀ …À …ÛÀ †À †:À †VÀ †€À †¢À †©À †­À †®À †ËÀ †ÑÀ ‡À ‡mÀ ‡«À ‡ÍÀ ‡íÀ ‡òÀ ‡óÀ ˆÀ ˆÀ ˆcÀ ˆ±À ˆîÀ ‰À ‰/À ‰4À ‰5À ‰oÀ ‰uÀ ‰¸À ‰¾À ŠÀ ŠZÀ Š`À Š¯À ŠÄÀ ‹'À ‹(À ‹mÀ ‹sÀ ‹ÆÀ ŒÀ ŒÀ ŒzÀ ŒÎÀ À 1À 8À RÀ VÀ WÀ {À À ÉÀ À @À wÀ xÀ ÆÀ À ^À €À À œÀ À ëÀ À À _À «À ÷À ‘À ‘À ‘WÀ ‘¦À ‘ìÀ ’7À ’tÀ ’zÀ ’±À ’óÀ “@À “‹À “¼À “ÂÀ “üÀ ”À ”LÀ ””À ”ÙÀ •À •À •À •$À •rÀ •ŠÀ •ÙÀ –
+À –[À –ƒÀ –¬À –­À –øÀ —À —À —eÀ —°À —şÀ ˜DÀ ˜JÀ ˜œÀ ˜çÀ ™$À ™%À ™NÀ ™TÀ ™«À ™ŞÀ ™äÀ šÀ šÀ š/À šÀ š›À š¡À šğÀ ›À ›À ›À ›À ›nÀ ›§À ›¨À ›îÀ ›ôÀ œ9À œ?À œrÀ œÀ œŸÀ œğÀ 2À 8À lÀ ¡À ¢À ğÀ #À )À TÀ ‡À ˆÀ ÈÀ ÎÀ ŸÀ ŸgÀ ŸxÀ Ÿ­À Ÿ®À ŸòÀ ŸøÀ  FÀ  ”À  ºÀ  íÀ  îÀ ¡.À ¡4À ¡ƒÀ ¡ÑÀ ¡äÀ ¡êÀ ¢:À ¢ƒÀ ¢ÒÀ £À £aÀ £ À £ğÀ ¤AÀ ¤zÀ ¤€À ¤ÏÀ ¥À ¥gÀ ¥·À ¦À ¦<À ¦hÀ ¦nÀ ¦ºÀ ¦ÛÀ ¦ÜÀ §,À §WÀ §XÀ §›À §´À §ºÀ §ÊÀ §ĞÀ ¨À ¨bÀ ¨À ¨àÀ ©À ©:À ©;À ©†À ©ŒÀ ©ÑÀ ªÀ ª&À ª,À ªnÀ ª¶À «À «6À «<À «NÀ «TÀ «¢À «àÀ ¬-À ¬pÀ ¬vÀ ¬àÀ ¬æÀ ­BÀ ­À ­úÀ ®VÀ ®²À ®¸À ®öÀ ¯;À ¯AÀ ¯À ¯ßÀ °	À °À °)À °/À °^À °dÀ °uÀ °²À °ÚÀ ±À ±À ±*À ±DÀ ±mÀ ±”À ±¦À ²À ²bÀ ²×À ³$À ³<À ³oÀ ³€À ³ÁÀ ´À ´*À ´³À ´éÀ µÀ µ5À µnÀ µºÀ µÿÀ ¶+À ¶À ¶²À ¶áÀ ·À ·+À ·XÀ ·…À ·ËÀ ¸À ¸eÀ ¸kÀ ¸³À ¸êÀ ¹À ¹$À ¹4À ¹:À ¹yÀ ¹”À ¹•À ¹æÀ ¹ìÀ º'À ºmÀ º»À »À »YÀ »’À »˜À »äÀ ¼5À ¼„À ¼ÓÀ ½"À ½gÀ ½mÀ ½½À ¾À ¾8À ¾>À ¾ˆÀ ¾ÏÀ ¿À ¿"À ¿lÀ ¿¯À ¿µÀ ÀÀ ÀPÀ À¦À ÀÕÀ ÀêÀ ÁÀ ÁÀ ÁÀ ÁÀ ÁYÀ ÁtÀ ÁuÀ Á°À ÁÉÀ ÁÊÀ ÂÀ Â	À ÂZÀ Â«À ÂûÀ ÃCÀ ÃiÀ ÃŠÀ Ã‹À Ã¼À ÃáÀ ÃâÀ Ä'À ÄiÀ Ä†À Ä£À Ä¤À ÄåÀ Å,À Å2À Å}À ÅŸÀ Å»À Å¼À ÆÀ Æ À Æ!À ÆcÀ Æ‘À Æ¯À Æ°À ÆòÀ ÇÀ Ç%À Ç&À ÇoÀ Ç€À ÇšÀ Ç›À Ç×À ÇõÀ ÇöÀ ÈFÀ ÈLÀ È˜À ÈàÀ É.À ÉcÀ ÉÀ É€À É®À ÉÎÀ ÉÏÀ ÉşÀ ÊÀ Ê À ÊmÀ Ê¹À ÊàÀ ÊáÀ Ë7À ËcÀ ËËÀ Ì	À Ì-À Ì.À ÌyÀ ÌÀ Ì¥À Ì«À ÌøÀ ÍFÀ Í’À ÍßÀ ÎÀ Î#À Î$À ÎEÀ ÎKÀ Î[À Î¡À Î¼À Î½À ÎşÀ ÏIÀ ÏnÀ ÏoÀ ÏÀ ÏÀ ÏÒÀ ÏóÀ ÏôÀ Ğ/À ĞWÀ ĞXÀ Ğ’À Ğ¶À Ğ·À ĞÿÀ ÑÀ ÑÀ ÑlÀ ÑrÀ Ñ©À ÑÈÀ ÑÉÀ ÑßÀ ÑàÀ Ò,À Ò`À ÒÀ ÒÀ ÒİÀ ÒûÀ ÓÀ ÓÀ ÓRÀ ÓuÀ ÓvÀ ÓÄÀ ÓñÀ ÓòÀ ÔEÀ ÔrÀ ÔsÀ ÔÄÀ ÔÓÀ ÕÀ ÕÀ ÕdÀ Õ“À Õ”À ÕåÀ ÕüÀ Ö!À Ö"À ÖUÀ Ö[À Ö‘À Ö²À Ö³À ×À ×+À ×,À ×`À ×fÀ ×œÀ ×½À ×¾À ØÀ ØÀ Ø?À Ø@À ØÀ ØÀ ØÊÀ ØËÀ Ù À Ù%À Ù&À ÙuÀ Ù”À Ù»À Ù¼À Ú	À Ú.À Ú/À Ú‚À Ú³À Ú´À ÚøÀ ÛÀ ÛFÀ ÛGÀ ÛÀ ÛÃÀ ÛÄÀ ÜÀ ÜÀ ÜPÀ ÜQÀ Ü”À Ü²À ÜóÀ ÜôÀ İ8À İMÀ İzÀ İ{À İ¿À İèÀ İéÀ Ş:À ŞyÀ Ş À Ş¡À ŞîÀ ß;À ßhÀ ßiÀ ßºÀ ßûÀ àÀ àÀ àmÀ à‰À à¼À à½À áÀ á,À áeÀ áfÀ áµÀ áŞÀ âÀ âÀ âXÀ âqÀ â¦À â§À âôÀ ãÀ ã2À ã3À ã‹À ãÆÀ ãÇÀ äÀ ä6À ä7À ä‡À ä²À ä³À åÀ åKÀ åLÀ å¢À åÙÀ åÚÀ æÀ æÀ æMÀ ærÀ æsÀ æÉÀ æòÀ æóÀ ç@À çeÀ çfÀ ç¹À çŞÀ çßÀ è#À è8À èeÀ èfÀ è¶À èéÀ èêÀ é:À égÀ éhÀ é¬À éßÀ éàÀ ê#À ê)À êbÀ ê‰À êŠÀ êÚÀ êéÀ ë	À ëDÀ ëHÀ ë…À ë²À ë³À ìÀ ìÀ ìRÀ ìiÀ ì¹À íÀ íUÀ íyÀ ízÀ í—À íÆÀ íìÀ î%À îXÀ îˆÀ îºÀ îêÀ ïÀ ï0À ïaÀ ïƒÀ ïÀ ï®À ïÊÀ ğ À ğqÀ ğ©À ğÁÀ ğ×À ğùÀ ñÀ ñ,À ñCÀ ñ^À ñtÀ ñ‹À ñ¦À ñ¿À ñÜÀ ñúÀ òÀ ò?À òWÀ òoÀ ò‘À ò±À òÏÀ òôÀ óÀ ó/À óKÀ ócÀ óÀ ó«À óËÀ óõÀ ôÀ ô[À ô‡À ô©À ôÀÀ ôæÀ õÀ õ,À õVÀ õœÀ õµÀ õÙÀ õûÀ ö)À ö[À ö‹À ö¹À ö÷À ÷!À ÷GÀ ÷kÀ ÷•À ÷³À ÷ãÀ øÀ øKÀ ø}À ø¥À øİÀ øıÀ ù%À ùOÀ ùƒÀ ù¥À ùËÀ ùíÀ ú3À úLÀ úvÀ ú¦À úĞÀ û À û$À ûZÀ ûkÀ û³À ûñÀ ü6À üxÀ ü´À üºÀ üÒÀ üãÀ ıÀ ıBÀ ıHÀ ıpÀ ıwÀ ı¹À ıºÀ şÀ ş7À ş[À şÀ ş¯À ÿÀ ÿÀ ÿÀ ÿÀ ÿ|À ÿ›À ÿÃÀ ÿëÀ À }À …À ‹À ŒÀ òÀÀ9ÀaÀ•ÀóÀûÀÀÀmÀ½ÀÀ3À4ÀSÀ±ÀÀgÀÌÀÀmÀ¼ÀçÀ$À^À¯ÀËÀÀ<ÀKÀÀ­ÀÀVÀÀÇÀøÀ	5À	cÀ	”À	ÑÀ
+À
+KÀ
+‘À
+éÀ8ÀlÀ ÀòÀÀBÀ…ÀÈÀöÀ'ÀAÀÀµÀæÀÀ`À»ÀşÀ2ÀrÀ¬ÀÚÀÀWÀŸÀÖÀ
+ÀPÀœÀåÀ+À‰ÀÉÀÀ:ÀzÀ¨ÀñÀCÀÀÛÀÀmÀÀÛÀÀjÀÀØÀÀTÀ”ÀİÀÀfÀÀÖÀİÀáÀâÀ2À€ÀÍÀÀ=À>ÀÀÛÀ2À3À€À¶À¼ÀÀ]À­ÀáÀ1ÀyÀÅÀÀdÀ³ÀÀÀYÀjÀqÀ¿ÀéÀêÀ À [À fÀ ‰À ÚÀ!À!(À!1À!8À!<À!=À!À!šÀ! À!ğÀ"!À"_À"À"ŸÀ"ÜÀ#/À#À#ÒÀ$À$HÀ$lÀ$¼À$ÛÀ$áÀ$ıÀ%À%À%7À%=À%qÀ%wÀ%šÀ&À&À&–À&ÜÀ':À'DÀ'dÀ'À'ØÀ(
+À(À(%À()À(*À(yÀ(ØÀ)[À)»À)÷À*‡À*À*“À*”À*ÃÀ*ÉÀ*ìÀ+*À+EÀ+UÀ+[À+uÀ+ÇÀ,À,gÀ,À,À,­À,ïÀ-WÀ-³À-äÀ.:À.“À.éÀ/À/rÀ/´À/óÀ0AÀ0PÀ0‘À0ÌÀ1À1qÀ1¸À1üÀ2:À2„À2¿À2ıÀ3GÀ3‹À3ÛÀ4.À4“À4ïÀ50À5qÀ5ĞÀ5òÀ64À6‹À6ŞÀ7À7^À7xÀ7ÒÀ8À8^À8°À9À9ŒÀ9ëÀ:'À:iÀ:»À:şÀ;TÀ;®À;øÀ<FÀ<‘À<óÀ=^À=ÅÀ>(À>«À?À?YÀ?¨À@À@FÀ@­ÀA ÀA‹ÀAöÀBMÀBÄÀC
+ÀCaÀC¼ÀD*ÀDtÀDÆÀEÀEZÀEµÀFÀFvÀFİÀG,ÀG‚ÀG‰ÀGÀGÀGšÀG½ÀGéÀGıÀHÀH$ÀHxÀHÊÀIÀIDÀIEÀIfÀIŸÀIéÀJ+ÀJ^ÀJœÀJÜÀKÀK@ÀKrÀK¢ÀKĞÀL ÀLÀL=ÀLeÀL‘ÀLÑÀMÀM/ÀMYÀM‹ÀM³ÀMİÀNÀN=ÀNsÀN«ÀNïÀO-ÀOYÀO…ÀOÅÀOéÀPÀPGÀP}ÀP¥ÀPÏÀPëÀQÀQKÀQuÀQ¡ÀQÙÀRÀRUÀRÀR©ÀRÙÀSÀS3ÀSgÀS“ÀSÁÀSíÀT%ÀTaÀT›ÀTÓÀUÀUOÀUÀU­ÀUáÀV	ÀVCÀVƒÀV¿ÀVûÀW-ÀWoÀW™ÀWËÀWÿÀX=ÀXiÀX™ÀXÅÀXñÀY%ÀY_ÀY“ÀYÍÀYûÀZ+ÀZ/ÀZ0ÀZ<ÀZQÀZ}ÀZÏÀ[À[oÀ[•À[–À[µÀ[ÒÀ[ñÀ\À\1À\KÀ\gÀ\ƒÀ\ À\¼À\ÌÀ\âÀ\÷À]À] À]/À]BÀ]SÀ]fÀ]ƒÀ]˜À]¬À]¾À]ÔÀ]åÀ]÷À^À^!À^9À^RÀ^qÀ^À^ À^³À^ĞÀ^òÀ_À_À_3À_DÀ_VÀ_pÀ_‡À_šÀ_¬À_¿À_ØÀ_øÀ`À`#À`4À`IÀ`ZÀ`pÀ`‡À`šÀ`®À`ÁÀ`ÚÀ`õÀaÀa(ÀaIÀa`ÀauÀa‰Àa Àa±ÀaËÀaèÀbÀbÀb4ÀbRÀbdÀbzÀb‘Àb­ÀbÀÀbÕÀbèÀbûÀcÀc,ÀcCÀc]ÀcqÀc©Àc¿ÀcÆÀcéÀcíÀcîÀcúÀd?ÀdjÀd¢ÀdòÀe@ÀeÀe²Àe³ÀeĞÀf~ÀgÀgÍÀhxÀiÀi‘ÀjÀj§ÀkNÀküÀlÀm.Àm<ÀmÀÀn>ÀnÕÀowÀpÀpˆÀq	Àq–ÀrÀr•Às"ÀsµÀtKÀtÒÀuzÀvÀvÀw!ÀwÃÀwãÀxQÀxÍÀyEÀy¯ÀzBÀzZÀzÚÀ{qÀ|À|«À}ZÀ~)À~ØÀLÀºÀ€]À€ËÀrÀ‚À‚¸ÀƒWÀƒòÀ„¥À…`À…éÀ†œÀ‡oÀˆÀˆ½À‰\ÀŠÀŠšÀ‹QÀŒÀŒÏÀŠÀ1ÀøÀÀ6ÀáÀ‘ À’À’·À“RÀ“ÆÀ”qÀ•(À•ÓÀ–\À–ÓÀ—	À—°À—´À—¶À—·À˜À˜$À˜(À˜qÀ˜¾À˜ÊÀ˜ÎÀ™À™kÀ™oÀ™»À™ÿÀšÀšTÀšŸÀšîÀ›À›À›"À›&À›pÀ›¿À›ÍÀœÀœ9Àœ‰ÀœÚÀ'À[ÀÀïÀÀ;ÀaÀpÀƒÀÙÀŞÀßÀŸÀŸÀŸ?ÀŸŠÀŸÊÀŸçÀŸøÀ $À RÀ ‹À ¶À êÀ¡#À¡TÀ¡]À¡^À¡€À¡½À¡¾À¡ÊÀ¢*À¢+À¢7À¢ŸÀ¢ À¢¬À£,À£-À£9À£»À£¼À£õÀ£ûÀ¤=À¤ŠÀ¤ÚÀ¥À¥À¥kÀ¥²À¥òÀ¥şÀ¦+À¦GÀ¦`À¦„À¦«À¦ÊÀ¦îÀ§	À§À§>À§TÀ§|À§œÀ§ÀÀ§úÀ¨À¨HÀ¨‚À¨¬À¨µÀ¨¼À¨ÀÀ¨ÁÀ¨ÍÀ©À©FÀ©‹À©¹À©ÏÀªÀª
+ÀªÀªÀªÀª`Àª°À« À«MÀ«…À«‰À«ÖÀ¬%À¬ZÀ¬‚À¬ÒÀ¬ğÀ­À­?À­aÀ­ŠÀ­µÀ­óÀ®À®RÀ®ZÀ®aÀ®bÀ®·À®ØÀ®ÚÀ®ÛÀ®æÀ¯	À¯UÀ¯VÀ¯sÀ¯˜À¯™À¯çÀ° À°À°eÀ°fÀ°rÀ°•À°àÀ±À±7À±hÀ±ªÀ±®À±°À±±À² À².À²2À²À²¢À²»À²÷À²øÀ³HÀ³’À³¢À³ÇÀ³ÈÀ³ÿÀ´À´VÀ´€À´šÀ´›À´æÀµ!ÀµOÀµhÀµ‹Àµ¥ÀµºÀµÀÀµéÀ¶À¶À¶:À¶>À¶@À¶AÀ¶~À¶‚À¶ÆÀ·À·EÀ·IÀ·—À·çÀ¸2À¸PÀ¸TÀ¸¡À¸ğÀ¹?À¹IÀ¹MÀ¹”À¹˜À¹ªÀ¹¸À¹ĞÀ¹äÀº/ÀºAÀºYÀºqÀº€Àº›Àº¯Àº³ÀºÁÀºÅÀ»À»IÀ»°À»»À»åÀ¼À¼À¼jÀ¼¢À¼ºÀ¼ÕÀ¼îÀ½À½DÀ½qÀ½À½ŸÀ½ÂÀ½ïÀ½ğÀ¾À¾?À¾@À¾~À¾„À¾ÑÀ¿À¿8À¿qÀ¿rÀ¿»À¿ÁÀÀÀÀ]ÀÀ­ÀÀïÀÀõÀÁ1ÀÁÀÁÀÁÓÀÁÙÀÂ%ÀÂvÀÂÀÀÂûÀÃÀÃ=ÀÃ•ÀÃ–ÀÃåÀÄ.ÀÄ4ÀÄ{ÀÄÆÀÄİÀÄãÀÄóÀÄùÀÅEÀÅyÀÅÁÀÅëÀÆSÀÆTÀÆ¤ÀÆªÀÆûÀÇ0ÀÇ6ÀÇFÀÇLÀÇ–ÀÇÉÀÈÀÈ4ÀÈÀÈçÀÈîÀÈòÀÈóÀÉ>ÀÉTÀÉoÀÉ‡ÀÉÀÉ¤ÀÉ¾ÀÉïÀÊÀÊ!ÀÊ%ÀÊ&ÀÊ\ÀÊbÀÊ­ÀÊşÀËIÀËÀËÏÀËòÀËøÀÌÀÌÀÌbÀÌ–ÀÌÿÀÍÀÍÀÍOÀÍUÀÍÀÍïÀÎ:ÀÎ~ÀÎÀÀÎãÀÎéÀÎùÀÎÿÀÏSÀÏ…ÀÏîÀĞÀĞÀĞ\ÀĞbÀĞ²ÀĞîÀĞôÀÑ;ÀÑgÀÑ‰ÀÑ×ÀÒ(ÀÒXÀÒyÀÒzÀÒ®ÀÒ²ÀÒ³ÀÒåÀÓ/ÀÓJÀÓZÀÓ`ÀÓzÀÓ¸ÀÓğÀÓ÷ÀÓûÀÓüÀÔJÀÔwÀÔ}ÀÔÍÀÕ ÀÕDÀÕrÀÕ“ÀÕùÀÖbÀÖiÀÖmÀÖnÀÖzÀÖÀÖÉÀÖİÀÖãÀ×À×/À×VÀ×ZÀ×[À×gÀ× À×¡À×­À×òÀØÀØnÀØ»ÀØ¿ÀØÀÀØÌÀØçÀÙVÀÙZÀÙ\ÀÙ]ÀÙÀÙÀÙÓÀÚÀÚ?ÀÚrÀÚsÀÚ¨ÀÚÈÀÚæÀÛÀÛ-ÀÛVÀÛyÀÛŸÀÛÄÀÛğÀÜÀÜ2ÀÜ[ÀÜ†ÀÜ«ÀÜÓÀÜúÀİ(ÀİGÀİhÀİÀİºÀİŞÀŞÀŞ+ÀŞXÀŞtÀŞ’ÀŞ·ÀŞŞÀŞÿÀß"Àß@ÀßdÀß‘Àß»ÀßâÀàÀà;Àà\Àà|Àà¡ÀàÈÀàæÀáÀá(ÀáDÀáiÀáÀáµÀáùÀâÀâÀâÀâSÀârÀâÀâ°Àâ×Àã Àã#ÀãIÀãnÀãšÀãºÀãÜÀäÀä0ÀäUÀä}Àä¤ÀäÒÀäñÀåÀå:ÀådÀåˆÀå¯ÀåÕÀæÀæÀæ<ÀæaÀæˆÀæ©ÀæÌÀæêÀçÀç;ÀçeÀçŒÀç·ÀçåÀèÀè&ÀèKÀèrÀèÀèµÀèÒÀèîÀéÀé:Àé_Àé£ÀéÅÀéÈÀéÉÀéù   //// @docImport 'package:flutter/material.dart';?€ß €ğ	  2  ]  {    º  Õ  ñ  ‚  ‚@  ‚b  ‚‚  ‚  ‚¸  ‚Ö  ‚ğ  ƒ  ƒ"  ƒ;  ƒ[  ƒ|  ƒ˜  ƒµ  ƒÑ  ƒô  „  „=  „`  „Œ  „­  „Ç  „â  „ü ……4…6  …U  …n  …  …«  …Ì  …æ  †
+  †1  †V  †{  †¡  †Á  †é  ‡  ‡#  ‡C  ‡d  ‡Š  ‡¦  ‡Å  ‡á  ‡ş  ˆ  ˆC  ˆ]  ˆ~  ˆ¢  ˆ¿  ˆÚ‰‰ ‰J…z‰å€”/// Defines a customized theme for components with an `adaptive` factory constructor.
+///
+/// Currently, only [Switch.adaptive] supports this class.‰ğ‰ğ‰÷2 ŠŠ&/// Creates an [Adaptation].   Š-0ŠS/// The adaptation's type.   Ša„a‹„/// Typically, this is overridden to return an instance of a custom component
+/// ThemeData class, like [SwitchThemeData], instead of the defaultValue.
+///
+/// Factory constructors that support adaptations - currently only
+/// [Switch.adaptive] - look for a type-specific adaptation in
+/// [ThemeData.adaptationMap] when computing their effective default component
+/// theme. If a matching adaptation is not found, the component may choose to
+/// use a default adaptation. For example, the [Switch.adaptive] component
+/// uses an empty [SwitchThemeData] if a matching adaptation is not found, for
+/// the sake of backwards compatibility.
+///
+/// {@tool dartpad}
+/// This sample shows how to create and use subclasses of [Adaptation] that
+/// define adaptive [SwitchThemeData]s. The [adapt] method in this example is
+/// overridden to only customize cupertino-style switches, but it can also be
+/// used to customize any other platforms.
+///
+/// ** See code in examples/api/lib/material/switch/switch.4.dart **
+/// {@end-tool} ‘œ  ¢¥    Æ„x‘I‚s/// An interface that defines custom additions to a [ThemeData] object.
+///
+/// {@youtube 560 315 https://www.youtube.com/watch?v=8-szcYzFVao}
+///
+/// Typically used for custom colors. To use, subclass [ThemeExtension],
+/// define a number of fields (e.g. [Color]s), and implement the [copyWith] and
+/// [lerp] methods. The latter will ensure smooth transitions of properties when
+/// switching themes.
+///
+/// {@tool dartpad}
+/// This sample shows how to create and use a subclass of [ThemeExtension] that
+/// defines two colors.
+///
+/// ** See code in examples/api/lib/material/theme/theme_extension.1.dart **
+/// {@end-tool}‘X‘X‘yF ‘®‘¼,/// Enable const constructor for subclasses.   ‘Ã1‘ê/// The extension's type.   ‘ø€‘’~o/// Creates a copy of this theme extension with the given fields
+/// replaced by the non-null parameter values.   ’€¯“	c/// Linearly interpolate with another [ThemeExtension] object.
+///
+/// {@macro dart.ui.shadow.lerp} “"“,  “2“:    —YÀ€\X†ì/// Defines the configuration of the overall visual [Theme] for a [MaterialApp]
+/// or a widget subtree within the app.
+///
+/// The [MaterialApp] theme property can be used to configure the appearance
+/// of the entire app. Widget subtrees within an app can override the app's
+/// theme by including a [Theme] widget at the top of the subtree.
+///
+/// Widgets whose appearance should align with the overall theme can obtain the
+/// current theme's configuration with [Theme.of]. Material components typically
+/// depend exclusively on the [colorScheme] and [textTheme]. These properties
+/// are guaranteed to have non-null values.
+///
+/// The static [Theme.of] method finds the [ThemeData] value specified for the
+/// nearest [BuildContext] ancestor. This lookup is inexpensive, essentially
+/// just a single HashMap access. It can sometimes be a little confusing
+/// because [Theme.of] can not see a [Theme] widget that is defined in the
+/// current build method's context. To overcome that, create a new custom widget
+/// for the subtree that appears below the new [Theme], or insert a widget
+/// that creates a new BuildContext, like [Builder].
+///
+/// {@tool dartpad}
+/// This example demonstrates how a typical [MaterialApp] specifies
+/// and uses a custom [Theme]. The theme's [ColorScheme] is based on a
+/// single "seed" color and configures itself to match the platform's
+/// current light or dark color configuration. The theme overrides the
+/// default configuration of [FloatingActionButton] to show how to
+/// customize the appearance a class of components.
+///
+/// ** See code in examples/api/lib/material/theme_data/theme_data.0.dart **
+/// {@end-tool}
+///
+/// See <https://material.io/design/color/> for
+/// more discussion on how to pick the right colors. zÀ OŒ ¦¶¦¿‡å/// Create a [ThemeData] that's used to configure a [Theme].
+///
+/// The [colorScheme] and [textTheme] are used by the Material components to
+/// compute default values for visual properties. The API documentation for
+/// each component widget explains exactly how the defaults are computed.
+///
+/// When providing a [ColorScheme], apps can either provide one directly
+/// with the [colorScheme] parameter, or have one generated for them by
+/// using the [colorSchemeSeed] and [brightness] parameters. A generated
+/// color scheme will be based on the tones of [colorSchemeSeed] and all of
+/// its contrasting color will meet accessibility guidelines for readability.
+/// (See [ColorScheme.fromSeed] for more details.)
+///
+/// If the app wants to customize a generated color scheme, it can use
+/// [ColorScheme.fromSeed] directly and then [ColorScheme.copyWith] on the
+/// result to override any colors that need to be replaced. The result of
+/// this can be used as the [colorScheme] directly.
+///
+/// For historical reasons, instead of using a [colorSchemeSeed] or
+/// [colorScheme], you can provide either a [primaryColor] or [primarySwatch]
+/// to construct the [colorScheme], but the results will not be as complete
+/// as when using generation from a seed color.
+///
+/// If [colorSchemeSeed] is non-null then [colorScheme], [primaryColor] and
+/// [primarySwatch] must all be null.
+///
+/// The [textTheme] [TextStyle] colors are black if the color scheme's
+/// brightness is [Brightness.light], and white for [Brightness.dark].
+///
+/// To override the appearance of specific components, provide
+/// a component theme parameter like [sliderTheme], [toggleButtonsTheme],
+/// or [bottomNavigationBarTheme].
+///
+/// See also:
+///
+///  * [ThemeData.from], which creates a ThemeData from a [ColorScheme].
+///  * [ThemeData.light], which creates the default light theme.
+///  * [ThemeData.dark], which creates the default dark theme.
+///  * [ColorScheme.fromSeed], which is used to create a [ColorScheme] from a seed color.X§ô)¨  ¨# ¨*  ¨I3¨g  ¨‚-¨¦  ¨µ*¨Ì  ¨å,¨ı  ©*©.  ©G©X  ©e"©z  ©+©¬  ©¾©Å  ©Ö©æ  ªª  ª#ª0  ª?ªG  «:«B  «R«Z  «h«p  «Š«’  «¤«¬  «½«Å  «Ô«Ü  «ï«÷  ¬¬  ¬¬$  ¬7¬?  ¬P¬X  ¬m¬u  ¬‹¬›  ¬­¬µ  ¬Ñ¬Ù  ¬ò¬ú  ­
+­  ­"­*  ­d­m  ­| ­‹  ­¢­«  ­·­Ç  ­Õ­å  ­ú®  ®®'  ®5®B  ®i$®  ®“®¡  ®±®Â  ®Ñ$®ë  ®û$¯  ¯%6¯D  ¯a&¯x  ¯¯Ÿ  ¯ó¯ü  °
+ °  °0°@  °N"°c  °v$°Œ  °æ°ï  °ÿ±  ±#±5  ±E(±]  ±s,±  ±¥*±¾  ±Õ(±í  ²8²#  ²A$²W  ²k ²  ²‘²¤  ²µ$²Ë  ²ß²ï  ²ı*³  ³-0³I  ³c,³}  ³•,³¯  ³Ç"³Ü  ³ï2´  ´'´8  ´G"´\  ´o$´…  ´™.´´  ´Í´ß  ´ï µ  µµ'  µ}µ†  µ–$µ¬  µÀ*µÙ  µğ$¶  ¶*¶3  ¶J¶]  ¶¤€˜·/  ¶¤¶¥¶¯·¶·¶ÙÀ n
+lÀ o„À o…À oˆ\/// Create a [ThemeData] given a set of exact values. Most values must be
+/// specified. They all must also be non-null except for
+/// [cupertinoOverrideTheme], and deprecated members.
+///
+/// This will rarely be used directly. It is used by [lerp] to
+/// create intermediate themes based on two themes created with the
+/// [ThemeData] constructor.RÀ p½À pÌ  À pŞ(À pí  À q$À q  À q6À qE  À qT"À qc  À q|#À q‹  À q¥"À q´  À qÍÀ qÜ  À qéÀ qø  À rÀ r  À r,À r;  À rLÀ r[  À rzÀ r‰  À sxÀ s‡  À s—À s¦  À s´#À sÃ  À sİÀ sì  À sşÀ t  À tÀ t-  À t<À tK  À t^À tm  À t{À tŠ  À t™À t¨  À t»À tÊ  À tÛÀ tê  À tÿÀ u  À u$%À u3  À uO"À u^  À uwÀ u†  À u–À u¥  À uµ#À uÄ  À uşÀ v  À vÀ v*  À v?À vN  À vcÀ vr  À v€À v  À v¶À vÅ  À vÙÀ vè  À vøÀ w  À wÀ w%  À w5À wD  À wZ&À wi  À w†À w•  À wªÀ w¹  À wÉÀ wØ  À wæÀ wõ  À xÀ x  À x$À x3  À xFÀ xU  À xiÀ xx  À xˆÀ x—  À x¨À x·  À xÇÀ xÖ  À xì!À xû  À y À y"  À y9À yH  À y^'À ym  À y‹À yš  À y®À y½  À yÏÀ yŞ  À yïÀ yş  À zÀ z!  À z/ À z>  À zU#À zd  À z~!À z  À z¥!À z´  À zÌÀ zÛ  À zî$À zı  À {À {'  À {6À {E  À {XÀ {g  À {{"À {Š  À {£À {²  À {ÂÀ {Ñ  À {ãÀ {ò  À |À |  À |!À |0  À |D À |S  À |jÀ |y  À | À |œ  À |³À |Â  À }	€˜À }”  À }	À }
+À }À }yÀ }À }>À ~>À ~.À ~@À ~WÀ ~]À ~tÀ ~mÀ ~^À ~pÀ ~zˆ2À ‚ØÀ ‚ÙÀ ‚İ„/// Create a [ThemeData] based on the colors in the given [colorScheme] and
+/// text styles of the optional [textTheme].
+///
+/// If [colorScheme].brightness is [Brightness.dark] then
+/// [ThemeData.applyElevationOverlayColor] will be set to true to support
+/// the Material dark theme method for indicating elevation by applying
+/// a semi-transparent onSurface color on top of the surface color.
+///
+/// This is the recommended method to theme your application. As we move
+/// forward we will be converting all the widget implementations to only use
+/// colors or colors derived from those in [ColorScheme].
+///
+/// {@tool snippet}
+/// This example will set up an application to use the baseline Material
+/// Design light and dark themes.
+///
+/// ```dart
+/// MaterialApp(
+///   theme: ThemeData.from(colorScheme: const ColorScheme.light()),
+///   darkTheme: ThemeData.from(colorScheme: const ColorScheme.dark()),
+/// )
+/// ```
+/// {@end-tool}
+///
+/// See <https://material.io/design/color/> for
+/// more discussion on how to pick the right colors.À ‚ä À ‚ú  À ƒ
+À ƒ  À ƒ$À ƒ+   À †°AÀ ‡€À ‡À ‡†€¶/// A default light theme.
+///
+/// This theme does not contain text geometry. Instead, it is expected that
+/// this theme is localized using text geometry using [ThemeData.localize].À ‡ˆÀ ‡   À ‡õ>À ˆÄÀ ˆÅÀ ˆÉ€µ/// A default dark theme.
+///
+/// This theme does not contain text geometry. Instead, it is expected that
+/// this theme is localized using text geometry using [ThemeData.localize].À ˆËÀ ˆÒ   À ‰7ïÀ Š×À ŠØÀ Šà|/// The default color theme. Same as [ThemeData.light].
+///
+/// This is used by [Theme.of] when no theme has been specified.
+///
+/// This theme does not contain text geometry. Instead, it is expected that
+/// this theme is localized using text geometry using [ThemeData.localize].
+///
+/// Most applications would use [Theme.of], which provides correct localized
+/// text geometry.À ŠâÀ Šé   TÀ Ÿ‡À –†Ÿ/// Apply a semi-transparent overlay color on Material surfaces to indicate
+/// elevation for dark themes.
+///
+/// If [useMaterial3] is true, then this flag is ignored as there is a new
+/// [Material.surfaceTintColor] used to create an overlay for Material 3.
+/// This flag is meant only for the Material 2 elevation overlay for dark
+/// themes.
+///
+/// Material drop shadows can be difficult to see in a dark theme, so the
+/// elevation of a surface should be portrayed with an "overlay" in addition
+/// to the shadow. As the elevation of the component increases, the
+/// overlay increases in opacity. [applyElevationOverlayColor] turns the
+/// application of this overlay on or off for dark themes.
+///
+/// If true and [brightness] is [Brightness.dark], a
+/// semi-transparent version of [ColorScheme.onSurface] will be
+/// applied on top of [Material] widgets that have a [ColorScheme.surface]
+/// color. The level of transparency is based on [Material.elevation] as
+/// per the Material Dark theme specification.
+///
+/// If false the surface color will be used unmodified.
+///
+/// Defaults to false in order to maintain backwards compatibility with
+/// apps that were built before the Material Dark theme specification
+/// was published. New apps should set this to true for any themes
+/// where [brightness] is [Brightness.dark].
+///
+/// See also:
+///
+///  * [Material.elevation], which effects the level of transparency of the
+///    overlay color.
+///  * [ElevationOverlay.applyOverlay], which is used by [Material] to apply
+///    the overlay color to its surface color.
+///  * <https://material.io/design/color/dark-theme.html>, which specifies how
+///    the overlay should be applied. À –¯‚sÀ ™‚%/// Components of the [CupertinoThemeData] to override from the Material
+/// [ThemeData] adaptation.
+///
+/// By default, [cupertinoOverrideTheme] is null and Cupertino widgets
+/// descendant to the Material [Theme] will adhere to a [CupertinoTheme]
+/// derived from the Material [ThemeData]. e.g. [ThemeData]'s [ColorScheme]
+/// will also inform the [CupertinoThemeData]'s `primaryColor` etc.
+///
+/// This cascading effect for individual attributes of the [CupertinoThemeData]
+/// can be overridden using attributes of this [cupertinoOverrideTheme]. À ™'‚~À ››‚&/// Arbitrary additions to this theme.
+///
+/// To define extensions, pass an [Iterable] containing one or more [ThemeExtension]
+/// subclasses to [ThemeData.new] or [copyWith].
+///
+/// To obtain an extension, use [extension].
+///
+/// {@tool dartpad}
+/// This sample shows how to create and use a subclass of [ThemeExtension] that
+/// defines two colors.
+///
+/// ** See code in examples/api/lib/material/theme/theme_extension.1.dart **
+/// {@end-tool}
+///
+/// See also:
+///
+/// * [extension], a convenience function for obtaining a specific extension. À œ¡€şÀ ’€Ä/// A map which contains the adaptations for the theme. The entry's key is the
+/// type of the adaptation; the value is the adaptation itself.
+///
+/// To obtain an adaptation, use [getAdaptation]. À ¤€áÀ q€©/// The default [InputDecoration] values for [InputDecorator], [TextField],
+/// and [TextFormField] are based on this theme.
+///
+/// See [InputDecoration.applyDefaults]. À Š!À Ÿ–€å/// Configures the hit test size of certain Material widgets.
+///
+/// Defaults to a [platform]-appropriate size: [MaterialTapTargetSize.padded]
+/// on mobile platforms, [MaterialTapTargetSize.shrinkWrap] on desktop
+/// platforms. À Ÿ°;À  ×/// Default [MaterialPageRoute] transitions per [TargetPlatform].
+///
+/// [MaterialPageRoute.buildTransitions] delegates to a [platform] specific
+/// [PageTransitionsBuilder]. If a matching builder is not found, a builder
+/// whose platform is null is used. À  ğ…éÀ ¦Ñ…™/// The platform the material widgets should adapt to target.
+///
+/// Defaults to the current platform, as exposed by [defaultTargetPlatform].
+/// This should be used in order to style UI elements according to platform
+/// conventions.
+///
+/// Widgets from the material library should use this getter (via [Theme.of])
+/// to determine the current platform for the purpose of emulating the
+/// platform behavior (e.g. scrolling or haptic effects). Widgets and render
+/// objects at lower layers that try to emulate the underlying platform
+/// can depend on [defaultTargetPlatform] directly, or may require
+/// that the target platform be provided as an argument. The
+/// [dart:io.Platform] object should only be used directly when it's critical
+/// to actually know the current platform, without any overrides possible (for
+/// example, when a system API is about to be called).
+///
+/// In a test environment, the platform returned is [TargetPlatform.android]
+/// regardless of the host platform. (Android was chosen because the tests
+/// were originally written assuming Android-like behavior, and we added
+/// platform adaptations for other platforms later). Tests can check behavior
+/// for other platforms by setting the [platform] of the [Theme] explicitly to
+/// another [TargetPlatform] value, or by setting
+/// [debugDefaultTargetPlatformOverride].
+///
+/// Determines the defaults for [typography] and [materialTapTargetSize]. À ¦ŞwÀ §GM/// A theme for customizing the colors, thickness, and shape of [Scrollbar]s. À §ZŞÀ ©+™/// Defines the appearance of ink splashes produces by [InkWell]
+/// and [InkResponse].
+///
+/// See also:
+///
+///  * [InkSplash.splashFactory], which defines the default splash.
+///  * [InkRipple.splashFactory], which defines a splash that spreads out
+///    more aggressively than the default.
+///  * [InkSparkle.splashFactory], which defines a more aggressive and organic
+///    splash with sparkle effects. À ©=UÀ ¹†—/// A temporary flag that can be used to opt-out of Material 3 features.
+///
+/// This flag is _true_ by default. If false, then components will
+/// continue to use the colors, typography and other features of
+/// Material 2.
+///
+/// In the long run this flag will be deprecated and eventually
+/// only Material 3 will be supported. We recommend that applications
+/// migrate to Material 3 as soon as that's practical. Until that migration
+/// is complete, this flag can be set to false.
+///
+/// ## Defaults
+///
+/// If a [ThemeData] is _constructed_ with [useMaterial3] set to true, then
+/// some properties will get updated defaults. However, the
+/// [ThemeData.copyWith] method with [useMaterial3] set to true will _not_
+/// change any of these properties in the resulting [ThemeData].
+///
+/// <style>table,td,th { border-collapse: collapse; padding: 0.45em; } td { border: 1px solid }</style>
+///
+/// | Property        | Material 3 default             | Material 2 default             |
+/// | :-------------- | :----------------------------- | :----------------------------- |
+/// | [colorScheme]   | M3 baseline light color scheme | M2 baseline light color scheme |
+/// | [typography]    | [Typography.material2021]      | [Typography.material2014]      |
+/// | [splashFactory] | [InkSparkle]* or [InkRipple]   | [InkSplash]                    |
+///
+/// \* if the target platform is Android and the app is not
+/// running on the web, otherwise it will fallback to [InkRipple].
+///
+/// If [brightness] is [Brightness.dark] then the default color scheme will
+/// be either the M3 baseline dark color scheme or the M2 baseline dark color
+/// scheme depending on [useMaterial3].
+///
+/// ## Affected widgets
+///
+/// This flag affects styles and components.
+///
+/// ### Styles
+///   * Color: [ColorScheme], [Material] (see table above)
+///   * Shape: (see components below)
+///   * Typography: [Typography] (see table above)
+///
+/// ### Components
+///   * Badges: [Badge]
+///   * Bottom app bar: [BottomAppBar]
+///   * Bottom sheets: [BottomSheet]
+///   * Buttons
+///     - Common buttons: [ElevatedButton], [FilledButton], [FilledButton.tonal], [OutlinedButton], [TextButton]
+///     - FAB: [FloatingActionButton], [FloatingActionButton.extended]
+///     - Icon buttons: [IconButton], [IconButton.filled] (*new*), [IconButton.filledTonal], [IconButton.outlined]
+///     - Segmented buttons: [SegmentedButton] (replacing [ToggleButtons])
+///   * Cards: [Card]
+///   * Checkbox: [Checkbox], [CheckboxListTile]
+///   * Chips:
+///     - [ActionChip] (used for Assist and Suggestion chips),
+///     - [FilterChip], [ChoiceChip] (used for single selection filter chips),
+///     - [InputChip]
+///   * Date pickers: [showDatePicker], [showDateRangePicker], [DatePickerDialog], [DateRangePickerDialog], [InputDatePickerFormField]
+///   * Dialogs: [AlertDialog], [Dialog.fullscreen]
+///   * Divider: [Divider], [VerticalDivider]
+///   * Lists: [ListTile]
+///   * Menus: [MenuAnchor], [DropdownMenu], [MenuBar]
+///   * Navigation bar: [NavigationBar] (replacing [BottomNavigationBar])
+///   * Navigation drawer: [NavigationDrawer] (replacing [Drawer])
+///   * Navigation rail: [NavigationRail]
+///   * Progress indicators: [CircularProgressIndicator], [LinearProgressIndicator]
+///   * Radio button: [Radio], [RadioListTile]
+///   * Search: [SearchBar], [SearchAnchor],
+///   * Snack bar: [SnackBar]
+///   * Slider: [Slider], [RangeSlider]
+///   * Switch: [Switch], [SwitchListTile]
+///   * Tabs: [TabBar], [TabBar.secondary]
+///   * TextFields: [TextField] together with its [InputDecoration]
+///   * Time pickers: [showTimePicker], [TimePickerDialog]
+///   * Top app bar: [AppBar], [SliverAppBar], [SliverAppBar.medium], [SliverAppBar.large]
+///
+/// In addition, this flag enables features introduced in Android 12.
+///   * Stretch overscroll: [MaterialScrollBehavior]
+///   * Ripple: `splashFactory` (see table above)
+///
+/// See also:
+///
+///   * [Material 3 specification](https://m3.material.io/). À ¹—‡vÀ Á ‡/// The density value for specifying the compactness of various UI components.
+///
+/// {@template flutter.material.themedata.visualDensity}
+/// Density, in the context of a UI, is the vertical and horizontal
+/// "compactness" of the elements in the UI. It is unitless, since it means
+/// different things to different UI elements. For buttons, it affects the
+/// spacing around the centered label of the button. For lists, it affects the
+/// distance between baselines of entries in the list.
+///
+/// Typically, density values are integral, but any value in range may be
+/// used. The range includes values from [VisualDensity.minimumDensity] (which
+/// is -4), to [VisualDensity.maximumDensity] (which is 4), inclusive, where
+/// negative values indicate a denser, more compact, UI, and positive values
+/// indicate a less dense, more expanded, UI. If a component doesn't support
+/// the value given, it will clamp to the nearest supported value.
+///
+/// The default for visual densities is zero for both vertical and horizontal
+/// densities, which corresponds to the default visual density of components
+/// in the Material Design specification.
+///
+/// As a rule of thumb, a change of 1 or -1 in density corresponds to 4
+/// logical pixels. However, this is not a strict relationship since
+/// components interpret the density values appropriately for their needs.
+///
+/// A larger value translates to a spacing increase (less dense), and a
+/// smaller value translates to a spacing decrease (more dense).
+///
+/// In Material Design 3, the [visualDensity] does not override the value of
+/// [IconButton.visualDensity] which defaults to [VisualDensity.standard]
+/// for all platforms. To override the default value of [IconButton.visualDensity],
+/// use [ThemeData.iconButtonTheme] instead.
+/// {@endtemplate} À ÁTÀ Ág:/// The default color of [MaterialType.canvas] [Material]. À ÁwPÀ Á¾8/// The color of [Material] when it is used as a [Card]. À ÁÌ¼À Ã}/// {@macro flutter.material.color_scheme.ColorScheme}
+///
+/// This property was added much later than the theme's set of highly specific
+/// colors, like [cardColor], [canvasColor] etc. New components can be defined
+/// exclusively in terms of [colorScheme]. Existing components will gradually
+/// migrate to it, to the extent that is possible without significant
+/// backwards compatibility breaks. À ÃRÀ ÃÊ./// The background color of [Dialog] elements. À Ãä€½À Ä”€/// The color used for widgets that are inoperative, regardless of
+/// their state. For example, a disabled checkbox (which may be
+/// checked or unchecked). À Ä¦À Å­€ğ/// The color of [Divider]s and [PopupMenuDivider]s, also used
+/// between [ListTile]s, between rows in [DataTable]s, and so forth.
+///
+/// To create an appropriate [BorderSide] that uses this color, consider
+/// [Divider.createBorderSide]. À Å¾`À ÆG/// The focus color used indicate that a component has the input focus. À Æ#€ŠÀ ÆŸk/// The highlight color used during ink splash animations or to
+/// indicate an item in a menu is selected. À Æ²qÀ ÇW/// The color to use for hint text or placeholder text, e.g. in
+/// [TextField] fields. À Ç(pÀ ÇU/// The hover color used to indicate when a pointer is hovering over a
+/// component. À ÇVÀ Çå9/// The color of the selected tab indicator in a tab bar. À Çø…À Éq`/// The background color for major parts of the app (toolbars, tab bars, etc)
+///
+/// The theme's [colorScheme] property contains [ColorScheme.primary], as
+/// well as a color that contrasts well with the primary color called
+/// [ColorScheme.onPrimary]. It might be simpler to just configure an app's
+/// visuals in terms of the theme's [colorScheme]. À É‚JÀ É¼+/// A darker version of the [primaryColor]. À ÉÑLÀ Ê,/// A lighter version of the [primaryColor]. À Ê"€¼À ÊÇ€”/// The default color of the [Material] that underlies the [Scaffold]. The
+/// background color for a typical material app or a page within the app. À ÊãHÀ ÌS/// The color of the header of a [PaginatedDataTable] when there are selected rows. À Ì0ñÀ ÎÇ/// The color that the [Material] widget uses to draw elevation shadows.
+///
+/// Defaults to fully opaque black.
+///
+/// Shadows can be difficult to see in a dark theme, so the elevation of a
+/// surface should be rendered with an "overlay" in addition to the shadow.
+/// As the elevation of the component increases, the overlay increases in
+/// opacity. The [applyElevationOverlayColor] property turns the elevation
+/// overlay on or off for dark themes. À Î&€”À Î¯t/// The color of ink splashes.
+///
+/// See also:
+///  * [splashFactory], which defines the appearance of the splash. À Î¿€­À ÏW€‡/// The color used for widgets in their inactive (but enabled)
+/// state. For example, an unchecked checkbox. See also [disabledColor]. À ÏaÀ ÏèA/// An icon theme that contrasts with the card and canvas colors. À Ïö_À ĞE8/// An icon theme that contrasts with the primary color. À ĞZZÀ Ğ¤7/// A text theme that contrasts with the primary color. À Ğ¹aÀ ÑE/// Text with a color that contrasts with the card and canvas colors. À Ñ€§À Ñ¼€…/// The color and geometry [TextTheme] values used to configure [textTheme].
+///
+/// Defaults to a [platform]-appropriate typography. À Ñâ€ªÀ Ò}{/// A theme for customizing icons of [BackButtonIcon], [CloseButtonIcon],
+/// [DrawerButtonIcon], or [EndDrawerButtonIcon]. À Ò‘€‰À Óg/// A theme for customizing the color, elevation, brightness, iconTheme and
+/// textTheme of [AppBar]s. À ÓTÀ Ói2/// A theme for customizing the color of [Badge]s. À ÓxwÀ ÓäK/// A theme for customizing the color and text style of a [MaterialBanner]. À Óô|À Ô_P/// A theme for customizing the shape, elevation, and color of a [BottomAppBar]. À Ôu€›À Ôø[/// A theme for customizing the appearance and layout of [BottomNavigationBar]
+/// widgets. À Õ|À ÕN/// A theme for customizing the color, elevation, and shape of a bottom sheet. À Õ–€‰À Öc/// Defines the default configuration of button widgets, like [DropdownButton]
+/// and [ButtonBar]. À Ö$€ŒÀ Ö§h/// The colors and styles used to render [Card].
+///
+/// This is the value returned from [CardTheme.of]. À ÖµtÀ ×L/// A theme for customizing the appearance and layout of [Checkbox] widgets. À ×.€À ×²i/// The colors and styles used to render [Chip]s.
+///
+/// This is the value returned from [ChipTheme.of]. À ×À}À Ø/Q/// A theme for customizing the appearance and layout of [DataTable]
+/// widgets. À ØB€†À Ø¹X/// A theme for customizing the appearance and layout of [DatePickerDialog]
+/// widgets. À ØÍVÀ Ù2/// A theme for customizing the shape of a dialog. À Ù(€‘À Ù­i/// A theme for customizing the color, thickness, and indents of [Divider]s,
+/// [VerticalDivider]s, etc. À Ù¾nÀ Ú!J/// A theme for customizing the appearance and layout of [Drawer] widgets. À Ú1€€À Ú P/// A theme for customizing the appearance and layout of [DropdownMenu] widgets. À Ú¶€À Û1X/// A theme for customizing the appearance and internal layout of
+/// [ElevatedButton]s. À ÛIxÀ Û¯F/// A theme for customizing the visual properties of [ExpansionTile]s. À ÛÆ€ˆÀ Ü=V/// A theme for customizing the appearance and internal layout of
+/// [FilledButton]s. À ÜS€À ÜØ\/// A theme for customizing the shape, elevation, and color of a
+/// [FloatingActionButton]. À Üö€‚À İiT/// A theme for customizing the appearance and internal layout of
+/// [IconButton]s. À İ}iÀ İÙA/// A theme for customizing the appearance of [ListTile] widgets. À İë€³À Ş’€‹/// A theme for customizing the color, shape, elevation, and other [MenuStyle]
+/// aspects of the menu bar created by the [MenuBar] widget. À Ş£€ÃÀ ßW€•/// A theme for customizing the color, shape, elevation, and text style of
+/// cascading menu buttons created by [SubmenuButton] or [MenuItemButton]. À ßk€¯À à€/// A theme for customizing the color, shape, elevation, and other [MenuStyle]
+/// attributes of menus created by the [SubmenuButton] widget. À à€›À à¨g/// A theme for customizing the background color, text style, and icon themes
+/// of a [NavigationBar]. À à¿€¤À áNj/// A theme for customizing the background color, text style, and icon themes
+/// of a [NavigationDrawer]. À áh€©À áşs/// A theme for customizing the background color, elevation, text style, and
+/// icon themes of a [NavigationRail]. À â€À â‘X/// A theme for customizing the appearance and internal layout of
+/// [OutlinedButton]s. À â©€‡À ã"[/// A theme for customizing the color, shape, elevation, and text style of
+/// popup menus. À ã5€À ã®U/// A theme for customizing the appearance and layout of [ProgressIndicator] widgets. À ãÉkÀ ä*I/// A theme for customizing the appearance and layout of [Radio] widgets. À ä9wÀ ä¢M/// A theme for customizing the appearance and layout of [SearchBar] widgets. À äµ€”À å:h/// A theme for customizing the appearance and layout of search views created by [SearchAnchor] widgets. À åN€‰À åÃS/// A theme for customizing the appearance and layout of [SegmentedButton] widgets. À åÜ€”À æel/// The colors and shapes used to render [Slider].
+///
+/// This is the value returned from [SliderTheme.of]. À æu{À æãS/// A theme for customizing colors, shape, elevation, and behavior of a [SnackBar]. À æõnÀ çXJ/// A theme for customizing the appearance and layout of [Switch] widgets. À çhtÀ çÑP/// A theme for customizing the size, shape, and color of the tab bar indicator. À çá€‚À èTT/// A theme for customizing the appearance and internal layout of
+/// [TextButton]s. À èhÀ èÕM/// A theme for customizing the appearance and layout of [TextField] widgets. À èìyÀ éVM/// A theme for customizing the appearance and layout of time picker widgets. À éjsÀ éËA/// Defines the default configuration of [ToggleButtons] widgets. À éâ€¥À ê{{/// A theme for customizing the visual properties of [Tooltip]s.
+///
+/// This is the value returned from [TooltipTheme.of]. À ë‡)À ë¡  À
+1À À:À@€ğÀÀ>/// Caches localized themes to speed up the [localize] method.ÀáÀëÀÀìÀÀÀ/ÀÀ YÀ Q€Ş/// The overall theme brightness.
+///
+/// The default [TextStyle] color for the [textTheme] is black if the
+/// theme is constructed with [Brightness.light] and white if the
+/// theme is constructed with [Brightness.dark].   À êŒ€øÀ ëaM/// A theme for customizing the appearance and layout of [ButtonBar] widgets.  À êÜÀ êİÀ êçÀ ëFÀ êíÀ ëÀZ2‰ºÀZF   ÀZ2ÀZ3À ‹*€æÀ ‹×€—/// Used to obtain a particular [Adaptation] from [adaptationMap].
+///
+/// To get an adaptation, use `Theme.of(context).getAdaptation<MyAdaptation>()`.À ‹åÀ ‹å  À ŒAÀ Œ9  À ŒN(À Œl   À ›ª€óÀ œw€¿/// Used to obtain a particular [ThemeExtension] from [extensions].
+///
+/// Obtain with `Theme.of(context).extension<MyThemeExtension>()`.
+///
+/// See [extensions] for an interactive example.À œÀ œ  À ëµ­+À ì^€˜/// Creates a copy of this theme but with the given fields replaced with the new values.
+///
+/// The [brightness] value is applied to the [colorScheme]. SÀ í›)À íº  À íÊ À íÑ  À íğ3À î  À î)-À îM  À î\*À îs  À îŒ,À î¤  À î¾*À îÕ  À îîÀ îÿ  À ï"À ï!  À ï4+À ïS  À ïeÀ ïu  À ï”À ï¢  À ï²À ï¿  À ğ­À ğµ  À ğÅÀ ğÍ  À ğÛÀ ğã  À ğıÀ ñ  À ñÀ ñ  À ñ0À ñ8  À ñGÀ ñO  À ñbÀ ñj  À ñxÀ ñ€  À ñÀ ñ—  À ñªÀ ñ²  À ñÃÀ ñË  À ñàÀ ñè  À ñşÀ ò  À ò"À ò*  À òCÀ òK  À ò[À òc  À òsÀ ò{  À òµÀ òÅ  À òÓÀ òã  À òøÀ ó  À óÀ ó%  À ó3À ó@  À óg$À ó}  À ó‘À óŸ  À ó¯À óÀ  À óÏ$À óé  À óù$À ô  À ô#6À ôB  À ô_&À ôv  À ô‹À ô  À ô­À ô¶  À ôÄ À ôØ  À ôêÀ ôú  À õ"À õ  À õ0$À õF  À õ À õ©  À õ¹À õÌ  À õİÀ õï  À õÿ(À ö  À ö-,À öG  À ö_*À öx  À ö(À ö§  À ö½8À öİ  À öû$À ÷  À ÷% À ÷9  À ÷KÀ ÷^  À ÷o$À ÷…  À ÷™À ÷©  À ÷·*À ÷Ğ  À ÷ç0À ø  À ø,À ø7  À øO,À øi  À ø"À ø–  À ø©2À øÆ  À øáÀ øò  À ù"À ù  À ù)$À ù?  À ùS.À ùn  À ù‡À ù™  À ù© À ù½  À ùÏÀ ùá  À ú7À ú@  À úP$À úf  À úz*À ú“  À úª$À úÀ  À úÔ*À úí  À ûÀ û  À û^rÀ üÅ  À üÖ€˜À ıa  À û^À û_À ûiÀ ü¸À ûqÀ û¹À û÷À ü<À ü~À üÖÀ ü×À üáÀ ıFÀ üéÀ ıÀ5†ÀôŸ/// Returns a new theme built by merging the text geometry provided by the
+/// [localTextGeometry] theme with the [baseTheme].
+///
+/// For those text styles in the [baseTheme] whose [TextStyle.inherit] is set
+/// to true, the returned theme's text styles inherit the geometric properties
+/// of [localTextGeometry]. The resulting text styles' [TextStyle.inherit] is
+/// set to those provided by [localTextGeometry]. ÀıÀ  ÀÀ   À!?ƒÁÀ"5€Ù/// Determines whether the given [Color] is [Brightness.light] or
+/// [Brightness.dark].
+///
+/// This compares the luminosity of the given color to a threshold value that
+/// matches the Material Design specification. À"PÀ"W   À%ƒ$À%È€/// Linearly interpolate between two [extensions].
+///
+/// Includes all theme extensions in [a] and [b].
+///
+/// {@macro dart.ui.shadow.lerp} À%İÀ%è  À%êÀ%õ  À%÷À%ÿ   À(,‚fÀ)€©/// Convert the [extensionsIterable] passed to [ThemeData.new] or [copyWith]
+/// to the stored [extensions] map, where each entry's key consists of the extension's type. À)#4À)F   À*–œöÀ*ÿQ/// Linearly interpolate between two themes.
+///
+/// {@macro dart.ui.shadow.lerp} À+À+  À+À+  À+À+&   ÀG’ÀGª  ÀG­ÀGµ  ÀGÀG‘Àcğ³ÃÀd  Àd&Àd2  ÀcğÀcñGHÀ—·’XÀa„/// A [CupertinoThemeData] that defers unspecified theme attributes to an
+/// upstream Material [ThemeData].
+///
+/// This type of [CupertinoThemeData] is used by the Material [Theme] to
+/// harmonize the [CupertinoTheme] with the material theme's colors and text
+/// styles.
+///
+/// In the most basic case, [ThemeData]'s `cupertinoOverrideTheme` is null and
+/// descendant Cupertino widgets' styling is derived from the Material theme.
+///
+/// To override individual parts of the Material-derived Cupertino styling,
+/// `cupertinoOverrideTheme`'s construction parameters can be used.
+///
+/// To completely decouple the Cupertino styling from Material theme derivation,
+/// another [CupertinoTheme] widget can be inserted as a descendant of the
+/// Material [Theme]. On a [MaterialApp], this can be done using the `builder`
+/// parameter on the constructor.
+///
+/// See also:
+///
+///  * [CupertinoThemeData], whose null constructor parameters default to
+///    reasonable iOS styling defaults rather than harmonizing with a Material
+///    theme.
+///  * [Theme], widget which inserts a [CupertinoTheme] with this
+///    [MaterialBasedCupertinoThemeData]. À = ÀÀ8t/// Create a [MaterialBasedCupertinoThemeData] based on a Material [ThemeData]
+/// and its `cupertinoOverrideTheme`.À? ÀS  ÀhÀlÀmÀnÀÛÀtÀ‡ÀÊÀ­ÀˆÀ•À–À°À¶ÀÈÀÉÀËÀÌÀÕÀÖÀá‚{ÀŸ ÀŸÀŸ ÀŸÀŸ  ÀŸ!ÀŸ'  ÀŸíÀŸòÀŸóÀŸöÀ¡ZÀ  À À À ,À CÀ DÀ ZÀ qÀ rÀ “À ªÀ «À ¾À ÕÀ ÖÀ òÀ¡	À¡
+À¡+À¡BÀ¡CÀ¡`À¡p  À¡‚9À¡¤  À¡ÀiÀ¡Û   À¡ÀÀ¡ÁÀ¢-qÀ¢C   À¢-À¢.À¢¢€‰À¢¸   À¢¢À¢£À£/€‹À£E   À£/À£0À£¾…À¦ ‚!/// Copies the [ThemeData]'s `cupertinoOverrideTheme`.
+///
+/// Only the specified override attributes of the [ThemeData]'s
+/// `cupertinoOverrideTheme` and the newly specified parameters are in the
+/// returned [CupertinoThemeData]. No derived attributes from iOS defaults or
+/// from cascaded Material theme attributes are copied.
+///
+/// This [copyWith] cannot change the base Material [ThemeData]. To change the
+/// base Material [ThemeData], create a new Material [Theme] and use
+/// [ThemeData.copyWith] on the Material [ThemeData] instead. À¦/À¦<  À¦KÀ¦S  À¦dÀ¦l  À¦ˆ!À¦¡  À¦¯À¦·  À¦ÎÀ¦Ö  À¦òÀ¦ù  À¥ôÀ¥õÀ¨ÃJÀ¨â  À¨îÀ¨ü  À¨ÃÀ¨Ä Àª„ÈÀ¬`‚H/// A class for creating a Material theme with a color scheme based off of the
+/// colors from a [CupertinoThemeData]. This is intended to be used only in the
+/// case when a Material widget is unable to find a Material theme in the tree,
+/// but is able to find a Cupertino theme. Most often this will occur when a
+/// Material widget is used inside of a [CupertinoApp].
+///
+/// Besides the colors, this theme will use all the defaults from Material's
+/// [ThemeData], so if further customization is needed, it is best to manually
+/// add a Material [Theme] above the [CupertinoApp]. À¬„Ü À¬òÀ­i/// Creates a Material theme with a color scheme based off of the colors from
+/// a [CupertinoThemeData].À­%À­5  $À­TÀ­FÀ­VÀ­_À®^À­rÀ­gÀ­tÀ­À­€À­ˆÀ®XÀ­›À­’À­À­¦À­§À­ÇÀ­½À­ŞÀ­ÉÀ­ÒÀ­ÓÀ­áÀ­ëÀ­ìÀ®À­ûÀ®À®À®À®-À®$À®/À®8À®9À®drÀ®ÉR/// The Material theme data with colors based on an existing [CupertinoThemeData].    À®Û‚ÔÀ®ì  À¯I À¯À¯+ À¯,À¯2  À¯<À¯B   À¯XÀ¯h  À¯u!À¯…  À°bÀ°   À°À°À°hEÀ°‚  À°…À°  À°hÀ°iÀ®ÛÀ®ÜÀ±±„À²¨€ğ/// Cache of objects of limited size that uses the first in first out eviction
+/// strategy (a.k.a least recently inserted).
+///
+/// The key that was inserted before all other keys is evicted first, i.e. the
+/// one inserted least recently.À²³À²³À²¶À²¶À²½9 À²½À²Ç À²ÈÀ²Î  À²İÀ²ãÀ²ôÀ²ñÀ²äÀ²óÀ²ú€ËÀ³´€£/// In Dart the map literal uses a linked hash-map implementation, whose keys
+/// are stored such that [Map.keys] returns them in the order they were
+/// inserted.À³ÃÀ³ÄÀ³½À³ÂÀ³¾À³ÁÀ³Ê€ÎÀ´Œ€¯/// Maximum number of entries to store in the cache.
+///
+/// Once this many entries have been cached, the entry inserted least recently
+/// is evicted when adding a new entry.  À´ Àµ%€/// Returns the previously cached value for the given key, if available;
+/// if not, calls the given callback to obtain it first. Àµ1Àµ4  Àµ8ÀµF    À¶A£À»Á…n/// Defines the visual density of user interface components.
+///
+/// Density, in the context of a UI, is the vertical and horizontal
+/// "compactness" of the components in the UI. It is unitless, since it means
+/// different things to different UI components.
+///
+/// The default for visual densities is zero for both vertical and horizontal
+/// densities, which corresponds to the default visual density of components in
+/// the Material Design specification. It does not affect text sizes, icon
+/// sizes, or padding values.
+///
+/// For example, for buttons, it affects the spacing around the child of the
+/// button. For lists, it affects the distance between baselines of entries in
+/// the list. For chips, it only affects the vertical size, not the horizontal
+/// size.
+///
+/// Here are some examples of widgets that respond to density changes:
+///
+///  * [Checkbox]
+///  * [Chip]
+///  * [ElevatedButton]
+///  * [IconButton]
+///  * [InputDecorator] (which gives density support to [TextField], etc.)
+///  * [ListTile]
+///  * [MaterialButton]
+///  * [OutlinedButton]
+///  * [Radio]
+///  * [RawMaterialButton]
+///  * [TextButton]
+///
+/// See also:
+///
+///  * [ThemeData.visualDensity], where this property is used to specify the base
+///    horizontal density of Material components.
+///  * [Material design guidance on density](https://material.io/design/layout/applying-density.html). À»ç¶ À¼ªÀ¼·€´/// A const constructor for [VisualDensity].
+///
+/// The [horizontal] and [vertical] arguments must be in the interval between
+/// [minimumDensity] and [maximumDensity], inclusive.À¼¾À¼Ä  À¼ÙÀ¼ß  À¼ĞÀ¼éÀ¼õÀ¼ûÀ½À½À¼üÀ½À½ À½&À½AÀ½0À½'À½3À½KÀ½QÀ½nÀ½]À½RÀ½`À½xÀ½~À½›À½ŠÀ½À½À½¡LÀ½Ø /// The minimum allowed density.À½éÀ½êÀ½òKÀ¾) /// The maximum allowed density.À¾:À¾B-À¿U€í/// The default profile for [VisualDensity] in [ThemeData].
+///
+/// This default value represents a visual density that is less dense than
+/// either [comfortable] or [compact], and corresponds to density values of
+/// zero in both axes.À¿`À¿mÀ¿nÀ¿t‚ÀÁN®/// The profile for a "comfortable" interpretation of [VisualDensity].
+///
+/// Individual components will interpret the density value independently,
+/// making themselves more visually dense than [standard] and less dense than
+/// [compact] to different degrees based on the Material Design specification
+/// of the "comfortable" setting for their particular use case.
+///
+/// It corresponds to a density value of -1 in both axes.ÀÁ\ÀÁiÀÁŠÀÁtÀÁjÀÁvÀÁwÀÁ„ÀÁ|ÀÁ†ÀÁ‡ÀÁ‚ÀÃZ/// The profile for a "compact" interpretation of [VisualDensity].
+///
+/// Individual components will interpret the density value independently,
+/// making themselves more visually dense than [standard] and [comfortable] to
+/// different degrees based on the Material Design specification of the
+/// "comfortable" setting for their particular use case.
+///
+/// It corresponds to a density value of -2 in both axes.ÀÃdÀÃqÀÃ’ÀÃ|ÀÃrÀÃ~ÀÃÀÃŒÀÃ„ÀÃÀÃÀÊ(‚ğÀÍ‚¼/// The horizontal visual density of UI components.
+///
+/// This property affects only the horizontal spacing between and within
+/// components, to allow for different UI visual densities. It does not affect
+/// text sizes, icon sizes, or padding values. The default value is 0.0,
+/// corresponding to the metrics specified in the Material Design
+/// specification. The value can range from [minimumDensity] to
+/// [maximumDensity], inclusive.
+///
+/// See also:
+///
+///  * [ThemeData.visualDensity], where this property is used to specify the base
+///    horizontal density of Material components.
+///  * [Material design guidance on density](https://material.io/design/layout/applying-density.html). ÀÍ‚èÀÏı‚¶/// The vertical visual density of UI components.
+///
+/// This property affects only the vertical spacing between and within
+/// components, to allow for different UI visual densities. It does not affect
+/// text sizes, icon sizes, or padding values. The default value is 0.0,
+/// corresponding to the metrics specified in the Material Design
+/// specification. The value can range from [minimumDensity] to
+/// [maximumDensity], inclusive.
+///
+/// See also:
+///
+///  * [ThemeData.visualDensity], where this property is used to specify the base
+///    vertical density of Material components.
+///  * [Material design guidance on density](https://material.io/design/layout/applying-density.html). ÀÃ˜‚ºÀÆ‚:/// Returns a [VisualDensity] that is adaptive based on the current platform
+/// on which the framework is executing, from [defaultTargetPlatform].
+///
+/// When [defaultTargetPlatform] is a desktop platform, this returns
+/// [compact], and for other platforms, it returns a default-constructed
+/// [VisualDensity].
+///
+/// See also:
+///
+/// * [defaultDensityForPlatform] which returns a [VisualDensity] that is
+///   adaptive based on the platform given to it.
+/// * [defaultTargetPlatform] which returns the platform on which the
+///   framework is currently executing.   ÀĞ
+‚§ÀÑtP/// The base adjustment in logical pixels of the visual density of UI components.
+///
+/// The input density values are multiplied by a constant to arrive at a base
+/// size adjustment that fits Material Design guidelines.
+///
+/// Individual components may adjust this value based upon their own
+/// individual interpretation of density.   À×]BÀ×q   À×]À×^ÀÆV‚›ÀÇàb/// Returns a [VisualDensity] that is adaptive based on the given [platform].
+///
+/// For desktop platforms, this returns [compact], and for other platforms, it
+/// returns a default-constructed [VisualDensity].
+///
+/// See also:
+///
+/// * [adaptivePlatformDensity] which returns a [VisualDensity] that is
+///   adaptive based on [defaultTargetPlatform]. ÀÇúÀÈ
+   ÀÈõ/ÀÉd\/// Copy the current [VisualDensity] with the given values replacing the
+/// current values. ÀÉsÀÉ|  ÀÉ‹ÀÉ”   ÀÒµEÀÒü//// Linearly interpolate between two densities. ÀÓÀÓ  ÀÓÀÓ!  ÀÓ#ÀÓ+   ÀÓş‚nÀÕ€ù/// Return a copy of [constraints] whose minimum width and height have been
+/// updated with the [baseSizeAdjustment].
+///
+/// The resulting minWidth and minHeight values are clamped to not exceed the
+/// maxWidth and maxHeight values, respectively. ÀÕ&ÀÕ6   ÀÖp€éÀÖŠ  ÀÖÀÖ•  ÀÖpÀÖqÀ×£À×´  À×È&À×å  À×£À×¤ÀØÂ€—ÀØÕ   ÀØÂÀØÃÀ»°À»± “@„•Ş‚˜/// Configures the tap target and layout size of certain Material widgets.
+///
+/// Changing the value in [ThemeData.materialTapTargetSize] will affect the
+/// accessibility experience.
+///
+/// Some of the impacted widgets include:
+///
+///   * [FloatingActionButton], only the mini tap target size is increased.
+///   * [MaterialButton]
+///   * [OutlinedButton]
+///   * [TextButton]
+///   * [ElevatedButton]
+///   * [IconButton]
+///   * The time picker widget ([showTimePicker])
+///   * [SnackBar]
+///   * [Chip]
+///   * [RawChip]
+///   * [InputChip]
+///   * [ChoiceChip]
+///   * [FilterChip]
+///   * [ActionChip]
+///   * [Radio]
+///   * [Switch]
+///   * [Checkbox]  •ø€î–à€İ/// Expands the minimum tap target size to 48px by 48px.
+///
+/// This is the default value of [ThemeData.materialTapTargetSize] and the
+/// recommended size to conform to Android accessibility scanner
+/// recommendations. –ëi—JZ/// Shrinks the tap target size to the minimum provided by the Material
+/// specification.           ÀÚs‡©ÀÚ… .ÀÚ›ÀÚ¦ÀâÀÚ´ÀÚªÀÚ¶ÀÚÀÀÚÁÀÚÑÀÚÊÀÚÓÀÚØÀÚãÀÚÙÀÚñÀÚèÀÚóÀÚøÀÛÀÚùÀÛÀÛÀÛÀÛÀÛ*ÀÛ ÀÛAÀÛ/ÀÛCÀÛHÀÛSÀÛIÀÛdÀÛXÀÛfÀÛkÀÛvÀÛlÀÛŠÀÛ{ÀÛŒÀÛ‘ÀÛœÀÛ’ÀÛ¯ÀÛ¡ÀÛ±ÀÛ¶ÀÛÁÀÛ·ÀÛÛÀÛÆÀÛİÀÛâÀÛíÀÛãÀÛûÀÛòÀÛıÀÜÀÜÀÜÀÜÀÜÀÜÀÜ$ÀÜ/ÀÜ%ÀÜFÀÜ4ÀÜHÀÜMÀÜXÀÜNÀÜqÀÜ]ÀÜsÀÜxÀÜƒÀÜyÀÜ–ÀÜˆÀÜ˜ÀÜÀÜ¨ÀÜÀÜ¾ÀÜ­ÀÜÀÀÜÅÀÜĞÀÜÆÀÜåÀÜÕÀÜçÀÜìÀÜ÷ÀÜíÀİÀÜüÀİÀİÀİ%ÀİÀİ2Àİ*Àİ4Àİ9ÀİDÀİ:ÀİSÀİIÀİUÀİZÀİeÀİ[Àİ{ÀİjÀİ}Àİ‚ÀİÀİƒÀİ¥Àİ’Àİ§Àİ¬Àİ·Àİ­ÀİÉÀİ¼ÀİËÀİĞÀİÛÀİÑÀİğÀİàÀİòÀİ÷ÀŞÀİøÀŞÀŞÀŞÀŞÀŞ(ÀŞÀŞCÀŞ-ÀŞEÀŞJÀŞUÀŞKÀŞ_ÀŞZÀŞaÀŞfÀŞqÀŞgÀŞ}ÀŞvÀŞÀŞ„ÀŞÀŞ…ÀŞ¢ÀŞ”ÀŞ¤ÀŞ©ÀŞ´ÀŞªÀŞÉÀŞ¹ÀŞËÀŞĞÀŞÛÀŞÑÀŞêÀŞàÀŞìÀŞñÀŞüÀŞòÀßÀßÀßÀßÀßÀßÀß+Àß$Àß-Àß2Àß=Àß3ÀßOÀßBÀßQÀßVÀßaÀßWÀß|ÀßfÀß~ÀßƒÀßÀß„Àß¦Àß“Àß¨Àß­Àß¸Àß®ÀßÍÀß½ÀßÏÀßÔÀßßÀßÕÀßøÀßäÀßúÀßÿÀà
+Àà Àà&ÀàÀà(Àà-Àà8Àà.ÀàGÀà=ÀàIÀàNÀàYÀàOÀàgÀà^ÀàiÀànÀàyÀàoÀàŒÀà~ÀàÀà“ÀàÀà”Àà³Àà£ÀàµÀàºÀàÅÀà»ÀàÑÀàÊÀàÓÀàØÀàãÀàÙÀàöÀàèÀàøÀàıÀáÀàşÀáÀáÀáÀáÀá%ÀáÀá/Àá*Àá1Àá6ÀáAÀá7ÀáTÀáFÀáVÀá[ÀáfÀá\Àá{ÀákÀá}Àá‚ÀáÀáƒÀá Àá’Àá¢Àá§Àá²Àá¨ÀâÀáûÀâÀâÀâÀâÀâ‡§Àâ1 .ÀâFÀâQÀéÅÀâ_ÀâUÀâaÀâkÀâlÀâ{ÀâtÀâ}Àâ‚ÀâÀâƒÀâ›Àâ’ÀâÀâ¢Àâ­Àâ£ÀâÂÀâ²ÀâÄÀâÉÀâÔÀâÊÀâëÀâÙÀâíÀâòÀâıÀâóÀãÀãÀãÀãÀã ÀãÀã4Àã%Àã6Àã;ÀãFÀã<ÀãYÀãKÀã[Àã`ÀãkÀãaÀã…ÀãpÀã‡ÀãŒÀã—ÀãÀã¥ÀãœÀã§Àã¬Àã·Àã­ÀãÇÀã¼ÀãÉÀãÎÀãÙÀãÏÀãğÀãŞÀãòÀã÷ÀäÀãøÀäÀäÀäÀä"Àä-Àä#Àä@Àä2ÀäBÀäGÀäRÀäHÀähÀäWÀäjÀäoÀäzÀäpÀäÀäÀä‘Àä–Àä¡Àä—Àä½Àä¦Àä¿ÀäÄÀäÏÀäÅÀäÜÀäÔÀäŞÀäãÀäîÀääÀäıÀäóÀäÿÀåÀåÀåÀå%ÀåÀå'Àå,Àå7Àå-ÀåOÀå<ÀåQÀåVÀåaÀåWÀåsÀåfÀåuÀåzÀå…Àå{ÀåšÀåŠÀåœÀå¡Àå¬Àå¢ÀåÀÀå±ÀåÂÀåÇÀåÒÀåÈÀåíÀå×ÀåïÀåôÀåÿÀåõÀæ	ÀæÀæÀæÀæÀæÀæ'Àæ Àæ)Àæ.Àæ9Àæ/ÀæLÀæ>ÀæNÀæSÀæ^ÀæTÀæsÀæcÀæuÀæzÀæ…Àæ{Àæ”ÀæŠÀæ–Àæ›Àæ¦ÀæœÀæ·Àæ«Àæ¹Àæ¾ÀæÉÀæ¿ÀæÕÀæÎÀæ×ÀæÜÀæçÀæİÀæùÀæìÀæûÀç ÀçÀçÀç&ÀçÀç(Àç-Àç8Àç.ÀçPÀç=ÀçRÀçWÀçbÀçXÀçwÀçgÀçyÀç~Àç‰ÀçÀç¢ÀçÀç¤Àç©Àç´ÀçªÀçĞÀç¹ÀçÒÀç×ÀçâÀçØÀçñÀççÀçóÀçøÀèÀçùÀèÀèÀèÀèÀè#ÀèÀè6Àè(Àè8Àè=ÀèHÀè>Àè]ÀèMÀè_ÀèdÀèoÀèeÀè{ÀètÀè}Àè‚ÀèÀèƒÀè Àè’Àè¢Àè§Àè²Àè¨Àè½Àè·Àè¿ÀèÄÀèÏÀèÅÀèÙÀèÔÀèÛÀèàÀèëÀèáÀèşÀèğÀé ÀéÀéÀéÀé%ÀéÀé'Àé,Àé7Àé-ÀéJÀé<ÀéLÀéQÀé\ÀéRÀé°Àé¥Àé²Àé·ÀéÂÀé¸   €®  package:flutter/material.dart Š‡ <€†€¤€¥€Õ€Ş€ß	2\]{ºÕñ‚‚@‚b‚‚‚‚¸‚Ö‚ğƒƒ"ƒ;ƒ[ƒ|ƒ˜ƒµƒÑƒô„„=„`„Œ„­„Ç„â„ü…6…U…n……«…Ì…æ†
+†1†V†{†¡†Á†é‡‡#‡C‡d‡Š‡¦‡Å‡á‡şˆˆCˆ]ˆ~ˆ¢ˆ¿ˆÙˆÚ‰‰‰+‰I‰J‰ ‰¤‰ß‰õŠŠ*Š+ŠHŠ^Š_Š¯Šû‹‹F‹‡‹ØŒ(ŒuŒÆŒñŒ÷[«û(.u‡ÃÅÆUY¢òCY]qÁÙİ‘*‘:‘w‘¦‘À‘Á‘İ‘õ‘ö’9’j’Š’‹’Ì’Ò’õ“=“?“@“‹““Û“ù“ı”'”+”w””©”¾”×”ì••1•@•R•f•{••¥•µ•Æ•Ù•ö–1–7–„–Ç–Ş–è–é—3—H—V—X—Y—©—Ñ—Õ˜"˜n˜±˜µ™™V™¤™Ğ™Ôš#špš¹››U› ›Õ›Ù›íœ1œxœ¾H|€ÍİáFGRx·½ŸŸZŸ¦Ÿ¬Ÿ÷ A Œ Ú¡*¡_¡e¡®¡û¢G¢}¢ƒ¢É££g£™£Ÿ£í¤¤¤d¤­¤³¤ô¥@¥e¥k¥{¥¥Ì¦¦P¦¬¦Â§§`§®§Ò§Ó§ğ¨¨E¨~¨±¨á©©C©a©‰©º©Ò©ôªªª;ªWª­ªş«6«N«d«†« «¹«Ğ«ë¬¬¬3¬L¬i¬‡¬©¬Í¬î­­­@­`­x­­³­Ñ­ö®®1®M®e®®­®Í®÷¯!¯]¯‰¯«¯ï°°,°J°r°œ°â°û±±A±o±¡±Ñ±ÿ²=²g²²±²Û²ù³)³_³‘³Ã³ë´#´C´k´•´É´ëµµ3µyµ’µ¼µì¶¶F¶j¶ ¶±¶Ó···>·E·b·¤·Ô¸ ¸;¸c¸{¸¸Á¸à¹ ¹A¹b¹…¹Ê¹Ğºº>º‡º¢ºğ»»^»»€»»™»ÿ¼D¼¼¨¼¯¼ë½)½f½Ì¾¾?¾d¾Í¾Õ¿¿¿v¿ÒÀ @4À @5À @À @­À @ØÀ AÀ A8À AdÀ A™À AÉÀ BÀ BÀ B=À B`À B¡À CÀ CNÀ C”À CçÀ DDÀ D¡À DÃÀ EÀ E3À EpÀ EÁÀ FÀ F?À FkÀ FÀ FÚÀ FöÀ G?À GbÀ G‰À GÀ GØÀ H(À HvÀ H¿À I$À IoÀ IÀÀ IıÀ J"À JBÀ J‡À J«À JÉÀ JçÀ KÀ K-À KaÀ KhÀ K¨À KûÀ LKÀ LLÀ LlÀ LŒÀ LÚÀ MÀ M^À M»À MÙÀ N"À NyÀ NÀ N¥À NşÀ OeÀ OkÀ O†À OÉÀ PÀ P À PSÀ P›À QÀ QÀ Q‘À Q©À QÒÀ QıÀ R2À RgÀ R®À RåÀ SEÀ SbÀ S†À SªÀ SÚÀ T2À T:À T@À TiÀ TšÀ TÃÀ TöÀ U+À U‘À U°À UØÀ V À V4À V’À VšÀ V À VÍÀ VüÀ W)À WbÀ WŸÀ WÚÀ XÀ X\À X‘À XÂÀ XñÀ Y&À YOÀ YŠÀ YËÀ ZÀ ZEÀ ZxÀ Z»À ZæÀ [À [NÀ [À [ºÀ [ëÀ \À \~À \À \ÅÀ \íÀ ]!À ]À ]‡À ]À ]ºÀ ]ïÀ ^*À ^_À ^šÀ ^ÉÀ ^ÿÀ _2À _LÀ _À _îÀ `>À `dÀ `eÀ `„À `¼À `úÀ a0À alÀ aÀ aÒÀ bÀ bÀ bDÀ bhÀ bŠÀ b®À b½À bİÀ bùÀ cÀ cMÀ cqÀ c“À c±À c×À cóÀ dÀ d7À dYÀ dƒÀ d¯À dçÀ eÀ e9À eYÀ eÀ e¯À eËÀ eõÀ fÀ f/À fYÀ fsÀ f›À f»À fÙÀ fùÀ g%À g_À g‰À g©À gÖÀ gúÀ hÀ h<À hdÀ h—À h¹À hÙÀ iÀ i5À icÀ iÀ iËÀ ióÀ jÀ j9À jaÀ j}À j«À jßÀ kÀ k?À keÀ k›À k¹À kßÀ lÀ l9À lYÀ l}À lÀ lĞÀ løÀ m&À mNÀ m|À mÀ mÖÀ müÀ nÀ nÀ nÀ nTÀ nÀ nÇÀ nÍÀ oÀ oTÀ osÀ o‹À oÛÀ p)À pwÀ p›À pœÀ p¹À pÚÀ qÀ q2À qPÀ qxÀ q¡À qÉÀ qåÀ rÀ r(À rHÀ riÀ rvÀ r•À rëÀ s<À stÀ s“À s°À sÙÀ súÀ tÀ t8À tZÀ twÀ t•À t·À t×À tûÀ u À uKÀ usÀ u’À u±À uÚÀ uúÀ vÀ v;À v_À v|À všÀ v²À vÕÀ vôÀ wÀ w1À wVÀ w‚À w¦À wÅÀ wâÀ xÀ x À xBÀ xeÀ x„À x¤À xÃÀ xèÀ yÀ y5À yZÀ y‡À yªÀ yËÀ yëÀ zÀ z+À zQÀ zzÀ z¡À zÈÀ zêÀ {À {2À {TÀ {wÀ {ŸÀ {¾À {ßÀ {şÀ |À |@À |fÀ |‰À |¯À |ÏÀ }À }À }8À }uÀ }{À }£À }ÜÀ ~'À ~PÀ ~wÀ ~xÀ ~ÆÀ ~õÀ ~ûÀ 7À ƒÀ ÍÀ €À €À €dÀ €³À €ïÀ €õÀ À VÀ zÀ €À À ¡À èÀ ‚2À ‚:À ‚DÀ ‚VÀ ‚\À ‚À ‚ÅÀ ‚àÀ ƒÀ ƒ À ƒ8À ƒ?À ƒ‚À ƒƒÀ ƒØÀ „2À „’À „“À „©À „ÉÀ „óÀ …À …DÀ …xÀ …À …ÛÀ †À †:À †VÀ †€À †¢À †©À †­À †®À †ËÀ †ÑÀ ‡À ‡mÀ ‡«À ‡ÍÀ ‡íÀ ‡òÀ ‡óÀ ˆÀ ˆÀ ˆcÀ ˆ±À ˆîÀ ‰À ‰/À ‰4À ‰5À ‰oÀ ‰uÀ ‰¸À ‰¾À ŠÀ ŠZÀ Š`À Š¯À ŠÄÀ ‹'À ‹(À ‹mÀ ‹sÀ ‹ÆÀ ŒÀ ŒÀ ŒzÀ ŒÎÀ À 1À 8À RÀ VÀ WÀ {À À ÉÀ À @À wÀ xÀ ÆÀ À ^À €À À œÀ À ëÀ À À _À «À ÷À ‘À ‘À ‘WÀ ‘¦À ‘ìÀ ’7À ’tÀ ’zÀ ’±À ’óÀ “@À “‹À “¼À “ÂÀ “üÀ ”À ”LÀ ””À ”ÙÀ •À •À •À •$À •rÀ •ŠÀ •ÙÀ –
+À –[À –ƒÀ –¬À –­À –øÀ —À —À —eÀ —°À —şÀ ˜DÀ ˜JÀ ˜œÀ ˜çÀ ™$À ™%À ™NÀ ™TÀ ™«À ™ŞÀ ™äÀ šÀ šÀ š/À šÀ š›À š¡À šğÀ ›À ›À ›À ›À ›nÀ ›§À ›¨À ›îÀ ›ôÀ œ9À œ?À œrÀ œÀ œŸÀ œğÀ 2À 8À lÀ ¡À ¢À ğÀ #À )À TÀ ‡À ˆÀ ÈÀ ÎÀ ŸÀ ŸgÀ ŸxÀ Ÿ­À Ÿ®À ŸòÀ ŸøÀ  FÀ  ”À  ºÀ  íÀ  îÀ ¡.À ¡4À ¡ƒÀ ¡ÑÀ ¡äÀ ¡êÀ ¢:À ¢ƒÀ ¢ÒÀ £À £aÀ £ À £ğÀ ¤AÀ ¤zÀ ¤€À ¤ÏÀ ¥À ¥gÀ ¥·À ¦À ¦<À ¦hÀ ¦nÀ ¦ºÀ ¦ÛÀ ¦ÜÀ §,À §WÀ §XÀ §›À §´À §ºÀ §ÊÀ §ĞÀ ¨À ¨bÀ ¨À ¨àÀ ©À ©:À ©;À ©†À ©ŒÀ ©ÑÀ ªÀ ª&À ª,À ªnÀ ª¶À «À «6À «<À «NÀ «TÀ «¢À «àÀ ¬-À ¬pÀ ¬vÀ ¬àÀ ¬æÀ ­BÀ ­À ­úÀ ®VÀ ®²À ®¸À ®öÀ ¯;À ¯AÀ ¯À ¯ßÀ °	À °À °)À °/À °^À °dÀ °uÀ °²À °ÚÀ ±À ±À ±*À ±DÀ ±mÀ ±”À ±¦À ²À ²bÀ ²×À ³$À ³<À ³oÀ ³€À ³ÁÀ ´À ´*À ´³À ´éÀ µÀ µ5À µnÀ µºÀ µÿÀ ¶+À ¶À ¶²À ¶áÀ ·À ·+À ·XÀ ·…À ·ËÀ ¸À ¸eÀ ¸kÀ ¸³À ¸êÀ ¹À ¹$À ¹4À ¹:À ¹yÀ ¹”À ¹•À ¹æÀ ¹ìÀ º'À ºmÀ º»À »À »YÀ »’À »˜À »äÀ ¼5À ¼„À ¼ÓÀ ½"À ½gÀ ½mÀ ½½À ¾À ¾8À ¾>À ¾ˆÀ ¾ÏÀ ¿À ¿"À ¿lÀ ¿¯À ¿µÀ ÀÀ ÀPÀ À¦À ÀÕÀ ÀêÀ ÁÀ ÁÀ ÁÀ ÁÀ ÁYÀ ÁtÀ ÁuÀ Á°À ÁÉÀ ÁÊÀ ÂÀ Â	À ÂZÀ Â«À ÂûÀ ÃCÀ ÃiÀ ÃŠÀ Ã‹À Ã¼À ÃáÀ ÃâÀ Ä'À ÄiÀ Ä†À Ä£À Ä¤À ÄåÀ Å,À Å2À Å}À ÅŸÀ Å»À Å¼À ÆÀ Æ À Æ!À ÆcÀ Æ‘À Æ¯À Æ°À ÆòÀ ÇÀ Ç%À Ç&À ÇoÀ Ç€À ÇšÀ Ç›À Ç×À ÇõÀ ÇöÀ ÈFÀ ÈLÀ È˜À ÈàÀ É.À ÉcÀ ÉÀ É€À É®À ÉÎÀ ÉÏÀ ÉşÀ ÊÀ Ê À ÊmÀ Ê¹À ÊàÀ ÊáÀ Ë7À ËcÀ ËËÀ Ì	À Ì-À Ì.À ÌyÀ ÌÀ Ì¥À Ì«À ÌøÀ ÍFÀ Í’À ÍßÀ ÎÀ Î#À Î$À ÎEÀ ÎKÀ Î[À Î¡À Î¼À Î½À ÎşÀ ÏIÀ ÏnÀ ÏoÀ ÏÀ ÏÀ ÏÒÀ ÏóÀ ÏôÀ Ğ/À ĞWÀ ĞXÀ Ğ’À Ğ¶À Ğ·À ĞÿÀ ÑÀ ÑÀ ÑlÀ ÑrÀ Ñ©À ÑÈÀ ÑÉÀ ÑßÀ ÑàÀ Ò,À Ò`À ÒÀ ÒÀ ÒİÀ ÒûÀ ÓÀ ÓÀ ÓRÀ ÓuÀ ÓvÀ ÓÄÀ ÓñÀ ÓòÀ ÔEÀ ÔrÀ ÔsÀ ÔÄÀ ÔÓÀ ÕÀ ÕÀ ÕdÀ Õ“À Õ”À ÕåÀ ÕüÀ Ö!À Ö"À ÖUÀ Ö[À Ö‘À Ö²À Ö³À ×À ×+À ×,À ×`À ×fÀ ×œÀ ×½À ×¾À ØÀ ØÀ Ø?À Ø@À ØÀ ØÀ ØÊÀ ØËÀ Ù À Ù%À Ù&À ÙuÀ Ù”À Ù»À Ù¼À Ú	À Ú.À Ú/À Ú‚À Ú³À Ú´À ÚøÀ ÛÀ ÛFÀ ÛGÀ ÛÀ ÛÃÀ ÛÄÀ ÜÀ ÜÀ ÜPÀ ÜQÀ Ü”À Ü²À ÜóÀ ÜôÀ İ8À İMÀ İzÀ İ{À İ¿À İèÀ İéÀ Ş:À ŞyÀ Ş À Ş¡À ŞîÀ ß;À ßhÀ ßiÀ ßºÀ ßûÀ àÀ àÀ àmÀ à‰À à¼À à½À áÀ á,À áeÀ áfÀ áµÀ áŞÀ âÀ âÀ âXÀ âqÀ â¦À â§À âôÀ ãÀ ã2À ã3À ã‹À ãÆÀ ãÇÀ äÀ ä6À ä7À ä‡À ä²À ä³À åÀ åKÀ åLÀ å¢À åÙÀ åÚÀ æÀ æÀ æMÀ ærÀ æsÀ æÉÀ æòÀ æóÀ ç@À çeÀ çfÀ ç¹À çŞÀ çßÀ è#À è8À èeÀ èfÀ è¶À èéÀ èêÀ é:À égÀ éhÀ é¬À éßÀ éàÀ ê#À ê)À êbÀ ê‰À êŠÀ êÚÀ êéÀ ë	À ëDÀ ëHÀ ë…À ë²À ë³À ìÀ ìÀ ìRÀ ìiÀ ì¹À íÀ íUÀ íyÀ ízÀ í—À íÆÀ íìÀ î%À îXÀ îˆÀ îºÀ îêÀ ïÀ ï0À ïaÀ ïƒÀ ïÀ ï®À ïÊÀ ğ À ğqÀ ğ©À ğÁÀ ğ×À ğùÀ ñÀ ñ,À ñCÀ ñ^À ñtÀ ñ‹À ñ¦À ñ¿À ñÜÀ ñúÀ òÀ ò?À òWÀ òoÀ ò‘À ò±À òÏÀ òôÀ óÀ ó/À óKÀ ócÀ óÀ ó«À óËÀ óõÀ ôÀ ô[À ô‡À ô©À ôÀÀ ôæÀ õÀ õ,À õVÀ õœÀ õµÀ õÙÀ õûÀ ö)À ö[À ö‹À ö¹À ö÷À ÷!À ÷GÀ ÷kÀ ÷•À ÷³À ÷ãÀ øÀ øKÀ ø}À ø¥À øİÀ øıÀ ù%À ùOÀ ùƒÀ ù¥À ùËÀ ùíÀ ú3À úLÀ úvÀ ú¦À úĞÀ û À û$À ûZÀ ûkÀ û³À ûñÀ ü6À üxÀ ü´À üºÀ üÒÀ üãÀ ıÀ ıBÀ ıHÀ ıpÀ ıwÀ ı¹À ıºÀ şÀ ş7À ş[À şÀ ş¯À ÿÀ ÿÀ ÿÀ ÿÀ ÿ|À ÿ›À ÿÃÀ ÿëÀ À }À …À ‹À ŒÀ òÀÀ9ÀaÀ•ÀóÀûÀÀÀmÀ½ÀÀ3À4ÀSÀ±ÀÀgÀÌÀÀmÀ¼ÀçÀ$À^À¯ÀËÀÀ<ÀKÀÀ­ÀÀVÀÀÇÀøÀ	5À	cÀ	”À	ÑÀ
+À
+KÀ
+‘À
+éÀ8ÀlÀ ÀòÀÀBÀ…ÀÈÀöÀ'ÀAÀÀµÀæÀÀ`À»ÀşÀ2ÀrÀ¬ÀÚÀÀWÀŸÀÖÀ
+ÀPÀœÀåÀ+À‰ÀÉÀÀ:ÀzÀ¨ÀñÀCÀÀÛÀÀmÀÀÛÀÀjÀÀØÀÀTÀ”ÀİÀÀfÀÀÖÀİÀáÀâÀ2À€ÀÍÀÀ=À>ÀÀÛÀ2À3À€À¶À¼ÀÀ]À­ÀáÀ1ÀyÀÅÀÀdÀ³ÀÀÀYÀjÀqÀ¿ÀéÀêÀ À [À fÀ ‰À ÚÀ!À!(À!1À!8À!<À!=À!À!šÀ! À!ğÀ"!À"_À"À"ŸÀ"ÜÀ#/À#À#ÒÀ$À$HÀ$lÀ$¼À$ÛÀ$áÀ$ıÀ%À%À%7À%=À%qÀ%wÀ%šÀ&À&À&–À&ÜÀ':À'DÀ'dÀ'À'ØÀ(
+À(À(%À()À(*À(yÀ(ØÀ)[À)»À)÷À*‡À*À*“À*”À*ÃÀ*ÉÀ*ìÀ+*À+EÀ+UÀ+[À+uÀ+ÇÀ,À,gÀ,À,À,­À,ïÀ-WÀ-³À-äÀ.:À.“À.éÀ/À/rÀ/´À/óÀ0AÀ0PÀ0‘À0ÌÀ1À1qÀ1¸À1üÀ2:À2„À2¿À2ıÀ3GÀ3‹À3ÛÀ4.À4“À4ïÀ50À5qÀ5ĞÀ5òÀ64À6‹À6ŞÀ7À7^À7xÀ7ÒÀ8À8^À8°À9À9ŒÀ9ëÀ:'À:iÀ:»À:şÀ;TÀ;®À;øÀ<FÀ<‘À<óÀ=^À=ÅÀ>(À>«À?À?YÀ?¨À@À@FÀ@­ÀA ÀA‹ÀAöÀBMÀBÄÀC
+ÀCaÀC¼ÀD*ÀDtÀDÆÀEÀEZÀEµÀFÀFvÀFİÀG,ÀG‚ÀG‰ÀGÀGÀGšÀG½ÀGéÀGıÀHÀH$ÀHxÀHÊÀIÀIDÀIEÀIfÀIŸÀIéÀJ+ÀJ^ÀJœÀJÜÀKÀK@ÀKrÀK¢ÀKĞÀL ÀLÀL=ÀLeÀL‘ÀLÑÀMÀM/ÀMYÀM‹ÀM³ÀMİÀNÀN=ÀNsÀN«ÀNïÀO-ÀOYÀO…ÀOÅÀOéÀPÀPGÀP}ÀP¥ÀPÏÀPëÀQÀQKÀQuÀQ¡ÀQÙÀRÀRUÀRÀR©ÀRÙÀSÀS3ÀSgÀS“ÀSÁÀSíÀT%ÀTaÀT›ÀTÓÀUÀUOÀUÀU­ÀUáÀV	ÀVCÀVƒÀV¿ÀVûÀW-ÀWoÀW™ÀWËÀWÿÀX=ÀXiÀX™ÀXÅÀXñÀY%ÀY_ÀY“ÀYÍÀYûÀZ+ÀZ/ÀZ0ÀZ<ÀZQÀZ}ÀZÏÀ[À[oÀ[•À[–À[µÀ[ÒÀ[ñÀ\À\1À\KÀ\gÀ\ƒÀ\ À\¼À\ÌÀ\âÀ\÷À]À] À]/À]BÀ]SÀ]fÀ]ƒÀ]˜À]¬À]¾À]ÔÀ]åÀ]÷À^À^!À^9À^RÀ^qÀ^À^ À^³À^ĞÀ^òÀ_À_À_3À_DÀ_VÀ_pÀ_‡À_šÀ_¬À_¿À_ØÀ_øÀ`À`#À`4À`IÀ`ZÀ`pÀ`‡À`šÀ`®À`ÁÀ`ÚÀ`õÀaÀa(ÀaIÀa`ÀauÀa‰Àa Àa±ÀaËÀaèÀbÀbÀb4ÀbRÀbdÀbzÀb‘Àb­ÀbÀÀbÕÀbèÀbûÀcÀc,ÀcCÀc]ÀcqÀc©Àc¿ÀcÆÀcéÀcíÀcîÀcúÀd?ÀdjÀd¢ÀdòÀe@ÀeÀe²Àe³ÀeĞÀf~ÀgÀgÍÀhxÀiÀi‘ÀjÀj§ÀkNÀküÀlÀm.Àm<ÀmÀÀn>ÀnÕÀowÀpÀpˆÀq	Àq–ÀrÀr•Às"ÀsµÀtKÀtÒÀuzÀvÀvÀw!ÀwÃÀwãÀxQÀxÍÀyEÀy¯ÀzBÀzZÀzÚÀ{qÀ|À|«À}ZÀ~)À~ØÀLÀºÀ€]À€ËÀrÀ‚À‚¸ÀƒWÀƒòÀ„¥À…`À…éÀ†œÀ‡oÀˆÀˆ½À‰\ÀŠÀŠšÀ‹QÀŒÀŒÏÀŠÀ1ÀøÀÀ6ÀáÀ‘ À’À’·À“RÀ“ÆÀ”qÀ•(À•ÓÀ–\À–ÓÀ—	À—°À—´À—¶À—·À˜À˜$À˜(À˜qÀ˜¾À˜ÊÀ˜ÎÀ™À™kÀ™oÀ™»À™ÿÀšÀšTÀšŸÀšîÀ›À›À›"À›&À›pÀ›¿À›ÍÀœÀœ9Àœ‰ÀœÚÀ'À[ÀÀïÀÀ;ÀaÀpÀƒÀÙÀŞÀßÀŸÀŸÀŸ?ÀŸŠÀŸÊÀŸçÀŸøÀ $À RÀ ‹À ¶À êÀ¡#À¡TÀ¡]À¡^À¡€À¡½À¡¾À¡ÊÀ¢*À¢+À¢7À¢ŸÀ¢ À¢¬À£,À£-À£9À£»À£¼À£õÀ£ûÀ¤=À¤ŠÀ¤ÚÀ¥À¥À¥kÀ¥²À¥òÀ¥şÀ¦+À¦GÀ¦`À¦„À¦«À¦ÊÀ¦îÀ§	À§À§>À§TÀ§|À§œÀ§ÀÀ§úÀ¨À¨HÀ¨‚À¨¬À¨µÀ¨¼À¨ÀÀ¨ÁÀ¨ÍÀ©À©FÀ©‹À©¹À©ÏÀªÀª
+ÀªÀªÀªÀª`Àª°À« À«MÀ«…À«‰À«ÖÀ¬%À¬ZÀ¬‚À¬ÒÀ¬ğÀ­À­?À­aÀ­ŠÀ­µÀ­óÀ®À®RÀ®ZÀ®aÀ®bÀ®·À®ØÀ®ÚÀ®ÛÀ®æÀ¯	À¯UÀ¯VÀ¯sÀ¯˜À¯™À¯çÀ° À°À°eÀ°fÀ°rÀ°•À°àÀ±À±7À±hÀ±ªÀ±®À±°À±±À² À².À²2À²À²¢À²»À²÷À²øÀ³HÀ³’À³¢À³ÇÀ³ÈÀ³ÿÀ´À´VÀ´€À´šÀ´›À´æÀµ!ÀµOÀµhÀµ‹Àµ¥ÀµºÀµÀÀµéÀ¶À¶À¶:À¶>À¶@À¶AÀ¶~À¶‚À¶ÆÀ·À·EÀ·IÀ·—À·çÀ¸2À¸PÀ¸TÀ¸¡À¸ğÀ¹?À¹IÀ¹MÀ¹”À¹˜À¹ªÀ¹¸À¹ĞÀ¹äÀº/ÀºAÀºYÀºqÀº€Àº›Àº¯Àº³ÀºÁÀºÅÀ»À»IÀ»°À»»À»åÀ¼À¼À¼jÀ¼¢À¼ºÀ¼ÕÀ¼îÀ½À½DÀ½qÀ½À½ŸÀ½ÂÀ½ïÀ½ğÀ¾À¾?À¾@À¾~À¾„À¾ÑÀ¿À¿8À¿qÀ¿rÀ¿»À¿ÁÀÀÀÀ]ÀÀ­ÀÀïÀÀõÀÁ1ÀÁÀÁÀÁÓÀÁÙÀÂ%ÀÂvÀÂÀÀÂûÀÃÀÃ=ÀÃ•ÀÃ–ÀÃåÀÄ.ÀÄ4ÀÄ{ÀÄÆÀÄİÀÄãÀÄóÀÄùÀÅEÀÅyÀÅÁÀÅëÀÆSÀÆTÀÆ¤ÀÆªÀÆûÀÇ0ÀÇ6ÀÇFÀÇLÀÇ–ÀÇÉÀÈÀÈ4ÀÈÀÈçÀÈîÀÈòÀÈóÀÉ>ÀÉTÀÉoÀÉ‡ÀÉÀÉ¤ÀÉ¾ÀÉïÀÊÀÊ!ÀÊ%ÀÊ&ÀÊ\ÀÊbÀÊ­ÀÊşÀËIÀËÀËÏÀËòÀËøÀÌÀÌÀÌbÀÌ–ÀÌÿÀÍÀÍÀÍOÀÍUÀÍÀÍïÀÎ:ÀÎ~ÀÎÀÀÎãÀÎéÀÎùÀÎÿÀÏSÀÏ…ÀÏîÀĞÀĞÀĞ\ÀĞbÀĞ²ÀĞîÀĞôÀÑ;ÀÑgÀÑ‰ÀÑ×ÀÒ(ÀÒXÀÒyÀÒzÀÒ®ÀÒ²ÀÒ³ÀÒåÀÓ/ÀÓJÀÓZÀÓ`ÀÓzÀÓ¸ÀÓğÀÓ÷ÀÓûÀÓüÀÔJÀÔwÀÔ}ÀÔÍÀÕ ÀÕDÀÕrÀÕ“ÀÕùÀÖbÀÖiÀÖmÀÖnÀÖzÀÖÀÖÉÀÖİÀÖãÀ×À×/À×VÀ×ZÀ×[À×gÀ× À×¡À×­À×òÀØÀØnÀØ»ÀØ¿ÀØÀÀØÌÀØçÀÙVÀÙZÀÙ\ÀÙ]ÀÙÀÙÀÙÓÀÚÀÚ?ÀÚrÀÚsÀÚ¨ÀÚÈÀÚæÀÛÀÛ-ÀÛVÀÛyÀÛŸÀÛÄÀÛğÀÜÀÜ2ÀÜ[ÀÜ†ÀÜ«ÀÜÓÀÜúÀİ(ÀİGÀİhÀİÀİºÀİŞÀŞÀŞ+ÀŞXÀŞtÀŞ’ÀŞ·ÀŞŞÀŞÿÀß"Àß@ÀßdÀß‘Àß»ÀßâÀàÀà;Àà\Àà|Àà¡ÀàÈÀàæÀáÀá(ÀáDÀáiÀáÀáµÀáùÀâÀâÀâÀâSÀârÀâÀâ°Àâ×Àã Àã#ÀãIÀãnÀãšÀãºÀãÜÀäÀä0ÀäUÀä}Àä¤ÀäÒÀäñÀåÀå:ÀådÀåˆÀå¯ÀåÕÀæÀæÀæ<ÀæaÀæˆÀæ©ÀæÌÀæêÀçÀç;ÀçeÀçŒÀç·ÀçåÀèÀè&ÀèKÀèrÀèÀèµÀèÒÀèîÀéÀé:Àé_Àé£ÀéÅÀéÈÀéÉÀéù    
+AdaptationThemeExtensionMaterialTapTargetSize	ThemeDataMaterialBasedCupertinoThemeDataCupertinoBasedMaterialThemeData_IdentityThemeDataCacheKey
+_FifoCacheVisualDensity_colorSchemeLightM3_colorSchemeDarkM3 +ï

@@ -1,0 +1,922 @@
+€ÇbodyappBar	bodyScrimbottomSheetsnackBarmaterialBannerpersistentFooterbottomNavigationBarfloatingActionButtondrawer	endDrawer	statusBarchildofmaybeOfcreateState
+_scaffolds_materialBanners_materialBannerController
+_snackBars_snackBarController_snackBarTimer_accessibleNavigationdidChangeDependencies	_register_unregister_updateScaffolds_isRootshowSnackBar_didUpdateAnimationStyle_handleSnackBarStatusChangedremoveCurrentSnackBarhideCurrentSnackBarclearSnackBarsshowMaterialBanner"_handleMaterialBannerStatusChangedremoveCurrentMaterialBannerhideCurrentMaterialBannerclearMaterialBannersbuilddispose_scaffoldMessengerStateupdateShouldNotifyfloatingActionButtonSizebottomSheetSizecontentBottom
+contentTop	minInsetsminViewPaddingscaffoldSizesnackBarSizematerialBannerSizetextDirectionbeginendanimatorprogress	getOffsettoStringbottomNavigationBarTopfloatingActionButtonArea_scaleFloatingActionButtoncopyWithcontextfloatingActionButtonScalegeometryvalue_updateWithbottomWidgetsHeightappBarHeightmaterialBannerHeight==hashCode
+extendBodyextendBodyBehindAppBargeometryNotifier$previousFloatingActionButtonLocation#currentFloatingActionButtonLocation)floatingActionButtonMoveAnimationProgress"floatingActionButtonMotionAnimatorisSnackBarFloatingsnackBarWidthextendBodyBehindMaterialBannerperformLayoutshouldRelayoutfabMoveAnimationfabMotionAnimatorcurrentController_previousController_previousExitScaleAnimation$_previousExitRotationCurvedAnimation_currentEntranceScaleAnimation_previousScaleAnimation_previousRotationAnimation_currentScaleAnimation_extendedCurrentScaleAnimation_currentRotationAnimation_previousChild	initStatedidUpdateWidget_entranceTurnTween_disposeAnimations_updateAnimations%_handlePreviousAnimationStatusChanged_isExtendedFloatingActionButton_onProgressChanged_updateGeometryScalefloatingActionButtonLocationfloatingActionButtonAnimatorpersistentFooterButtonspersistentFooterAlignmentonDrawerChangedonEndDrawerChangeddrawerScrimColorbackgroundColorresizeToAvoidBottomInsetprimarydrawerDragStartBehaviordrawerEdgeDragWidthdrawerEnableOpenDragGestureendDrawerEnableOpenDragGesturerestorationId
+geometryOf	hasDrawerrestoreState
+_drawerKey_endDrawerKey_bodyKey	hasAppBarhasEndDrawerhasFloatingActionButton_appBarMaxHeightappBarMaxHeight_drawerOpened_endDrawerOpenedisDrawerOpenisEndDrawerOpen_drawerOpenedCallback_endDrawerOpenedCallback
+openDraweropenEndDrawer_scaffoldMessenger_messengerSnackBar_updateSnackBar_messengerMaterialBanner_updateMaterialBanner_dismissedBottomSheets_currentBottomSheet_currentBottomSheetKey_persistentSheetHistoryEntry _maybeBuildPersistentBottomSheet_closeCurrentBottomSheetcloseDrawercloseEndDrawer_updatePersistentBottomSheet_buildBottomSheetshowBottomSheet#_floatingActionButtonMoveController_floatingActionButtonAnimator%_previousFloatingActionButtonLocation_floatingActionButtonLocation)_floatingActionButtonVisibilityController$_floatingActionButtonVisibilityValue_showFloatingActionButton_moveFloatingActionButton_handleStatusBarTap_geometryNotifier_resizeToAvoidBottomInset_addIfNonNull_buildEndDrawer_buildDrawer_showBodyScrim_bodyScrimColorshowBodyScrim	isEnabledinvoke_widget
+_completerclosedclosesetStateanimationController
+enableDragshowDragHandle	onClosingonDismissed	onDisposebuilderisPersistent	elevationshapeclipBehaviorconstraintsanimationCurve_handleDragStart_handleDragEnd_handleStatusChangeextentChanged_isLocalHistoryEntry%_kDefaultFloatingActionButtonLocation%_kDefaultFloatingActionButtonAnimator_standardBottomSheetCurve _kBottomSheetDominatesPercentage_kMinBottomSheetScrimOpacity_kMaxBottomSheetScrimOpacity_ScaffoldSlotScaffoldMessengerScaffoldMessengerState_ScaffoldMessengerScopeScaffoldPrelayoutGeometry_TransitionSnapshotFabLocationScaffoldGeometry_ScaffoldGeometryNotifier_BodyBoxConstraints_BodyBuilder_ScaffoldLayout_FloatingActionButtonTransition$_FloatingActionButtonTransitionStateScaffoldScaffoldState_DismissDrawerActionScaffoldFeatureController_StandardBottomSheet_StandardBottomSheetStatePersistentBottomSheetController_ScaffoldScopeìDragStartBehaviorFloatingActionButtonLocationendFloatFloatingActionButtonAnimatorscalingCurvestandardEasingdoubleSnackBarMaterialBannerBuildContextofshowSnackBarshowMaterialBannerdebugCheckHasScaffoldMessengerStatefulWidgetWidget	GlobalKeyMaterialAppscaffoldMessengerKey"dependOnInheritedWidgetOfExactType_scaffoldMessengerStateoverrideStateTickerProviderStateMixinLinkedHashSetQueueMaterialBannerClosedReasonAnimationControllerSnackBarClosedReasonTimerboolvoid
+MediaQueryaccessibleNavigationOfcontextisActivereasontimeoutdidChangeDependenciesadd
+isNotEmpty_updateSnackBar_updateMaterialBannerremovescaffoldfindAncestorStateOfTypecontainsdurationclosebehaviorSnackBarBehaviorfloatingfloatingActionButtonpersistentFooterButtonsbottomNavigationBarAnimationStylesnackBarAnimationStylereverseDurationnoAnimationcreateAnimationControllervsyncaddStatusListenerisEmptyisDismissedforward_withAnimationfallbackKey	UniqueKey	CompleterfirstsetStateaddLast	exceptionFlutterErrorStringdiagnosticstoDescriptionListDiagnosticsNodeErrorSummaryErrorDescription	ErrorHintdescribeOwnershipChain	fromPartsdisposeAnimationStatus	dismissedremoveFirst	completedreverse
+_completerisCompletedcompletecancelvaluehidethenmountedcleardebugCheckHasMediaQuery
+ModalRoutedynamic	isCurrent_widgetisForwardOrCompletedactionscaffoldMessengerStatechildwidgetInheritedWidgetFloatingActionButtonOffset	immutableSizezeroBottomSheetbody
+EdgeInsetsbottomappBartopMediaQueryDatapaddingresizeToAvoidBottomInsetviewPadding
+viewInsetsTextDirection	getOffsetbeginendprogressobjectRuntimeTypeValueNotifier
+geometryOfBottomAppBarRectbottomNavigationBarToplerpcenterfloatingActionButtonAreaChangeNotifierValueListenableRenderObjectfindRenderObjectownerdebugDoingPaint_scaleFloatingActionButtonfloatingActionButtonScalecopyWithnotifyListenersBoxConstraintsObjectmaterialBannerHeightbottomWidgetsHeightappBarHeightinthashhashCodeStatelessWidgetLayoutBuilderbuilderconstraintsmaxdataMultiChildLayoutDelegateloosetightenwidthheighthasChildlayoutChildpositionChildpersistentFootermaxWidth	maxHeightmaterialBannerclampDouble	bodyScrimsnackBarbottomSheetbottomSheetSizecontentBottom
+contentTopfloatingActionButtonSize	minInsetsscaffoldSizesnackBarSizematerialBannerSizetextDirectionminViewPaddingstartTop	centerTopendTopminiStartTopminiCenterTop
+miniEndTopstartDocked
+startFloatcenterDockedcenterFloatendContained	endDockedminiStartDockedminiStartFloatminiCenterDockedminiCenterFloatminiEndDockedminiEndFloatsizemin	statusBardrawertight	endDrawer_updateWith)floatingActionButtonMoveAnimationProgress$previousFloatingActionButtonLocation#currentFloatingActionButtonLocation
+extendBodyextendBodyBehindAppBar	AnimationCurvedAnimationTrainHoppingAnimation	initStatekFloatingActionButtonSeguecurrentControllerdidUpdateWidgetfabMotionAnimatorfabMoveAnimationkey
+AnimatableTween!kFloatingActionButtonTurnIntervalchain
+CurveTweencurveCurveseaseInparentanimatedrivegetScaleAnimationgetRotationAnimationAnimationMinIntervaladdListener
+isExtendedStack	alignment	AlignmentcenterRightchildrenFadeTransitionopacityScaleTransitionscaleRotationTransitionturnsgeometryNotifiershowBottomSheetTextCenterAppBarSafeAreaDraggableScrollableSheetshowBodyScrimTabBar
+TabBarViewTabControllerDrawerBottomNavigationBarshowModalBottomSheetAlignmentDirectional	centerEndstartCircularNotchedRectanglebackgroundColorPreferredSizeWidgetSizedBoxexpandListView
+TextButtonOverflowBarltrrtl
+openDrawercloseDrawer	NavigatorpopdrawerEnableOpenDragGestureDrawerCallbackopenEndDrawercloseEndDrawerendDrawerEnableOpenDragGestureDrawerThemeData
+scrimColorColorsblack54ColorMaterial	ThemeDatascaffoldBackgroundColorLocalHistoryEntryBottomSheetThemeDataprimaryRestorationBucketRestorationScopeRestorationManagerBuilderdescribeElementregisterForUpdates	hasDrawerRestorationMixinrestorationIdregisterForRestorationDrawerControllerStateRestorableBoolcurrentStateonDrawerChangedcallonEndDrawerChanged
+IconButtonopen
+_snackBars_materialBannersDraggableScrollableNotificationextentinitialExtentprecisionErrorToleranceonRemoveDraggableScrollableActuatorresetaddLocalHistoryEntrygrowablesheetanimationControllerNotificationListeneronNotificationStatefulBuilderStateSettershrinkisPersistent_isLocalHistoryEntryfuturewhenCompleteWidgetBuilderShapeBorderClipblackwithOpacity
+enableDragshowDragHandle	onClosingonDismissed	onDispose shouldDisposeAnimationController	elevationshapeclipBehaviorVoidCallbackfntransitionAnimationControllersheetAnimationStyle
+lowerBound
+upperBoundTickerFutureisAnimatinggetAnimationRestartfromScrollControllerPrimaryScrollControllermaybeOf
+hasClients	animateToDurationmillisecondseaseOutCircfloatingActionButtonLocationfloatingActionButtonAnimator_unregister	_registerLayoutIdremovePadding
+removeLeftremoveLeftPadding	removeTopremoveTopPaddingremoveRightremoveRightPaddingremoveBottomremoveBottomPaddingremoveBottomInsetremoveViewInsetsmaintainBottomViewPaddingidDrawerControllerDrawerAlignmentdrawerCallbackdragStartBehaviordrawerDragStartBehaviordrawerScrimColoredgeDragWidthdrawerEdgeDragWidthenableOpenDragGestureisDrawerOpenModalBarrierdebugCheckHasDirectionalityThemeDirectionalityKeyedSubtreedismissiblecolor	paddingOfpreferredHeightForpreferredSizeisFiniteConstrainedBoxFlexibleSpaceBarcreateSettingscurrentExtentbottomCentersnackBarThemefixedMaterialBannerThemeDataMaterialBannerTheme	Container
+decorationBoxDecorationborderBorderDividercreateBorderSideIntrinsicHeightPaddingallAlignpersistentFooterAlignmentspacingoverflowAlignmentOverflowBarAlignmentplatformTargetPlatformiOSmacOSGestureDetectorHitTestBehavioropaqueonTapexcludeFromSemanticsandroidfuchsialinuxwindowsviewInsetsOfviewPaddingOfScrollNotificationObserverAnimatedBuilder	animationActionsactionsTypeActionIntentDismissIntentCustomMultiChildLayoutdelegate"floatingActionButtonMotionAnimatorisSnackBarFloatingextendBodyBehindMaterialBannersnackBarWidthDismissActionisEndDrawerOpenFutureParametricCurveDragStartDetailslinearDragEndDetailsSplitendCurve$_floatingActionButtonVisibilityValue	minExtentshouldCloseOnMinExtenttopStartheightFactor	transform	Semantics	container	onDismissonDragStart	onDragEndStatefulWidgetStateTickerProviderStateMixinInheritedWidgetFloatingActionButtonLocationChangeNotifierValueListenableBoxConstraintsStatelessWidgetMultiChildLayoutDelegateRestorationMixinDismissActionScaffoldFeatureControllerÚ=+è<Ìøº”§Vh5ç¦    ‚(   
+dart:async  ‚=   dart:collection  ‚W   ‚imath‚l	dart:math  ‚t   package:flutter/foundation.dart‚Ä‚ÚDragStartBehavior ‚   package:flutter/gestures.dart  ‚İ   package:flutter/widgets.dart  ƒ   app_bar.dart  ƒ   banner.dart  ƒ2   banner_theme.dart  ƒN   bottom_sheet.dart  ƒj   colors.dart  ƒ€   curves.dart  ƒ–   
+debug.dart  ƒ«   divider.dart  ƒÂ   drawer.dart  ƒØ   flexible_space_bar.dart  ƒú   floating_action_button.dart  „    $floating_action_button_location.dart  „O   material.dart  „g   snack_bar.dart  „€   snack_bar_theme.dart  „Ÿ   
+theme.dartÀ ğº À : <€†€¤€¥€Õ€Ù€ôGq•¸Şú‚‚&‚'‚<‚V‚r‚s‚‚Üƒƒƒƒ1ƒMƒiƒƒ•ƒªƒÁƒ×ƒù„„N„f„„„³„´„Ì„ñ……3…I…p…q…ã†T†U††Ù†ı‡2‡c‡”‡•‡ª‡²‡¼‡É‡Ø‡ä‡öˆ
+ˆ!ˆ9ˆCˆPˆ]ˆ_ˆ`ˆªˆ®ˆñˆõ‰E‰u‰y‰ÈŠŠCŠ~Š‚ŠÊ‹‹n‹¹‹Ü‹à‹ôŒCŒGŒšŒªŒ®ŒñŒõU¦øLšÅPœ¸ÇàæçNdeµÄÊà‘,‘m‘s‘Ë‘İ‘ã’6’ˆ’Ô““S“Y“o“¿””S””ê•••m••…•Ñ–––!–'–w–¶——3—n—£—¤˜˜@˜D˜E˜•˜¬˜²™™™™!™j™¹™ú™ûšmš˜šœšš©šíšïšğ›››`›±›üœGœUœYœŒœê<ô&ÀìŸŸ$Ÿ%Ÿ1ŸRŸ¤Ÿô >  ´ İ ş¡ ¡H¡‰¡¡Á¡ä¡è¡é¢¢2¢3¢P¢s¢—¢Ÿ¢ ¢É¢ó¢û££££3£i£œ£±£µ£¶£Ò¤	¤(¤L¤v¤~¤„¤ˆ¤‰¤Ù¥!¥J¥§¥â¥æ¥ç¥ù¥ú¦I¦–¦İ§§§W§¤§ó¨¨¨X¨^¨¯¨ï©>©m©s©¼©Ü©â©øªIªOª¹ªËªÑ«««]«­«û¬M¬¬ó­­­1­‚­ˆ­ò®®
+® ®‹®‘®û¯¯¯b¯µ¯Ù¯ß°5°ˆ°¬°²°ı±±±h±¸±¾²(²:²@²Š²¡²Ğ²Ö²â²ÿ³N³{³‚³¸³ø´,´n´ƒ´‹´Ä´âµµ8µ>µµÛ¶*¶z¶™¶ç···O·p·{·Ô·Û·å·ù¸!¸+¸E¸_¸r¸›¸é¹;¹„¹Ü¹üºKº¡ºØºé»»V»¬»ñ¼H¼¼İ¼î½½k½|½‹½Â½Î½Ø½í½ù¾¾¾¾&¾*¾+¾u¾Ÿ¾í¿I¿q¿•¿¿£¿§¿¨¿æ¿üÀ @"À @IÀ @_À @ƒÀ @À @«À @ĞÀ @úÀ AÀ A*À A@À AjÀ A»À AÇÀ AãÀ BÀ B+À B:À B@À BDÀ BEÀ BÀ B¢À B¨À BùÀ CGÀ C¥À CÃÀ CÑÀ C×À D*À DLÀ DnÀ DtÀ D’À D­À DçÀ EÀ EÀ EÀ E]À EcÀ E©À FÀ FEÀ FSÀ FYÀ F¬À FÎÀ FöÀ GÀ G%À GdÀ G}À G£À GÉÀ GÓÀ GİÀ GãÀ HÀ HÀ H À H!À HjÀ H«À HÅÀ IÀ IÀ IÀ IƒÀ I›À IÀÀ IÛÀ IßÀ IàÀ IùÀ IúÀ JOÀ J¢À JïÀ KÀ KÀ KoÀ KÈÀ LÀ L+À L1À LÀ LÎÀ M#À MXÀ M^À M§À MÇÀ MÍÀ MãÀ N:À N@À N°À NÂÀ O>À OJÀ OgÀ O¼À OéÀ OğÀ PHÀ P‡À P«À PáÀ QÀ QÀ QnÀ QÈÀ RÀ RnÀ RÀ RçÀ SÀ S%À S[À S€À S‰À SèÀ SïÀ TÀ T-À T5À TMÀ TdÀ ThÀ TiÀ T­À TÃÀ TéÀ UÀ U,À UVÀ UbÀ U~À U©À UÙÀ UãÀ V	À V%À VIÀ VmÀ V|À V‚À V†À V‡À V×À VêÀ VğÀ WGÀ W›À XÀ X/À X=À XCÀ X¢À XÄÀ XæÀ XìÀ XíÀ Y'À YSÀ YWÀ YXÀ Y©À Y¯À YõÀ ZaÀ Z¯À Z½À ZÃÀ ["À [DÀ [rÀ [”À [¡À [æÀ [ÿÀ \%À \KÀ \UÀ \_À \eÀ \iÀ \jÀ \»À ]À ]$À ]rÀ ]€À ]†À ^À ^$À ^UÀ ^vÀ ^zÀ ^{À ^‡À ^®À ^ÜÀ _$À _%À _FÀ _‡À _µÀ _ÿÀ `=À `vÀ `µÀ `úÀ aSÀ aiÀ awÀ a¾À aÌÀ aÖÀ aŞÀ aäÀ aåÀ b	À b-À bHÀ bOÀ bSÀ bTÀ b`À bsÀ bÀ bÁÀ bßÀ búÀ cÀ cÀ cÀ cÀ cNÀ cpÀ cŠÀ cÆÀ cÿÀ d À d8À d9À dEÀ d·À d¹À dºÀ eÀ e.À e2À elÀ e´À eğÀ eôÀ f4À fiÀ ftÀ f–À fçÀ g/À gSÀ gvÀ g—À gµÀ gáÀ gşÀ h À h@À h`À h†À h§À h­À h®À hãÀ héÀ i5À i\À i]À i‘À i—À iÙÀ iùÀ jÀ jÀ j`À jwÀ j}À jÂÀ kÀ kZÀ kqÀ kwÀ kÇÀ lÀ ldÀ l~À lœÀ lÀ läÀ lûÀ mÀ mFÀ mÀ m»À mÁÀ nÀ n^À n®À nÂÀ nİÀ nŞÀ o&À o?À oEÀ oÀ o²À pÀ p3À p9À pwÀ p­À pËÀ pÌÀ qÀ q2À q8À q‡À qÕÀ r!À rqÀ r”À r·À r¸À râÀ rèÀ s7À sƒÀ s¸À s¾À tÀ tYÀ t©À tÒÀ tØÀ u'À uJÀ ueÀ ufÀ u—À uÀ uìÀ vÀ vÀ v?À vEÀ všÀ v»À v¼À vúÀ wÀ w!À w"À wnÀ wrÀ w»À xÀ x'À xsÀ xtÀ xĞÀ xÑÀ xıÀ y'À yVÀ yoÀ ypÀ y|À y½À yÜÀ zÀ z8À zRÀ zYÀ z]À z^À zjÀ z€À zúÀ zşÀ { À {À {NÀ {RÀ {”À {ÃÀ {ÇÀ |À |fÀ |jÀ |¶À |øÀ }À }À }fÀ }«À }¶À }ÏÀ ~À ~.À ~OÀ ~rÀ ~xÀ ~yÀ ~ÂÀ À À KÀ sÀ tÀ ´À ºÀ şÀ €&À €'À €kÀ €‰À €œÀ €¢À €£À €ÁÀ €àÀ À !À 'À (À QÀ …À ¥À ¸À ÀÀ ıÀ ‚À ‚À ‚ZÀ ‚pÀ ‚À ‚²À ‚ÖÀ ‚İÀ ‚úÀ ƒOÀ ƒªÀ ƒ±À ƒµÀ ƒ·À ƒ¸À „À „XÀ „YÀ „wÀ „œÀ „¹À „ºÀ „ÆÀ „åÀ „õÀ …:À …„À … À …ôÀ †JÀ †©À †´À †¼À †ÏÀ †ÙÀ ‡%À ‡)À ‡*À ‡?À ‡cÀ ‡‡À ‡®À ‡µÀ ˆÀ ˆ9À ˆoÀ ˆ©À ˆ°À ˆÇÀ ˆËÀ ˆÍÀ ˆÎÀ ‰À ‰lÀ ‰oÀ ‰ºÀ ŠÀ Š\À ŠªÀ ŠùÀ ‹À ‹NÀ ‹lÀ ‹€À ‹•À ‹¼À ‹ÜÀ ŒÀ Œ-À ŒOÀ ŒyÀ ŒzÀ ŒÀ Œ»À ŒàÀ ŒáÀ 2À ƒÀ ÖÀ À +À NÀ hÀ |À ‚À ªÀ èÀ $À SÀ WÀ XÀ dÀ ĞÀ ÒÀ ÓÀ (À wÀ “À –À ëÀ ‘:À ‘gÀ ‘~À ‘œÀ ‘ÆÀ ‘ŞÀ ‘äÀ ‘åÀ ‘úÀ ’À ’8À ’9À ’EÀ ’lÀ ’À ’±À ’·À ’¸À ’ÒÀ “À “nÀ “­À “®À “×À ”)À ”MÀ ”NÀ ”€À ”ªÀ ”ıÀ •À •À •:À •\À •‹À •£À •ÁÀ •ĞÀ •İÀ •ôÀ •ÿÀ –À –À –À –À –À –OÀ –cÀ –€À –¢À –ÃÀ –çÀ —	À —AÀ —xÀ —µÀ —ëÀ ˜À ˜2À ˜PÀ ˜zÀ ˜¬À ˜²À ˜³À ˜ÌÀ ˜ñÀ ™À ™2À ™WÀ ™‹À ™ŒÀ ™×À š!À š[À š¤À š¥À šÆÀ šåÀ šæÀ ›À ›À › À ›BÀ ›ŠÀ ›‹À ›ÙÀ œ(À œxÀ œ´À œµÀ À 9À VÀ |À ›À œÀ ÆÀ À [À “À ™À šÀ ¾À õÀ ŸqÀ Ÿ©À ŸõÀ  RÀ  XÀ  YÀ  À  ÌÀ  ıÀ ¡JÀ ¡SÀ ¡ÆÀ ¡ûÀ ¢jÀ ¢pÀ ¢qÀ ¢šÀ ¢ÌÀ £(À £vÀ £wÀ £ªÀ £×À ¤À ¤À ¤À ¤À ¤eÀ ¤©À ¤ËÀ ¥5À ¥6À ¥^À ¥¦À ¥§À ¥¿À ¥íÀ ¦OÀ ¦¨À ¦°À ¦±À ¦óÀ §$À §FÀ §À §ÄÀ §èÀ §ñÀ ¨)À ¨kÀ ¨qÀ ¨rÀ ¨ÄÀ ©À ©ZÀ ©¤À ©«À ª À ªCÀ ª‘À ªŞÀ «.À «UÀ «VÀ «|À «ŸÀ «ÌÀ ¬À ¬FÀ ¬hÀ ¬qÀ ¬ºÀ ¬õÀ ¬ûÀ ¬üÀ ­BÀ ­nÀ ­±À ®À ®À ®À ®7À ®{À ®¬À ®êÀ ®óÀ ¯KÀ ¯×À ¯İÀ ¯ŞÀ °À °>À °œÀ °À °ëÀ ±À ±bÀ ±ŒÀ ±²À ±üÀ ²_À ²À ²¬À ²ÊÀ ²æÀ ³
+À ³:À ³`À ³ˆÀ ³‘À ³÷À ´_À ´¬À ´ÎÀ ´íÀ µ*À µ3À µwÀ µ­À µ³À µ´À µàÀ ¶8À ¶_À ¶ƒÀ ¶¥À ¶éÀ ¶ôÀ ¶üÀ ¶ıÀ ·%À ·tÀ ·¢À ·ÔÀ ¸À ¸8À ¸nÀ ¸«À ¸ÜÀ ¹À ¹DÀ ¹xÀ ¹­À ¹ßÀ ºÀ ºHÀ ºÀ º¸À ºğÀ »&À »dÀ »”À »À »ûÀ ¼)À ¼‰À ¼šÀ ¼ØÀ ¼âÀ ¼ñÀ ½5À ½…À ½ÖÀ ¾"À ¾7À ¾ƒÀ ¾´À ¾éÀ ¿À ¿À ¿À ¿dÀ ¿ÍÀ ¿ÎÀ ¿ßÀ À À À+À ÀÀ ÀòÀ Á]À ÁÀ ÁØÀ ÁúÀ Â6À Â}À ÂÀ ÂüÀ ÃSÀ ÃªÀ ÃüÀ ÄÀ Ä&À Ä—À Ä¨À Ä¸À ÄÄÀ ÄÎÀ ÄãÀ ÄïÀ ÄõÀ ÄöÀ Å#À Å„À Å¿À ÅÅÀ ÅÆÀ ÅğÀ Æ5À ÆmÀ ÆsÀ ÆtÀ Æ¡À ÆéÀ Ç$À Ç*À Ç+À ÇMÀ ÇƒÀ Ç½À ÇÄÀ ÇÈÀ ÇÉÀ ÇÕÀ È
+À È8À ÈnÀ È¢À ÉÀ ÉpÀ ÉĞÀ ÉşÀ ÊEÀ ÊIÀ ÊKÀ ÊLÀ Ê™À ÊÀ ÊæÀ ÊêÀ Ë%À ËjÀ Ë©À ËãÀ Ì"À ÌLÀ ÌeÀ Ì‰À Ì®À ÌÒÀ Ì÷À ÌıÀ ÌşÀ ÍÀ ÍAÀ ÍyÀ Í­À Í®À ÍéÀ ÎÀ ÎÀ Î%À Î…À Î‡À ÎˆÀ ÏÀ Ï\À Ï‘À ÏÁÀ ÏñÀ Ğ*À Ğ]À ĞÀ ĞÈÀ ÑAÀ ÑrÀ Ñ«À ÑãÀ ÑıÀ ÑşÀ Ò
+À ÒÀ Ò6À Ò7À ÒfÀ Ò’À Ò¥À ÒæÀ ÒÿÀ Ó À Ó À ÓsÀ ÓÀ Ó¹À ÓÆÀ ÔÀ Ô`À ÔÀ Ô‡À Ô‹À ÔŒÀ Ô˜À Ô«À ÔÎÀ ÔúÀ Õ/À Õ^À ÕxÀ ÕÀ Õ‘À Õ’À ÕÀ ÕâÀ ÖÀ Ö„À Ö À ÖíÀ ×À ×À ×GÀ ×}À ×ÖÀ ×äÀ ×êÀ ØÀ ØWÀ Ø“À ØâÀ ÙÀ Ù<À Ù`À ÙÀ Ù˜À Ù§À ÙöÀ ÚDÀ ÚÀ Ú¹À ÚÕÀ ÚöÀ ÛÀ Û;À ÛCÀ ÛIÀ ÛMÀ ÛNÀ Û”À ÛÈÀ ÛÖÀ ÜÀ ÜÀ Ü"À ÜLÀ ÜuÀ ÜyÀ ÜzÀ Ü—À ÜÃÀ ÜôÀ İ'À İJÀ İfÀ İmÀ İ¢À İŞÀ ŞÀ Ş!À Ş*À Ş+À Ş”À ŞÀÀ ŞÇÀ ŞÈÀ Ş÷À ß-À ßUÀ ßqÀ ßxÀ ßëÀ ßìÀ à"À à À á$À á%À áFÀ á–À áÊÀ áıÀ âTÀ âªÀ â·À ãÀ ã‰À ãùÀ äkÀ äqÀ ärÀ äâÀ åÀ å[À å_À å`À å§À å¹À åñÀ æ'À æSÀ æ[À æcÀ ægÀ æhÀ æ¡À æËÀ æéÀ æíÀ æîÀ æúÀ ç!À ç3À ç[À çuÀ ç£À çâÀ çşÀ è.À èSÀ èaÀ èpÀ èÀ è»À èäÀ éÀ é>À éOÀ é^À é™À é´À éçÀ ê
+À ê9À ê\À êkÀ êwÀ ê„À êŸÀ êÊÀ êñÀ ë!À ëDÀ ëSÀ ë`À ëiÀ ëpÀ ëtÀ ëuÀ ë“À ëôÀ ëøÀ ëùÀ ì%À ìNÀ ìvÀ ì}À ìÀ ìƒÀ ì„À ìÆÀ ìÊÀ íÀ íÀ íGÀ í˜À íÆÀ íÊÀ íŞÀ î,À îxÀ îÀÀ îèÀ îìÀ ï5À ïEÀ ïIÀ ï]À ï«À ïúÀ ğIÀ ğƒÀ ğ‡À ğìÀ ğğÀ ñ9À ñIÀ ñMÀ ñaÀ ñ®À ñÿÀ òKÀ òƒÀ òÒÀ ó	À óÀ ópÀ ótÀ ó½À óÍÀ óÑÀ ôÀ ôÀ ôXÀ ôŸÀ ôæÀ õ-À õqÀ õ¦À õêÀ ö,À ö;À ö?À öÀ öÅÀ ÷À ÷FÀ ÷~À ÷¿À ÷ÙÀ ÷İÀ ø$À ø(À øgÀ ø¶À ù
+À ùÀ ù]À ùÅÀ ú
+À úÀ úvÀ úËÀ úÏÀ úæÀ úêÀ ûÀ ûÀ ûDÀ û{À û¹À ûçÀ ûëÀ ü2À üoÀ ü½À ıÀ ıLÀ ıWÀ ı[À ıoÀ ıÀÀ ş
+À şÀ şÀ şgÀ ş“À ş©À şíÀ ÿ#À ÿ/À ÿ7À ÿ>À ÿFÀ ÿVÀ ÿZÀ ÿÀ ÿİÀ À À &À *À zÀ À íÀ(ÀyÀÊÀÀ`ÀqÀÀÀ	ÀÀkÀºÀÀIÀ™ÀÖÀÀmÀ¢ÀöÀ>À…ÀâÀ
+ÀGÀZÀiÀzÀ‰À¨ÀÏÀöÀÀ]ÀnÀˆÀœÀ¹À×ÀíÀ	À	*À	CÀ	À	œÀ	ÅÀ	àÀ	şÀ
++À
+[À
+sÀ
+yÀ
+zÀ
+ÀÀÀSÀ{ÀÀÎÀÀ"ÀiÀ¯ÀûÀDÀŠÀÀ À¦ÀîÀÀ,À-À{ÀÇÀõÀûÀAÀZÀ`À‰ÀÀŸÀ¥ÀïÀ	À.À/ÀgÀŒÀÀ¸À¾ÀÀCÀÀÜÀÀÀcÀ´ÀÀJÀsÀyÀÇÀÀdÀ™À¯À°ÀüÀÀ,ÀRÀSÀ¡À§ÀÀVÀWÀ²À¸À"ÀfÀgÀ°À¶À ÀHÀNÀ‡ÀÀÈÀúÀ)À*ÀyÀÀ³ÀëÀìÀ6À‚À¬À²ÀÎÀÔÀÀ!ÀtÀ£À©À¿ÀùÀ:À‹À•À›ÀíÀÿÀÀÀoÀ˜À™ÀãÀ(ÀRÀXÀtÀzÀÄÀÊÀ ÀOÀUÀkÀ›ÀßÀ -À =À CÀ ™À «À ÆÀ ÇÀ!!À!MÀ!NÀ!©À!¯À!ùÀ"3À"TÀ"UÀ"¢À"¨À"êÀ#
+À#À#SÀ#YÀ#§À#ÈÀ#ÎÀ$À$4À$YÀ$ZÀ$ˆÀ$À$İÀ%+À%aÀ%gÀ%·À&À&TÀ&{À&À&ÉÀ'À'DÀ'JÀ'—À'àÀ'õÀ'ûÀ(GÀ(’À(ŞÀ(şÀ)À)À)À)hÀ)ŸÀ)åÀ*1À*sÀ*À*‘À*ÚÀ+)À+uÀ+{À+ÃÀ,À,`À,fÀ,~À,¦À,§À,ğÀ,öÀ-CÀ-ŒÀ-’À-ÖÀ-÷À.À.À.QÀ.„À.…À.ÏÀ.İÀ.ãÀ/)À/sÀ/ÁÀ0À0<À0hÀ0À0À0ÒÀ0ëÀ0ñÀ1*À10À1iÀ1“À1”À1ÖÀ1ïÀ1õÀ2.À24À2mÀ2šÀ2›À2áÀ2çÀ32À3eÀ3kÀ3¸À4	À4À4À4%À4rÀ4„À4£À4¤À4ñÀ5À5À5fÀ5ªÀ5°À5ğÀ5öÀ6À6\À6À6“À6áÀ6óÀ6ùÀ7À7_À7ªÀ7÷À8HÀ8À8¡À8§À8õÀ9À9À9ZÀ9¥À9õÀ:EÀ:À:…À:ÕÀ;À;bÀ;hÀ;µÀ;üÀ<.À<‚À<œÀ<±À<·À<ëÀ<ÿÀ=PÀ=YÀ=qÀ=ÜÀ>>À>‘À>šÀ>«À?À?fÀ?“À?ÚÀ?ãÀ?ôÀ@TÀ@²ÀAÀAqÀAÎÀB(ÀBUÀB^ÀB•ÀBÀB¡ÀB¢ÀBïÀCÀCÀChÀC°ÀC¶ÀCöÀCüÀDÀDÀD[ÀD¦ÀD¾ÀDöÀE3ÀE7ÀE8ÀE…ÀEµÀE»ÀEşÀFÀFNÀF˜ÀFæÀFøÀFşÀGKÀG™ÀGßÀHÀHÀH_ÀH®ÀHıÀIGÀIYÀI§ÀJÀJ0ÀJfÀJ|ÀJ×ÀJâÀJüÀK`ÀKµÀKÀÀKÓÀL8ÀL’ÀLÁÀM
+ÀMÀM(ÀMŠÀMêÀNJÀN´ÀN¿ÀNøÀOÀOÀO3ÀO7ÀO8ÀO†ÀO”ÀOšÀOçÀP5ÀP‚ÀPÓÀPèÀPîÀQ.ÀQ4ÀQDÀQJÀQ›ÀQàÀR4ÀRRÀR·ÀRâÀRïÀSGÀSrÀSxÀS|ÀS}ÀS‰ÀS»ÀS½ÀS¾ÀSÚÀSŞÀT*ÀTRÀT°ÀT¼ÀTñÀTòÀTşÀUGÀUÀUÂÀUÆÀUÇÀU×ÀUØÀV2ÀVÀVÀVºÀV»ÀVùÀW(ÀWfÀW•ÀWÖÀXÀXWÀX¢ÀX£ÀX¿ÀXğÀXöÀY?ÀYrÀY°ÀYñÀYòÀZ!ÀZ'ÀZ7ÀZ=ÀZ‰ÀZÀZÎÀZÏÀ[À[À[À[À[mÀ[„À[ºÀ[»À[éÀ\7À\KÀ\sÀ\}À\«À\±À\µÀ\¶À\çÀ];À]OÀ]zÀ]„À]µÀ]»À]¿À]ÀÀ]ãÀ]éÀ^:À^lÀ^rÀ^ÀÀ_À_À_$À_iÀ_€À_†À_×À_íÀ`5À``À`fÀ`‹À`À`À`¼À`ÂÀaÀaQÀaWÀa¥ÀaõÀbÀb	ÀbQÀbhÀbnÀb¿ÀbØÀcÀcBÀcHÀcpÀctÀcuÀc®ÀcÜÀcİÀcïÀd@ÀdAÀdÀd©Àe,Àe[ÀekÀelÀeŸÀe³ÀeãÀeíÀeóÀe÷ÀeøÀfÀfÀfkÀf ÀgÀgÀgWÀgxÀhÀhHÀhXÀhYÀh˜Àh¬ÀhèÀhòÀhøÀhüÀhıÀiÀiÀidÀi°ÀiÃÀjÀjQÀj‰Àj¼Àj½ÀjéÀk.ÀkƒÀkÕÀl ÀlpÀlÎÀm(Àm^ÀmªÀmñÀnÀnTÀn‡Àn—ÀnğÀnüÀo7ÀoiÀosÀo‰Ào‘Ào’ÀoêÀpDÀp`ÀpÀq	ÀqDÀqqÀq{Àq«Àq³Àq´ÀqãÀrÀrLÀrŒÀr¼ÀrâÀsÀsWÀsŸÀs²ÀsÃÀsÒÀsßÀsêÀtÀt8ÀtAÀtGÀtKÀtLÀtpÀt—ÀtÏÀtõÀtıÀuÀuPÀuÀu‹Àu Àu¬Àu²Àu¶Àu·ÀuñÀu÷ÀvHÀv_ÀvƒÀvªÀv¯Àv³Àv´ÀvñÀv÷ÀwHÀwbÀwÀw¸Àw¾ÀwÂÀwÃÀwëÀx%Àx)Àx*Àx_Àx|ÀxœÀxÒÀxîÀyÀyÀy5ÀyVÀylÀy†Ày¸Ày¿ÀyÏÀz&ÀzBÀzÀzÎÀ{*À{5À{=À{PÀ{ZÀ{[À{”À{üÀ|'À|(À|GÀ|fÀ|gÀ|À|ºÀ|ìÀ}À}IÀ}QÀ}WÀ}XÀ}~À}™À}ÂÀ}ÒÀ}ÚÀ~À~HÀ~kÀ~lÀ~†À~»À~ÃÀ~ÄÀ~ğÀÀ$À]ÀÀ‹ÀŒÀºÀëÀóÀ€À€À€À€HÀ€UÀ€~À€İÀÀÀÀÀ?ÀkÀŠÀ£ÀÀÀÈÀÎÀÏÀ÷À‚À‚BÀ‚qÀ‚—À‚­À‚ØÀ‚êÀ‚ôÀƒ1ÀƒPÀƒYÀƒqÀƒ­ÀƒÅÀƒıÀ„À„À„À„4À„QÀ„pÀ„ À„ÉÀ„ÓÀ„ÜÀ„ôÀ…À…>À…ZÀ…nÀ…À…°À…·À…¸À…ÑÀ†À†À†À†BÀ†UÀ†fÀ†zÀ†‘À†µÀ†ıÀ‡À‡À‡À‡À‡lÀ‡­À‡³ÀˆÀˆÀˆÀˆ`Àˆ¯ÀˆÂÀˆÈÀ‰À‰bÀ‰†À‰ŒÀ‰ßÀŠ%ÀŠrÀŠxÀŠÈÀ‹À‹JÀ‹PÀ‹ŸÀ‹íÀŒ#ÀŒ)ÀŒyÀŒÊÀÀ=ÀCÀYÀ£ÀíÀÀ#À†À˜ÀÀíÀ&À,ÀxÀ´ÀãÀéÀ3À€À¯ÀµÀ‘À‘
+À‘ À‘lÀ‘²À‘¸À’À’-À’=À’CÀ’’À’¦À’òÀ“?À“OÀ“ À“óÀ”OÀ”›À”×À•
+À•'À•CÀ•ZÀ•rÀ•ŠÀ•«À•ÁÀ•ÛÀ–À–<À–CÀ–SÀ–{À–—À–âÀ—#À—À—ŠÀ—’À—¥À—¯À—İÀ—ŞÀ—şÀ˜HÀ˜¨À˜¾À˜ĞÀ˜ÿÀ™À™-À™VÀ™€À™À™´À™ØÀ™úÀšÀšBÀš“ÀšœÀš¤ÀšÅÀšÉÀšÊÀšêÀ›*À›mÀ›´À›óÀ›ôÀœ:Àœ;Àœ|Àœ£À	À
+ÀKÀrÀ°ÀüÀ8ÀtÀ{ÀÀ€À±ÀŞÀŸÀŸ"ÀŸ#ÀŸuÀŸÈÀ À CÀ ¹À ôÀ¡¿À¢:À¢@À¢AÀ¢SÀ¢“À¢ÆÀ¢ÎÀ¢ÏÀ£-À£ŠÀ£ŸÀ£ìÀ£ğÀ£ñÀ¤"À¤#À¤sÀ¤¿À¤éÀ¥À¥hÀ¥¹À¥âÀ¥ïÀ¦%À¦HÀ¦QÀ¦WÀ¦[À¦\À¦kÀ¦lÀ¦ À¦¡À¦ÈÀ¦üÀ§ À§À§À§"À§9À§À¨À¨sÀ¨¾À¨ıÀ©À©"À©RÀ©YÀ©ZÀ©ŸÀ©ËÀ©ŞÀ©åÀ©éÀ©êÀ©öÀª#ÀªIÀª¼À«À«‰À«À«èÀ¬WÀ¬]À¬”À¬¦À­À­BÀ­\À­µÀ­ïÀ­şÀ®À®NÀ®«À®æÀ®õÀ¯À¯À¯"À¯.À¯VÀ¯zÀ¯ÊÀ¯öÀ°À°-À°5À°;À°?À°@À°LÀ°mÀ°¾À°õÀ±VÀ±¦À±ÌÀ²*À²WÀ²]À²¢À²ÕÀ²şÀ²ÿÀ³'À³JÀ³NÀ³OÀ³[À³nÀ³À³ÂÀ³ûÀ´&À´CÀ´cÀ´xÀ´|À´}À´“À´°À´ÃÀ´ÙÀ´şÀµ"ÀµHÀµoÀµ“Àµ¿ÀµÆÀ¶À¶+À¶NÀ¶uÀ¶À¶¥À¶ÂÀ¶úÀ· À·À·GÀ·cÀ·¬À·µÀ·»À·¼À·ÕÀ·éÀ·ûÀ¸À¸IÀ¸TÀ¸]À¸cÀ¸gÀ¸hÀ¸·À¸ÛÀ¸÷À¹À¹À¹8À¹VÀ¹€À¹´À¹ñÀº ÀºUÀºÀºÍÀºñÀºüÀ»À»aÀ» À»ÁÀ¼À¼%À¼.À¼4À¼8À¼9À¼…À¼¦À¼¿À¼ÔÀ¼æÀ½ À½À½GÀ½xÀ½µÀ½äÀ¾À¾^À¾‹À¾¬À¾·À¾ÕÀ¿À¿XÀ¿yÀ¿¹À¿İÀ¿æÀ¿ìÀ¿ğÀ¿ñÀÀÀÀ8ÀÀ9ÀÀÀÀ²ÀÀûÀÁ	ÀÁÀÁ!ÀÁ?ÀÁzÀÁ‚ÀÁ†ÀÁ‡ÀÁ“ÀÁºÀÁèÀÂÀÂMÀÂ‘ÀÂ’ÀÂÄÀÂ×ÀÂçÀÃÀÃ?ÀÃ~ÀÃ¾ÀÃÇÀÃáÀÄÀÄ0ÀÄQÀÄºÀÄîÀÄõÀÅÀÅ$ÀÅ6ÀÅLÀÅjÀÅŒÀÅ—ÀÅ¸ÀÅÙÀÅùÀÆÀÆ>ÀÆGÀÆMÀÆNÀÆoÀÆÉÀÇ1ÀÇwÀÇŒÀÇÀÇ¶ÀÇûÀÈ-ÀÈ[ÀÈ~ÀÈ‹ÀÈ–ÀÈ´ÀÈÖÀÈ÷ÀÉÀÉ=ÀÉFÀÉLÀÉMÀÉrÀÉÀÉÀÉÚÀÉüÀÊ'ÀÊCÀÊhÀÊ±ÀÊ¼ÀÊÅÀÊÚÀÊìÀÊûÀËÀË@ÀË`ÀËƒÀË»ÀËÄÀËÊÀËËÀËôÀÌÀÌoÀÌ›ÀÌ¾ÀÍÀÍbÀÍcÀÍxÀÍŠÀÍ¯ÀÍÏÀÍñÀÎÀÎ4ÀÎŸÀÎŞÀÎçÀÎíÀÎîÀÏÀÏNÀÏzÀÏÍÀĞ9ÀĞrÀĞsÀĞˆÀĞšÀĞÅÀĞëÀÑÀÑ>ÀÑaÀÑ„ÀÑÃÀÑÌÀÑÒÀÑÓÀÒÀÒÀÒ,ÀÒ?ÀÒdÀÒ€ÀÒÂÀÒÑÀÒŞÀÒùÀÓÀÓ5ÀÓSÀÓ…ÀÓ£ÀÓâÀÔÀÔ(ÀÔiÀÔ¨ÀÔ½ÀÔĞÀÔáÀÔğÀÔıÀÕÀÕ0ÀÕRÀÕrÀÕ•ÀÕÖÀÖÀÖÀÖ$ÀÖ%ÀÖSÀÖhÀÖzÀÖÀÖÉÀÖëÀ×À×.À×RÀ×‘À×šÀ× À×¡À×´À×ÄÀ×ëÀØ*ÀØdÀØ‘ÀØ×ÀÙÀÙÀÙ6ÀÙUÀÙsÀÙ“ÀÙ´ÀÙ»ÀÙ¼ÀÙŞÀÙıÀÚÀÚ5ÀÚIÀÚdÀÚ’ÀÚºÀÛÀÛCÀÛPÀÛsÀÛ—ÀÛ¹ÀÛŞÀÜÀÜÀÜ1ÀÜTÀÜuÀÜ˜ÀÜ§ÀÜ­ÀÜ®ÀÜĞÀÜıÀİ-Àİ:ÀİjÀİ—ÀİÀİÀİæÀŞ/ÀŞˆÀŞÀŞÀŞÚÀßÀßcÀßËÀßÒÀßÓÀàÀàJÀàKÀàfÀà‚Àà­ÀàÖÀàïÀá=Àá¿ÀáÛÀâ
+ÀâHÀâYÀâ†Àâ±ÀâÛÀã$ÀãLÀã~ÀãÕÀä=Àä’ÀäÉÀå)ÀåYÀå“ÀååÀæÀæ(ÀæLÀæ]ÀælÀæzÀæ…ÀæÀæ•Àæ™Àæ›ÀæœÀæÏÀæõÀæöÀçÀçÀç!ÀçJÀç Àç¤Àç¥Àç±Àç×ÀçÿÀè*Àè.Àè0Àè1ÀèmÀèqÀèµÀèÚÀéÀépÀéƒÀé¤Àé¥ÀéöÀê#Àê$Àê„Àê Àê¡ÀêñÀëÀëÀëÀëGÀëfÀëuÀëœÀë¸ÀëÑÀëîÀìÀì(ÀìGÀìaÀìuÀì…ÀìœÀì²ÀìÆÀìÌÀìÍÀí?ÀíXÀívÀí—ÀíºÀíÛÀíúÀîÀî5ÀîPÀîlÀîˆÀî­Àî®ÀîºÀïÀïÀïÀïMÀï“Àï”Àï ÀïµÀïÌÀğ	ÀğPÀğTÀğUÀğaÀğtÀğ’Àğ§Àğ«Àğ¬Àğ¸ÀğñÀñÀñ`ÀñdÀñeÀñvÀñ Àñ¾ÀñÂÀñÃÀñ÷Àò<Àò`ÀòdÀòeÀòªÀò÷ÀóÀó;ÀófÀómÀóqÀórÀó§ÀóÅÀóçÀóíÀóñÀóòÀô7ÀôuÀô®ÀôìÀõ[Àõ‰Àõ¯ÀöÀöÀöÀöWÀöÀö‡ÀöÔÀ÷À÷<À÷kÀ÷zÀ÷€À÷’À÷–À÷—À÷£À÷ÊÀ÷æÀøÀøJÀø`Àø”ÀøèÀù ÀùÀùÀù,ÀùEÀù}ÀùÄÀùíÀúÀúHÀúsÀú¦ÀúÑÀúøÀû"ÀûGÀû|Àû¥ÀûÆÀûõÀü"Àü/Àü:ÀüCÀüJÀüNÀüOÀüQÀüRÀüÀü”ÀüáÀüåÀı0ÀırÀıÀıôÀşÀş1ÀşFÀşWÀşwÀş–Àş§Àş¨ÀşËÀşÍÀşÎÀşıÀÿÀÿ3ÀÿWÀÿqÀÿwÀÿxÀÿÀÿÄÀÿÅÀÿÑÀ À 4À 8À :   w/// @docImport 'package:flutter/services.dart';
+///
+/// @docImport 'app.dart';
+/// @docImport 'bottom_app_bar.dart';
+/// @docImport 'bottom_navigation_bar.dart';
+/// @docImport 'bottom_sheet_theme.dart';
+/// @docImport 'drawer_theme.dart';
+/// @docImport 'icon_button.dart';
+/// @docImport 'tab_controller.dart';
+/// @docImport 'tabs.dart';
+/// @docImport 'text_button.dart';‚'  ‚<  ‚V‚m ‚s  ‚ ‚Ä‚Ú‚Ü  ƒ  ƒ  ƒ1  ƒM  ƒi  ƒ  ƒ•  ƒª  ƒÁ  ƒ×  ƒù  „  „N  „f  „  „    ˆ`’%†¾/// Manages [SnackBar]s and [MaterialBanner]s for descendant [Scaffold]s.
+///
+/// {@youtube 560 315 https://www.youtube.com/watch?v=lytQi-slT5Y}
+///
+/// This class provides APIs for showing snack bars and material banners at the
+/// bottom and top of the screen, respectively.
+///
+/// To display one of these notifications, obtain the [ScaffoldMessengerState]
+/// for the current [BuildContext] via [ScaffoldMessenger.of] and use the
+/// [ScaffoldMessengerState.showSnackBar] or the
+/// [ScaffoldMessengerState.showMaterialBanner] functions.
+///
+/// When the [ScaffoldMessenger] has nested [Scaffold] descendants, the
+/// ScaffoldMessenger will only present the notification to the root Scaffold of
+/// the subtree of Scaffolds. In order to show notifications for the inner, nested
+/// Scaffolds, set a new scope by instantiating a new ScaffoldMessenger in
+/// between the levels of nesting.
+///
+/// {@tool dartpad}
+/// Here is an example of showing a [SnackBar] when the user presses a button.
+///
+/// ** See code in examples/api/lib/material/scaffold/scaffold_messenger.0.dart **
+/// {@end-tool}
+///
+/// {@youtube 560 315 https://www.youtube.com/watch?v=lytQi-slT5Y}
+///
+/// See also:
+///
+///  * [SnackBar], which is a temporary notification typically shown near the
+///    bottom of the app using the [ScaffoldMessengerState.showSnackBar] method.
+///  * [MaterialBanner], which is a temporary notification typically shown at the
+///    top of the app using the [ScaffoldMessengerState.showMaterialBanner] method.
+///  * [debugCheckHasScaffoldMessenger], which asserts that the given context
+///    has a [ScaffoldMessenger] ancestor.
+///  * Cookbook: [Display a SnackBar](https://docs.flutter.dev/cookbook/design/snackbars) R€“ ¤µI/// Creates a widget that manages [SnackBar]s for [Scaffold] descendants.¼	Ã  ËÚ   éy]`/// The widget below this widget in the tree.
+///
+/// {@macro flutter.widgets.ProxyWidget.child}  g‡Ü—S†…/// The state from the closest instance of this class that encloses the given
+/// context.
+///
+/// {@tool dartpad}
+/// Typical usage of the [ScaffoldMessenger.of] function is to call it in
+/// response to a user gesture or an application state change.
+///
+/// ** See code in examples/api/lib/material/scaffold/scaffold_messenger.of.0.dart **
+/// {@end-tool}
+///
+/// A less elegant but more expedient solution is to assign a [GlobalKey] to the
+/// [ScaffoldMessenger], then use the `key.currentState` property to obtain the
+/// [ScaffoldMessengerState] rather than using the [ScaffoldMessenger.of]
+/// function. The [MaterialApp.scaffoldMessengerKey] refers to the root
+/// ScaffoldMessenger that is provided by default.
+///
+/// {@tool dartpad}
+/// Sometimes [SnackBar]s are produced by code that doesn't have ready access
+/// to a valid [BuildContext]. One such example of this is when you show a
+/// SnackBar from a method outside of the `build` function. In these
+/// cases, you can assign a [GlobalKey] to the [ScaffoldMessenger]. This
+/// example shows a key being used to obtain the [ScaffoldMessengerState]
+/// provided by the [MaterialApp].
+///
+/// ** See code in examples/api/lib/material/scaffold/scaffold_messenger.of.1.dart **
+/// {@end-tool}
+///
+/// If there is no [ScaffoldMessenger] in scope, then this will assert in
+/// debug mode, and throw an exception in release mode.
+///
+/// See also:
+///
+///  * [maybeOf], which is a similar function but will return null instead of
+///    throwing if there is no [ScaffoldMessenger] ancestor.
+///  * [debugCheckHasScaffoldMessenger], which asserts that the given context
+///    has a [ScaffoldMessenger] ancestor. —V—d   ˜G‚T™Úa/// The state from the closest instance of this class that encloses the given
+/// context, if any.
+///
+/// Will return null if a [ScaffoldMessenger] is not found in the given context.
+///
+/// See also:
+///
+///  * [of], which is a similar function, except that it will throw an
+///    exception if a [ScaffoldMessenger] is not found in the given context. ™â™ğ   šŸMšÂ   šŸš  šğÀ H$œ’›/// State for a [ScaffoldMessenger].
+///
+/// A [ScaffoldMessengerState] object can be used to [showSnackBar] or
+/// [showMaterialBanner] for every registered [Scaffold] that is a descendant of
+/// the associated [ScaffoldMessenger]. Scaffolds will register to receive
+/// [SnackBar]s and [MaterialBanner]s from their closest ScaffoldMessenger
+/// ancestor.
+///
+/// Typically obtained via [ScaffoldMessenger.of].  œìN )7*89>€´‘ 
+¤©ïªÃîÄÔğñö.  (€–o 
+|»‚›ºœ¦¼½Â(×  îõ  ŸŸ   Ÿ'‚ÀŸ8   Ÿ'Ÿ(¡ë¡ğ  ¡ú¢	   £€¬£  ££(   £¸€Ï£½    ¥#€Â¥(  ¥0¥?   ¥ü˜-²|‹Ã/// Shows a [SnackBar] across all registered [Scaffold]s. Scaffolds register
+/// to receive snack bars from their closest [ScaffoldMessenger] ancestor.
+/// If there are several registered scaffolds the snack bar is shown
+/// simultaneously on all of them.
+///
+/// A scaffold can show at most one snack bar at a time. If this function is
+/// called while another snack bar is already visible, the given snack bar
+/// will be added to a queue and displayed after the earlier snack bars have
+/// closed.
+///
+/// To control how long a [SnackBar] remains visible, use [SnackBar.duration].
+///
+/// To remove the [SnackBar] with an exit animation, use [hideCurrentSnackBar]
+/// or call [ScaffoldFeatureController.close] on the returned
+/// [ScaffoldFeatureController]. To remove a [SnackBar] suddenly (without an
+/// animation), use [removeCurrentSnackBar].
+///
+/// See [ScaffoldMessenger.of] for information about how to obtain the
+/// [ScaffoldMessengerState].
+///
+/// {@tool dartpad}
+/// Here is an example of showing a [SnackBar] when the user presses a button.
+///
+/// ** See code in examples/api/lib/material/scaffold/scaffold_messenger_state.show_snack_bar.0.dart **
+/// {@end-tool}
+///
+/// ## Relative positioning of floating SnackBars
+///
+/// A [SnackBar] with [SnackBar.behavior] set to [SnackBarBehavior.floating] is
+/// positioned above the widgets provided to [Scaffold.floatingActionButton],
+/// [Scaffold.persistentFooterButtons], and [Scaffold.bottomNavigationBar].
+/// If some or all of these widgets take up enough space such that the SnackBar
+/// would not be visible when positioned above them, an error will be thrown.
+/// In this case, consider constraining the size of these widgets to allow room for
+/// the SnackBar to be visible.
+///
+/// {@tool dartpad}
+/// Here is an example showing how to display a [SnackBar] with [showSnackBar]
+///
+/// ** See code in examples/api/lib/material/scaffold/scaffold_messenger_state.show_snack_bar.0.dart **
+/// {@end-tool}
+///
+/// {@tool dartpad}
+/// Here is an example showing that a floating [SnackBar] appears above [Scaffold.floatingActionButton].
+///
+/// ** See code in examples/api/lib/material/scaffold/scaffold_messenger_state.show_snack_bar.1.dart **
+/// {@end-tool}
+///
+/// If [AnimationStyle.duration] is provided in the [snackBarAnimationStyle]
+/// parameter, it will be used to override the snackbar show animation duration.
+/// Otherwise, defaults to 250ms.
+///
+/// If [AnimationStyle.reverseDuration] is provided in the [snackBarAnimationStyle]
+/// parameter, it will be used to override the snackbar hide animation duration.
+/// Otherwise, defaults to 250ms.
+///
+/// To disable the snackbar animation, use [AnimationStyle.noAnimation].
+///
+/// {@tool dartpad}
+/// This sample showcases how to override [SnackBar] show and hide animation
+/// duration using [AnimationStyle] in [ScaffoldMessengerState.showSnackBar].
+///
+/// ** See code in examples/api/lib/material/scaffold/scaffold_messenger_state.show_snack_bar.2.dart **
+/// {@end-tool}
+/// ²²˜  ²§&²¸   ¾-y¾2  ¾K&¾\   ¿ª‚™¿¯  ¿Ì¿İ   À BG‚ÉÀ CN€÷/// Removes the current [SnackBar] (if any) immediately from registered
+/// [Scaffold]s.
+///
+/// The removed snack bar does not run its normal exit animation. If there are
+/// any queued snack bars, they begin their entrance animation immediately. À Cf9À C|  À C„À C˜À C™À EƒÀ E°€/// Removes the current [SnackBar] by running its normal exit animation.
+///
+/// The closed completer is called after the animation is complete. À EÆ7À EÜ  À EäÀ EøÀ EùÀ H#»À H²€…/// Removes all the snackBars currently in queue by clearing the queue
+/// and running normal exit animation on the current snackBar.   À IüŠkÀ O
+„™/// Shows a [MaterialBanner] across all registered [Scaffold]s. Scaffolds register
+/// to receive material banners from their closest [ScaffoldMessenger] ancestor.
+/// If there are several registered scaffolds the material banner is shown
+/// simultaneously on all of them.
+///
+/// A scaffold can show at most one material banner at a time. If this function is
+/// called while another material banner is already visible, the given material banner
+/// will be added to a queue and displayed after the earlier material banners have
+/// closed.
+///
+/// To remove the [MaterialBanner] with an exit animation, use [hideCurrentMaterialBanner]
+/// or call [ScaffoldFeatureController.close] on the returned
+/// [ScaffoldFeatureController]. To remove a [MaterialBanner] suddenly (without an
+/// animation), use [removeCurrentMaterialBanner].
+///
+/// See [ScaffoldMessenger.of] for information about how to obtain the
+/// [ScaffoldMessengerState].
+///
+/// {@tool dartpad}
+/// Here is an example of showing a [MaterialBanner] when the user presses a button.
+///
+/// ** See code in examples/api/lib/material/scaffold/scaffold_messenger_state.show_material_banner.0.dart **
+/// {@end-tool} À OÀ O-   À Tk‚À Tp  À T“À T¤   À V‰‚ÍÀ W¢	/// Removes the current [MaterialBanner] (if any) immediately from registered
+/// [Scaffold]s.
+///
+/// The removed material banner does not run its normal exit animation. If there are
+/// any queued material banners, they begin their entrance animation immediately. À WÀEÀ WÜ  À WäÀ WşÀ WÿÀ YZƒÀ Yü€–/// Removes the current [MaterialBanner] by running its normal exit animation.
+///
+/// The closed completer is called after the animation is complete. À ZCÀ Z4  À Z<À ZVÀ ZWÀ \l‚À ]€•/// Removes all the [MaterialBanner]s currently in queue by clearing the queue
+/// and running normal exit animation on the current [MaterialBanner].   À ^}ƒÕÀ ^  À ^–À ^¤  À ^}À ^~À bV€¼À bg   À bVÀ bW À c¢À c  À cP€® À cVÀ cm À ctÀ c„  À c6À c¯  À cåÀ cÍÀ cçÀ d4À d   À d;{À dL  À d_À dx  À d;À d< À dº’fÀ fz®/// The geometry of the [Scaffold] after all its contents have been laid out
+/// except the [FloatingActionButton].
+///
+/// The [Scaffold] passes this pre-layout geometry to its
+/// [FloatingActionButtonLocation], which produces an [Offset] that the
+/// [Scaffold] uses to position the [FloatingActionButton].
+///
+/// For a description of the [Scaffold]'s geometry after it has
+/// finished laying out, see the [ScaffoldGeometry]. À f˜‚ À g7À gP€”/// Abstract const constructor. This constructor enables subclasses to provide
+/// const constructors so that they can be used in const expressions.
+À gWÀ gf  À gzÀ g‰  À g›À gª  À g¹&À gÈ  À gåÀ gô  À hÀ h  À h$À h3  À hDÀ hS  À hd À hs  À hŠÀ h™   
+À h°€ªÀ iB€€/// The [Size] of [Scaffold.floatingActionButton].
+///
+/// If [Scaffold.floatingActionButton] is null, this will be [Size.zero]. À i_€¶À j€“/// The [Size] of the [Scaffold]'s [BottomSheet].
+///
+/// If the [Scaffold] is not currently showing a [BottomSheet],
+/// this will be [Size.zero]. À j‚€À l‚M/// The vertical distance from the Scaffold's origin to the bottom of
+/// [Scaffold.body].
+///
+/// This is useful in a [FloatingActionButtonLocation] designed to
+/// place the [FloatingActionButton] at the bottom of the screen, while
+/// keeping it above the [BottomSheet], the [Scaffold.bottomNavigationBar],
+/// or the keyboard.
+///
+/// The [Scaffold.body] is laid out with respect to [minInsets] already. This
+/// means that a [FloatingActionButtonLocation] does not need to factor in
+/// [EdgeInsets.bottom] of [minInsets] when aligning a [FloatingActionButton]
+/// to [contentBottom]. À lŸ‚<À nÑ‚/// The vertical distance from the [Scaffold]'s origin to the top of
+/// [Scaffold.body].
+///
+/// This is useful in a [FloatingActionButtonLocation] designed to
+/// place the [FloatingActionButton] at the top of the screen, while
+/// keeping it below the [Scaffold.appBar].
+///
+/// The [Scaffold.body] is laid out with respect to [minInsets] already. This
+/// means that a [FloatingActionButtonLocation] does not need to factor in
+/// [EdgeInsets.top] of [minInsets] when aligning a [FloatingActionButton] to
+/// [contentTop]. À nàéÀ pÀº/// The minimum padding to inset the [FloatingActionButton] by for it
+/// to remain visible.
+///
+/// This value is the result of calling [MediaQueryData.padding] in the
+/// [Scaffold]'s [BuildContext],
+/// and is useful for insetting the [FloatingActionButton] to avoid features like
+/// the system status bar or the keyboard.
+///
+/// If [Scaffold.resizeToAvoidBottomInset] is set to false,
+/// [EdgeInsets.bottom] of [minInsets] will be 0.0. À pÎçÀ r§·/// The minimum padding to inset interactive elements to be within a safe,
+/// un-obscured space.
+///
+/// This value reflects the [MediaQueryData.viewPadding] of the [Scaffold]'s
+/// [BuildContext] when [Scaffold.resizeToAvoidBottomInset] is false or and
+/// the [MediaQueryData.viewInsets] > 0.0. This helps distinguish between
+/// different types of obstructions on the screen, such as software keyboards
+/// and physical device notches. À rº‚©À uW‚w/// The [Size] of the whole [Scaffold].
+///
+/// If the [Size] of the [Scaffold]'s contents is modified by values such as
+/// [Scaffold.resizeToAvoidBottomInset] or the keyboard opening, then the
+/// [scaffoldSize] will not reflect those changes.
+///
+/// This means that [FloatingActionButtonLocation]s designed to reposition
+/// the [FloatingActionButton] based on events such as the keyboard popping
+/// up should use [minInsets] to make sure that the [FloatingActionButton] is
+/// inset by enough to remain visible.
+///
+/// See [minInsets] and [MediaQueryData.padding] for more information on the
+/// appropriate insets to apply. À uh€À uù/// The [Size] of the [Scaffold]'s [SnackBar].
+///
+/// If the [Scaffold] is not showing a [SnackBar], this will be [Size.zero]. À v
+€¯À v§€‹/// The [Size] of the [Scaffold]'s [MaterialBanner].
+///
+/// If the [Scaffold] is not showing a [MaterialBanner], this will be [Size.zero]. À v¾_À w;/// The [TextDirection] of the [Scaffold]'s [BuildContext].   À fiÀ fjÀ w"ƒİÀ x-€ù/// A snapshot of a transition between two [FloatingActionButtonLocation]s.
+///
+/// [ScaffoldState] uses this to seamlessly change transition animations
+/// when a running [FloatingActionButtonLocation] transition is interrupted by a new transition. À xvY À x|À xš À x›
+À x¡  À x§À x­  À x±À x·  À xÀÀ xÆ   À xÓ(À xö  À xÿ&À y"  À y)+À yL  À yXÀ ye   À yr€êÀ y…  À y*À yª  À yrÀ ysÀ z`€À zs   À z`À zaÀ xÀ xÀ {ˆµÀ }¼‚©/// Geometry information for [Scaffold] components after layout is finished.
+///
+/// To get a [ValueNotifier] for the scaffold geometry of a given
+/// [BuildContext], use [Scaffold.geometryOf].
+///
+/// The ScaffoldGeometry is only available during the paint phase, because
+/// its value is computed during the animation and layout phases prior to painting.
+///
+/// For an example of using the [ScaffoldGeometry], see the [BottomAppBar],
+/// which uses the [ScaffoldGeometry] to paint a notch around the
+/// [FloatingActionButton].
+///
+/// For information about the [Scaffold]'s geometry that is used while laying
+/// out the [FloatingActionButton], see [ScaffoldPrelayoutGeometry]. À }Ñ€¦ À ~À ~+A/// Create an object that describes the geometry of a [Scaffold].À ~2À ~8  À ~SÀ ~Y   À ~{€öÀ [€É/// The distance from the [Scaffold]'s top edge to the top edge of the
+/// rectangle in which the [Scaffold.bottomNavigationBar] bar is laid out.
+///
+/// Null if [Scaffold.bottomNavigationBar] is null. À v€®À €€ƒ/// The [Scaffold.floatingActionButton]'s bounding rectangle.
+///
+/// This is null when there is no floating action button showing.  À €)×À €:  À €UÀ €]   À ‚°À ‚ƒi/// Creates a copy of this [ScaffoldGeometry] but with the given fields replaced with
+/// the new values. À ‚’À ‚›  À ‚¶À ‚½   À }«À }¬À ƒ¸…À ƒ¾  À „ 7 À „ À „9 À „:À „@  À „IÀ „O   À „[À „n  À „y!À „  À „À „¯  À „¼‚lÀ „İ   À „¼À „½À ‡,À ‡1  À ‡CÀ ‡L  À ‡gÀ ‡n  À ‡‹!À ‡”    À ‹„¶À ‹!  À ‹P( À ‹VÀ ‹i À ‹pÀ ‹w  À ‹„À ‹‹  À ‹™!À ‹¨  À ‹ÀÀ ‹Ï  À ‹à"À ‹ï  À ŒÀ ŒÀ Œ*À Œ&À ŒÀ Œ)À Œ4À Œ:À ŒLÀ ŒHÀ Œ;À ŒKÀ ŒVÀ Œ\À ŒvÀ ŒrÀ Œ]À ŒuÀ Œ| À Œ‰  À Œ À Œ­  À Œ½!À ŒÊ  À ZuÀ n   À ZÀ [À !5À ;  À >À F  À !À " À ‘:„ÚÀ ‘@  À ‘iz À ‘oÀ ‘{ À ‘‚À ‘‘  À ‘ $À ‘¯  À ‘ÊÀ ‘Ù   À ‘çÀ ‘ô  À ‘üÀ ’  À ’!À ’    À ’;ƒ×À ’N  À ’TÀ ’b  À ’;À ’< À –´4À –  À –Q‚` À –QÀ –` À –gÀ –v  À –„À –“  À –¦À –µ  À –ÇÀ –Ö  À —2À —  À —E1À —T  À —|7À —‹  À —¹0À —È  À —ï À —ş  À ˜À ˜$  À ˜6À ˜E  À ˜T$À ˜c  À ˜~,À ˜   À ˜µÀ ˜À  À ˜Î!À ˜Ù  À ˜óÀ ™  À ™À ™"  À ™4!À ™H  À ™Y0À ™y  À ™GÀ ™±  À ™ÙFÀ ™ü  À š#6À š0  À š]EÀ š€  À š§À š²  À šÈÀ šÖ  À šè)À šó   À ›¬±À ›'  À ›5	À ›;  À ›À ›À ÇË‚}À ÇÜ  À ÇëÀ Çü  À ÇËÀ ÇÌ À ÊL„:À Ëé–/// Handler for scale and rotation animations in the [FloatingActionButton].
+///
+/// Currently, there are two types of [FloatingActionButton] animations:
+///
+/// * Entrance/Exit animations, which this widget triggers
+///   when the [FloatingActionButton] is added, updated, or removed.
+/// * Motion animations, which are triggered by the [Scaffold]
+///   when its [FloatingActionButtonLocation] is updated. À Ì$€Ø À Ì*À ÌI À ÌPÀ Ì_  À ÌiÀ Ìx  À ÌÀ Ìœ  À Ì²À ÌÁ  À ÌÖÀ Ìå   À Í À Í  À Í(À Í/  À ÍC4À Íf  À Í{0À Í›  À Í°fÀ Î8/// Controls the current child widget.child as it exits.  À ÎiÀ ÎL   À ÎÀ Î À ÎˆúÀ Î   À Ï“,À Ï¬  À ÏÃ,À ÏÔ  À Ïó5À Ğ  À Ğ,/À Ğ=  À Ğ_.À Ğv  À Ğ‘5À Ğ¬  À ÑC-À ÑZ  À Ñt5À Ñ‹  À Ñ­4À ÑÈ  À ÑåÀ Ñí  À ÛP€±À Ûp À Û…À ÛŠÀ Û‘À Û‹À Û’À ÛØÀ ÛÀ Û˜À Û£À ÛŸÀ Û¥À ÛÏÀ ÛÌÀ ÛÑÀ ÛÙÀ ÛÚÀ ÛßÀ Ü À ÛàÀ ÛêÀ ÛÿÀ ÛğÀ ÛëÀ ÛòÀ ÛøÀ Ûù 
+À Ò ‚ŠÀ Ò   À Ò À ÒÀ ÔÀ ÔŸ   À ÔÀ ÔÀ Õ”…¸À Õ¥  À Õµ)À ÕÖ  À Õ”À Õ•À ÜrÀ Ü    À Ü|ˆâÀ Ü    À åbÀ åg  À åÀ å   À æj€‚À æo  À æÀ æ˜   À æğ„ƒÀ ç  À ç	À ç  À æğÀ æñÀ ëw€€À ë|    À ëû€…À ì   À ìÀ ì    À ì„À g8Àèš]/// Implements the basic Material Design visual layout structure.
+///
+/// This class provides APIs for showing drawers and bottom sheets.
+///
+/// To display a persistent bottom sheet, obtain the
+/// [ScaffoldState] for the current [BuildContext] via [Scaffold.of] and use the
+/// [ScaffoldState.showBottomSheet] function.
+///
+/// {@tool dartpad}
+/// This example shows a [Scaffold] with a [body] and [FloatingActionButton].
+/// The [body] is a [Text] placed in a [Center] in order to center the text
+/// within the [Scaffold]. The [FloatingActionButton] is connected to a
+/// callback that increments a counter.
+///
+/// ** See code in examples/api/lib/material/scaffold/scaffold.0.dart **
+/// {@end-tool}
+///
+/// {@tool dartpad}
+/// This example shows a [Scaffold] with a blueGrey [backgroundColor], [body]
+/// and [FloatingActionButton]. The [body] is a [Text] placed in a [Center] in
+/// order to center the text within the [Scaffold]. The [FloatingActionButton]
+/// is connected to a callback that increments a counter.
+///
+/// ![](https://flutter.github.io/assets-for-api-docs/assets/material/scaffold_background_color.png)
+///
+/// ** See code in examples/api/lib/material/scaffold/scaffold.1.dart **
+/// {@end-tool}
+///
+/// {@tool dartpad}
+/// This example shows a [Scaffold] with an [AppBar], a [BottomAppBar] and a
+/// [FloatingActionButton]. The [body] is a [Text] placed in a [Center] in order
+/// to center the text within the [Scaffold]. The [FloatingActionButton] is
+/// centered and docked within the [BottomAppBar] using
+/// [FloatingActionButtonLocation.centerDocked]. The [FloatingActionButton] is
+/// connected to a callback that increments a counter.
+///
+/// ![](https://flutter.github.io/assets-for-api-docs/assets/material/scaffold_bottom_app_bar.png)
+///
+/// ** See code in examples/api/lib/material/scaffold/scaffold.2.dart **
+/// {@end-tool}
+///
+/// ## Scaffold layout, the keyboard, and display "notches"
+///
+/// The scaffold will expand to fill the available space. That usually
+/// means that it will occupy its entire window or device screen. When
+/// the device's keyboard appears the Scaffold's ancestor [MediaQuery]
+/// widget's [MediaQueryData.viewInsets] changes and the Scaffold will
+/// be rebuilt. By default the scaffold's [body] is resized to make
+/// room for the keyboard. To prevent the resize set
+/// [resizeToAvoidBottomInset] to false. In either case the focused
+/// widget will be scrolled into view if it's within a scrollable
+/// container.
+///
+/// The [MediaQueryData.padding] value defines areas that might
+/// not be completely visible, like the display "notch" on the iPhone
+/// X. The scaffold's [body] is not inset by this padding value
+/// although an [appBar] or [bottomNavigationBar] will typically
+/// cause the body to avoid the padding. The [SafeArea]
+/// widget can be used within the scaffold's body to avoid areas
+/// like display notches.
+///
+/// ## Floating action button with a draggable scrollable bottom sheet
+///
+/// If [Scaffold.bottomSheet] is a [DraggableScrollableSheet],
+/// [Scaffold.floatingActionButton] is set, and the bottom sheet is dragged to
+/// cover greater than 70% of the Scaffold's height, two things happen in parallel:
+///
+///   * Scaffold starts to show scrim (see [ScaffoldState.showBodyScrim]), and
+///   * [Scaffold.floatingActionButton] is scaled down through an animation with a [Curves.easeIn], and
+///     disappears when the bottom sheet covers the entire Scaffold.
+///
+/// And as soon as the bottom sheet is dragged down to cover less than 70% of the [Scaffold], the scrim
+/// disappears and [Scaffold.floatingActionButton] animates back to its normal size.
+///
+/// ## Troubleshooting
+///
+/// ### Nested Scaffolds
+///
+/// The Scaffold is designed to be a top level container for
+/// a [MaterialApp]. This means that adding a Scaffold
+/// to each route on a Material app will provide the app with
+/// Material's basic visual layout structure.
+///
+/// It is typically not necessary to nest Scaffolds. For example, in a
+/// tabbed UI, where the [bottomNavigationBar] is a [TabBar]
+/// and the body is a [TabBarView], you might be tempted to make each tab bar
+/// view a scaffold with a differently titled AppBar. Rather, it would be
+/// better to add a listener to the [TabController] that updates the
+/// AppBar
+///
+/// {@tool snippet}
+/// Add a listener to the app's tab controller so that the [AppBar] title of the
+/// app's one and only scaffold is reset each time a new tab is selected.
+///
+/// ```dart
+/// TabController(vsync: tickerProvider, length: tabCount)..addListener(() {
+///   if (!tabController.indexIsChanging) {
+///     setState(() {
+///       // Rebuild the enclosing scaffold with a new AppBar title
+///       appBarTitle = 'Tab ${tabController.index}';
+///     });
+///   }
+/// })
+/// ```
+/// {@end-tool}
+///
+/// Although there are some use cases, like a presentation app that
+/// shows embedded flutter content, where nested scaffolds are
+/// appropriate, it's best to avoid nesting scaffolds.
+///
+/// See also:
+///
+///  * [AppBar], which is a horizontal bar typically shown at the top of an app
+///    using the [appBar] property.
+///  * [BottomAppBar], which is a horizontal bar typically shown at the bottom
+///    of an app using the [bottomNavigationBar] property.
+///  * [FloatingActionButton], which is a circular button typically shown in the
+///    bottom right corner of the app using the [floatingActionButton] property.
+///  * [Drawer], which is a vertical panel that is typically displayed to the
+///    left of the body (and often hidden on phones) using the [drawer]
+///    property.
+///  * [BottomNavigationBar], which is a horizontal array of buttons typically
+///    shown along the bottom of the app using the [bottomNavigationBar]
+///    property.
+///  * [BottomSheet], which is an overlay typically shown near the bottom of the
+///    app. A bottom sheet can either be persistent, in which case it is shown
+///    using the [ScaffoldState.showBottomSheet] method, or modal, in which case
+///    it is shown using the [showModalBottomSheet] function.
+///  * [SnackBar], which is a lightweight message with an optional action which
+///    briefly displays at the bottom of the screen. Use the
+///    [ScaffoldMessengerState.showSnackBar] method to show snack bars.
+///  * [MaterialBanner], which displays an important, succinct message, at the
+///    top of the screen, below the app bar. Use the
+///    [ScaffoldMessengerState.showMaterialBanner] method to show material banners.
+///  * [ScaffoldState], which is the state associated with this widget.
+///  * <https://material.io/design/layout/responsive-layout-grid.html>
+///  * Cookbook: [Add a Drawer to a screen](https://docs.flutter.dev/cookbook/design/drawer) Àƒl ÀOÀW:/// Creates a visual scaffold for Material Design widgets.À^	Àe  ÀmÀs  À~	À„  ÀÀ“  À¬!À²  ÀÓ!ÀÙ  ÀúÀ   À?À"  ÀaÀg  ÀrÀx  ÀŒÀ’  À À¦  À½ÀÃ  ÀÛÀá  ÀñÀ÷  À	À	  À	.À	4  À	G6À	M  À	ƒÀ	‰  À	 #À	¦  À	ÉÀ	Ï  À	äÀ	ê  À
+'À
+  À
+/*À
+5  À
+_À
+e  À=ÀQÀRÀ	=À	fÀ	wÀ	xÀ	•À	¾À
+%À
+UÀ
+|ƒ®À ƒt/// If true, and [bottomNavigationBar] or [persistentFooterButtons]
+/// is specified, then the [body] extends to the bottom of the Scaffold,
+/// instead of only extending to the top of the [bottomNavigationBar]
+/// or the [persistentFooterButtons].
+///
+/// If true, a [MediaQuery] widget whose bottom padding matches the height
+/// of the [bottomNavigationBar] will be added above the scaffold's [body].
+///
+/// This property is often useful when the [bottomNavigationBar] has
+/// a non-rectangular shape, like [CircularNotchedRectangle], which
+/// adds a [FloatingActionButton] sized notch to the top edge of the bar.
+/// In this case specifying `extendBody: true` ensures that scaffold's
+/// body will be visible through the bottom navigation bar's notch.
+///
+/// See also:
+///
+///  * [extendBodyBehindAppBar], which extends the height of the body
+///    to the top of the scaffold. À/ıÀÁ/// If true, and an [appBar] is specified, then the height of the [body] is
+/// extended to include the height of the app bar and the top of the body
+/// is aligned with the top of the app bar.
+///
+/// This is useful if the app bar's [AppBar.backgroundColor] is not
+/// completely opaque.
+///
+/// This property is false by default.
+///
+/// See also:
+///
+///  * [extendBody], which extends the height of the body to the bottom
+///    of the scaffold. À1YÀ„5/// An app bar to display at the top of the scaffold. À„À©ƒç/// The primary content of the scaffold.
+///
+/// Displayed below the [appBar], above the bottom of the ambient
+/// [MediaQuery]'s [MediaQueryData.viewInsets], and behind the
+/// [floatingActionButton] and [drawer]. If [resizeToAvoidBottomInset] is
+/// false then the body is not resized when the onscreen keyboard appears,
+/// i.e. it is not inset by `viewInsets.bottom`.
+///
+/// The widget in the body of the scaffold is positioned at the top-left of
+/// the available space between the app bar and the bottom of the scaffold. To
+/// center this widget instead, consider putting it in a [Center] widget and
+/// having that be the body. To expand this widget instead, consider
+/// putting it in a [SizedBox.expand].
+///
+/// If you have a column of widgets that should normally fit on the screen,
+/// but may overflow and would in such cases need to scroll, consider using a
+/// [ListView] as the body of the scaffold. This is also a good choice for
+/// the case where your body is a scrollable list. À²€À<u/// A button displayed floating above [body], in the bottom right corner.
+///
+/// Typically a [FloatingActionButton]. ÀU€ÿÀ8€¸/// Responsible for determining where the [floatingActionButton] should go.
+///
+/// If null, the [ScaffoldState] will use the default location, [FloatingActionButtonLocation.endFloat]. ÀYÀH€Ä/// Animator to move the [floatingActionButton] to a new [floatingActionButtonLocation].
+///
+/// If null, the [ScaffoldState] will use the default animator, [FloatingActionButtonAnimator.scaling]. Ài¾À€/// A set of buttons that are displayed at the bottom of the scaffold.
+///
+/// Typically this is a list of [TextButton] widgets. These buttons are
+/// persistently visible, even if the [body] of the scaffold scrolls.
+///
+/// These widgets will be wrapped in an [OverflowBar].
+///
+/// The [persistentFooterButtons] are rendered above the
+/// [bottomNavigationBar] but below the [body]. À,€½ÀĞ€‚/// The alignment of the [persistentFooterButtons] inside the [OverflowBar].
+///
+/// Defaults to [AlignmentDirectional.centerEnd]. Àîƒ'À‚ì/// A panel displayed to the side of the [body], often hidden on mobile
+/// devices. Swipes in from either left-to-right ([TextDirection.ltr]) or
+/// right-to-left ([TextDirection.rtl])
+///
+/// Typically a [Drawer].
+///
+/// To open the drawer, use the [ScaffoldState.openDrawer] function.
+///
+/// To close the drawer, use either [ScaffoldState.closeDrawer], [Navigator.pop]
+/// or press the escape key on the keyboard.
+///
+/// {@tool dartpad}
+/// To disable the drawer edge swipe on mobile, set the
+/// [Scaffold.drawerEnableOpenDragGesture] to false. Then, use
+/// [ScaffoldState.openDrawer] to open the drawer and [Navigator.pop] to close
+/// it.
+///
+/// ** See code in examples/api/lib/material/scaffold/scaffold.drawer.0.dart **
+/// {@end-tool} À|À‡T/// Optional callback that is called when the [Scaffold.drawer] is opened or closed. À›ƒ)À »‚ë/// A panel displayed to the side of the [body], often hidden on mobile
+/// devices. Swipes in from right-to-left ([TextDirection.ltr]) or
+/// left-to-right ([TextDirection.rtl])
+///
+/// Typically a [Drawer].
+///
+/// To open the drawer, use the [ScaffoldState.openEndDrawer] function.
+///
+/// To close the drawer, use either [ScaffoldState.closeEndDrawer], [Navigator.pop]
+/// or press the escape key on the keyboard.
+///
+/// {@tool dartpad}
+/// To disable the drawer edge swipe, set the
+/// [Scaffold.endDrawerEnableOpenDragGesture] to false. Then, use
+/// [ScaffoldState.openEndDrawer] to open the drawer and [Navigator.pop] to
+/// close it.
+///
+/// ** See code in examples/api/lib/material/scaffold/scaffold.end_drawer.0.dart **
+/// {@end-tool} À É€‚À!9W/// Optional callback that is called when the [Scaffold.endDrawer] is opened or closed. À!PÀ"B€Ü/// The color to use for the scrim that obscures primary content while a drawer is open.
+///
+/// If this is null, then [DrawerThemeData.scrimColor] is used. If that
+/// is also null, then it defaults to [Colors.black54]. À"W€±À"ù€/// The color of the [Material] widget that underlies the entire Scaffold.
+///
+/// The theme's [ThemeData.scaffoldBackgroundColor] by default. À#JÀ$D/// A bottom navigation bar to display at the bottom of the scaffold.
+///
+/// Snack bars slide from underneath the bottom navigation bar while bottom
+/// sheets are stacked on top.
+///
+/// The [bottomNavigationBar] is rendered below the [persistentFooterButtons]
+/// and the [body]. À$\†2À*ƒ…Ú/// The persistent bottom sheet to display.
+///
+/// A persistent bottom sheet shows information that supplements the primary
+/// content of the app. A persistent bottom sheet remains visible even when
+/// the user interacts with other parts of the app.
+///
+/// A closely related widget is a modal bottom sheet, which is an alternative
+/// to a menu or a dialog and prevents the user from interacting with the rest
+/// of the app. Modal bottom sheets can be created and displayed with the
+/// [showModalBottomSheet] function.
+///
+/// Unlike the persistent bottom sheet displayed by [showBottomSheet]
+/// this bottom sheet is not a [LocalHistoryEntry] and cannot be dismissed
+/// with the scaffold appbar's back button.
+///
+/// If a persistent bottom sheet created with [showBottomSheet] is already
+/// visible, it must be closed before building the Scaffold with a new
+/// [bottomSheet].
+///
+/// The value of [bottomSheet] can be any widget at all. It's unlikely to
+/// actually be a [BottomSheet], which is used by the implementations of
+/// [showBottomSheet] and [showModalBottomSheet]. Typically it's a widget
+/// that includes [Material].
+///
+/// See also:
+///
+///  * [showBottomSheet], which displays a bottom sheet as a route that can
+///    be dismissed with the scaffold's back button.
+///  * [showModalBottomSheet], which displays a modal bottom sheet.
+///  * [BottomSheetThemeData], which can be used to customize the default
+///    bottom sheet property values when using a [BottomSheet]. À*“‚À,ŒÚ/// If true the [body] and the scaffold's floating widgets should size
+/// themselves to avoid the onscreen keyboard whose height is defined by the
+/// ambient [MediaQuery]'s [MediaQueryData.viewInsets] `bottom` property.
+///
+/// For example, if there is an onscreen keyboard displayed above the
+/// scaffold, the body can be resized to avoid overlapping the keyboard, which
+/// prevents widgets inside the body from being obscured by the keyboard.
+///
+/// Defaults to true. À,©bÀ.A/// Whether this scaffold is being displayed at the top of the screen.
+///
+/// If true then the height of the [appBar] will be extended by the height
+/// of the screen's status bar, i.e. the top padding for [MediaQuery].
+///
+/// The default value of this property, like the default value of
+/// [AppBar.primary], is true. À.rÀ.k@/// {@macro flutter.material.DrawerController.dragStartBehavior} À.‡‚À0xĞ/// The width of the area within which a horizontal swipe will open the
+/// drawer.
+///
+/// By default, the value used is 20.0 added to the padding edge of
+/// `MediaQuery.paddingOf(context)` that corresponds to the surrounding
+/// [TextDirection]. This ensures that the drag area for notched devices is
+/// not obscured. For example, if `TextDirection.of(context)` is set to
+/// [TextDirection.ltr], 20.0 will be added to
+/// `MediaQuery.paddingOf(context).left`. À0À1v€Î/// Determines if the [Scaffold.drawer] can be opened with a drag
+/// gesture on mobile.
+///
+/// On desktop platforms, the drawer is not draggable.
+///
+/// By default, the drag gesture is enabled on mobile. À1–À2z€Ì/// Determines if the [Scaffold.endDrawer] can be opened with a
+/// gesture on mobile.
+///
+/// On desktop platforms, the drawer is not draggable.
+///
+/// By default, the drag gesture is enabled on mobile. À2‚À4”Ğ/// Restoration ID to save and restore the state of the [Scaffold].
+///
+/// If it is non-null, the scaffold will persist and restore whether the
+/// [drawer] and [endDrawer] was open or closed.
+///
+/// The state of this widget is persisted in a [RestorationBucket] claimed
+/// from the surrounding [RestorationScope] using the provided restoration ID.
+///
+/// See also:
+///
+///  * [RestorationManager], which explains how state restoration works in
+///    Flutter.  À4¦úÀ<‡/// Finds the [ScaffoldState] from the closest instance of this class that
+/// encloses the given context.
+///
+/// If no instance of this class encloses the given context, will cause an
+/// assert in debug mode, and throw an exception in release mode.
+///
+/// This method can be expensive (it walks the element tree).
+///
+/// {@tool dartpad}
+/// Typical usage of the [Scaffold.of] function is to call it from within the
+/// `build` method of a child of a [Scaffold].
+///
+/// ** See code in examples/api/lib/material/scaffold/scaffold.of.0.dart **
+/// {@end-tool}
+///
+/// {@tool dartpad}
+/// When the [Scaffold] is actually created in the same `build` function, the
+/// `context` argument to the `build` function can't be used to find the
+/// [Scaffold] (since it's "above" the widget being returned in the widget
+/// tree). In such cases, the following technique with a [Builder] can be used
+/// to provide a new scope with a [BuildContext] that is "under" the
+/// [Scaffold]:
+///
+/// ** See code in examples/api/lib/material/scaffold/scaffold.of.1.dart **
+/// {@end-tool}
+///
+/// A more efficient solution is to split your build function into several
+/// widgets. This introduces a new context from which you can obtain the
+/// [Scaffold]. In this solution, you would have an outer widget that creates
+/// the [Scaffold] populated by instances of your new inner widgets, and then
+/// in these inner widgets you would use [Scaffold.of].
+///
+/// A less elegant but more expedient solution is assign a [GlobalKey] to the
+/// [Scaffold], then use the `key.currentState` property to obtain the
+/// [ScaffoldState] rather than using the [Scaffold.of] function.
+///
+/// If there is no [Scaffold] in scope, then this will throw an exception.
+/// To return null if there is no [Scaffold], use [maybeOf] instead. À<À<$   ÀB¤‚’ÀDÖ‚/// Finds the [ScaffoldState] from the closest instance of this class that
+/// encloses the given context.
+///
+/// If no instance of this class encloses the given context, will return null.
+/// To throw an exception instead, use [of] instead of this function.
+///
+/// This method can be expensive (it walks the element tree).
+///
+/// See also:
+///
+///  * [of], a similar function to this one that throws if no instance
+///    encloses the given context. Also includes some sample code in its
+///    documentation. ÀDŞÀDì   ÀE:‰üÀI„ƒø/// Returns a [ValueListenable] for the [ScaffoldGeometry] for the closest
+/// [Scaffold] ancestor of the given context.
+///
+/// The [ValueListenable.value] is only available at paint time.
+///
+/// Notifications are guaranteed to be sent before the first paint pass
+/// with the new geometry, but there is no guarantee whether a build or
+/// layout passes are going to happen between the notification and the next
+/// paint pass.
+///
+/// The closest [Scaffold] ancestor for the context might change, e.g when
+/// an element is moved from one scaffold to another. For [StatefulWidget]s
+/// using this listenable, a change of the [Scaffold] ancestor will
+/// trigger a [State.didChangeDependencies].
+///
+/// A typical pattern for listening to the scaffold geometry would be to
+/// call [Scaffold.geometryOf] in [State.didChangeDependencies], compare the
+/// return value with the previous listenable, if it has changed, unregister
+/// the listener, and register a listener to the new [ScaffoldGeometry]
+/// listenable. ÀIÀI   ÀO:„AÀQî‚‰/// Whether the Scaffold that most tightly encloses the given context has a
+/// drawer.
+///
+/// If this is being used during a build (for example to decide whether to
+/// show an "open drawer" button), set the `registerForUpdates` argument to
+/// true. This will then set up an [InheritedWidget] relationship with the
+/// [Scaffold] so that the client widget gets rebuilt whenever the [hasDrawer]
+/// value changes.
+///
+/// This method can be expensive (it walks the element tree).
+///
+/// See also:
+///
+///  * [Scaffold.of], which provides access to the [ScaffoldState] object as a
+///    whole, from which you can show bottom sheets, and so forth. ÀQøÀR  ÀRÀR  ÀR*ÀS;ÀS™   ÀSÀS€ ÀS¾À ’ÜÀTX€“/// State for a [Scaffold].
+///
+/// Can display [BottomSheet]s. Retrieve a [ScaffoldState] from the current
+/// [BuildContext] using [Scaffold.of].  ÀUÚVÀV ÀVÀVÀV-ÀVÀV.ÀV/ÀV4YÀV[ ÀVkÀVtÀVŠÀVuÀV‹ÀVŒÀV’&ÀV¢ ÀV­ÀV¶ÀV·ÀX¥ÀX­  ÀYt:ÀY‰ ÀY™ÀY§ÀY­ÀY¨ÀY²=ÀYÇ ÀYÚÀYèÀYîÀYéÀc°*ÀcÈ  ÀcñMÀd,  Àf¢_Àfé  ÀiÅRÀiæ ÀjÀjÀiÿÀjÀj Àj4Àj<  ÀjS4Àjc Àj|Àj…Àj†Àj‹/Àj  Àšì<À›  À›,?À›N  À›oCÀ›  À›¶;À›Ô  À›öBÀœ  À¦n0À¦  À¿óÀ¿ø ÀÀ	ÀÀ$ÀÀ ÀÀ*ÀÀ0ÀÀ1ÀT²>ÀTÊ   ÀT²ÀT³ÀV½jÀW;/// Whether this scaffold has a non-null [Scaffold.appBar].   ÀW*jÀWq;/// Whether this scaffold has a non-null [Scaffold.drawer].   ÀW—sÀWá>/// Whether this scaffold has a non-null [Scaffold.endDrawer].   ÀX€”ÀXbI/// Whether this scaffold has a non-null [Scaffold.floatingActionButton].   ÀXÁ€°ÀYMy/// The max height the [Scaffold.appBar] uses.
+///
+/// This is based on the appBar preferred height plus the top padding.   ÀYô€ÙÀZ©€Ÿ/// Whether the [Scaffold.drawer] is opened.
+///
+/// See also:
+///
+///  * [ScaffoldState.openDrawer], which opens the [Scaffold.drawer] of a
+///    [Scaffold].   ÀZÑ€èÀ[€¨/// Whether the [Scaffold.endDrawer] is opened.
+///
+/// See also:
+///
+///  * [ScaffoldState.openEndDrawer], which opens the [Scaffold.endDrawer] of
+///    a [Scaffold].   Àœ=€ËÀœ°c/// Gets the current value of the visibility animation for the
+/// [Scaffold.floatingActionButton].   ÀrÀxc/// Sets the current value of the visibility animation for the
+/// [Scaffold.floatingActionButton]. ÀÀ¥   À¦£\À¦¬    ÀTô€ÑÀU  ÀUÀU&  ÀU0ÀU6  ÀTôÀTõÀ[½€÷À[Â  À[ØÀ[Ş   À\¸À\½  À\ÖÀ\Ü   À]Â‚ÌÀ_Şü/// Opens the [Drawer] (if any).
+///
+/// If the scaffold has a non-null [Scaffold.drawer], this function will cause
+/// the drawer to begin its entrance animation.
+///
+/// Normally this is not needed since the [Scaffold] automatically shows an
+/// appropriate [IconButton], and handles the edge-swipe gesture, to show the
+/// drawer.
+///
+/// To close the drawer, use either [ScaffoldState.closeDrawer] or
+/// [Navigator.pop].
+///
+/// See [Scaffold.of] for information about how to obtain the [ScaffoldState].   À`’‚áÀbÆ‚/// Opens the end side [Drawer] (if any).
+///
+/// If the scaffold has a non-null [Scaffold.endDrawer], this function will cause
+/// the end side drawer to begin its entrance animation.
+///
+/// Normally this is not needed since the [Scaffold] automatically shows an
+/// appropriate [IconButton], and handles the edge-swipe gesture, to show the
+/// drawer.
+///
+/// To close the drawer, use either [ScaffoldState.closeEndDrawer] or
+/// [Navigator.pop].
+///
+/// See [Scaffold.of] for information about how to obtain the [ScaffoldState].   ÀdfÀd•    ÀgY¢Àg^    Àj¿‰‹ÀjÄ    ÀtNgÀtS    Àu¹€ùÀvO€Š/// Closes [Scaffold.drawer] if it is currently opened.
+///
+/// See [Scaffold.of] for information about how to obtain the [ScaffoldState].   Àv¶ÀwO€/// Closes [Scaffold.endDrawer] if it is currently opened.
+///
+/// See [Scaffold.of] for information about how to obtain the [ScaffoldState].   ÀwÅcÀwÊ    Àx,ğÀxL  ÀxcÀxr  Àx€Àx  Àx 0Àx¾  ÀxÖÀxŞ  ÀxòÀxû  Ày	Ày  Ày!Ày(  Ày9ÀyJ  ÀyZÀya  ÀypÀyw  ÀyŠ,Ày  Ày²À‡ “¨À”ù,/// Shows a Material Design bottom sheet in the nearest [Scaffold]. To show
+/// a persistent bottom sheet, use the [Scaffold.bottomSheet].
+///
+/// Returns a controller that can be used to close and otherwise manipulate the
+/// bottom sheet.
+///
+/// To rebuild the bottom sheet (e.g. if it is stateful), call
+/// [PersistentBottomSheetController.setState] on the controller returned by
+/// this method.
+///
+/// The new bottom sheet becomes a [LocalHistoryEntry] for the enclosing
+/// [ModalRoute] and a back button is added to the app bar of the [Scaffold]
+/// that closes the bottom sheet.
+///
+/// The [transitionAnimationController] controls the bottom sheet's entrance and
+/// exit animations. It's up to the owner of the controller to call
+/// [AnimationController.dispose] when the controller is no longer needed.
+///
+/// To create a persistent bottom sheet that is not a [LocalHistoryEntry] and
+/// does not add a back button to the enclosing Scaffold's app bar, use the
+/// [Scaffold.bottomSheet] constructor parameter.
+///
+/// A persistent bottom sheet shows information that supplements the primary
+/// content of the app. A persistent bottom sheet remains visible even when
+/// the user interacts with other parts of the app.
+///
+/// A closely related widget is a modal bottom sheet, which is an alternative
+/// to a menu or a dialog and prevents the user from interacting with the rest
+/// of the app. Modal bottom sheets can be created and displayed with the
+/// [showModalBottomSheet] function.
+///
+/// {@tool dartpad}
+/// This example demonstrates how to use [showBottomSheet] to display a
+/// bottom sheet when a user taps a button. It also demonstrates how to
+/// close a bottom sheet using the Navigator.
+///
+/// ** See code in examples/api/lib/material/scaffold/scaffold_state.show_bottom_sheet.0.dart **
+/// {@end-tool}
+///
+/// The [sheetAnimationStyle] parameter is used to override the bottom sheet
+/// animation duration and reverse animation duration.
+///
+/// If [AnimationStyle.duration] is provided, it will be used to override
+/// the bottom sheet animation duration in the underlying
+/// [BottomSheet.createAnimationController].
+///
+/// If [AnimationStyle.reverseDuration] is provided, it will be used to
+/// override the bottom sheet reverse animation duration in the underlying
+/// [BottomSheet.createAnimationController].
+///
+/// To disable the bottom sheet animation, use [AnimationStyle.noAnimation].
+///
+/// {@tool dartpad}
+/// This sample showcases how to override the [showBottomSheet] animation
+/// duration and reverse animation duration using [AnimationStyle].
+///
+/// ** See code in examples/api/lib/material/scaffold/scaffold_state.show_bottom_sheet.1.dart **
+/// {@end-tool}
+/// See also:
+///
+///  * [BottomSheet], which becomes the parent of the widget returned by the
+///    `builder`.
+///  * [showBottomSheet], which calls this method given a [BuildContext].
+///  * [showModalBottomSheet], which can be used to display a modal bottom
+///    sheet.
+///  * [Scaffold.of], for information about how to obtain the [ScaffoldState].
+///  * The Material 2 spec at <https://m2.material.io/components/sheets-bottom>.
+///  * The Material 3 spec at <https://m3.material.io/components/bottom-sheets/overview>.
+///  * [AnimationStyle], which is used to override the modal bottom sheet
+///    animation duration and reverse animation duration. 
+À•À•  À•+À•3  À•GÀ•P  À•^À•l  À•vÀ•}  À•À•Ÿ  À•¯À•¶  À•ÅÀ•Ì  À•ß2À•õ  À–#À–(   À‚€ŸÀÀ./// Shows the [Scaffold.floatingActionButton].   ÀŸw„xÀŸ|  ÀŸ–.ÀŸº   À¤ëoÀ¤ğ    À§‚åÀ§   À§À§À©ì†RÀ©ı  ÀªÀª  À©ìÀ©íÀ°BƒÀ°S   À°BÀ°CÀ³Q*À³b   À³QÀ³RÀ´ƒçÀ´„  	À´—À´§  À´´À´½  À´ÇÀ´Ï  À´İÀ´ì  ÀµÀµ  Àµ& Àµ5  ÀµL!Àµ[  ÀµsÀµy  Àµ—&Àµ  ÀµŒÀµ¸À¸jƒÍÀ¸o  À¸À¸  À¸˜À¸§   À¼;ƒ´À¼@  À¼MÀ¼]  À¼fÀ¼u   ÀÀ;JÀÀ†C/// Whether to show a [ModalBarrier] over the body of the scaffold. ÀÀ”
+ÀÀš  ÀÀ ÀÀ¨   ÀÁ‰¥ÀÁœ  ÀÁ¢ÀÁ°  ÀÁ‰ÀÁŠ Àæœ“Àæ¢  ÀæÑ# ÀæÑÀæå ÀææÀæì   ÀæøÀç   Àç€ŒÀç(  Àç2ÀçA  ÀçÀçÀç§€†Àç¸  Àç¿ÀçÎ  Àç§Àç¨ Àè1‚àÀèà€¨/// An interface for controlling a feature of a [Scaffold].
+///
+/// Commonly obtained from [ScaffoldMessengerState.showSnackBar] or
+/// [ScaffoldState.showBottomSheet].ÀèúÀèúÀéÀéÀé\Àé2Àé3Àé4 Àé5Àé;  ÀéCÀéI  ÀéT
+ÀéZ  Àé`Àéf   ÀérÀéz  Àé…Àé˜  Àê&xÀê™]/// Remove the feature (e.g., bottom sheet, snack bar, or material banner) from the scaffold. Àê£kÀëM/// Mark the feature (e.g., bottom sheet or snack bar) as needing to rebuild. Àé§{ÀêN/// Completes when the feature controlled by this object is no longer visible.     ÀëƒòÀë  ÀëI‚ ÀëOÀëc Àëj	Àëq  Àëy!Àëˆ  Àë Àë¦  Àë¼ÀëÂ  ÀëÕÀëä  ÀëòÀì  ÀìÀì   Àì,Àì2  ÀìKÀìQ  ÀìeÀìk  Àìy
+Àì  Àì‰Àì  Àì Àì¦  Àì¶Àì¼  Àë²Àì@ÀìÏ-Àìé  ÀíAÀíL  ÀíZÀíf  ÀíxÀíŒ  Àí™Àí­  Àí¼ÀíĞ  ÀíİÀíñ  ÀíüÀî  ÀîÀî$  Àî7ÀîE  ÀîRÀîe  ÀînÀîz  ÀîŠ!Àî    Àî°SÀîÖ   Àî°Àî± ÀïIÀï   ÀïOBÀïg Àïx 	Àï–€½Àï§   Àï–Àï—ÀğWSÀğh   ÀğWÀğXÀğ®€µÀğ¿  ÀğÏÀğå  Àğ®Àğ¯ÀñgZÀñl    ÀñÅ€ÀñÊ  ÀñÛÀñí   Àòg	Àòl  Àò{Àò‹  Àò•Àòœ   Àót|Àóy  ÀóÀó   Àóôƒ¡Àóù  Àô,Àô(   À÷™„´À÷¬  À÷²À÷À  À÷™À÷š ÀüR‚zÀı”;/// A [ScaffoldFeatureController] for standard bottom sheets.
+///
+/// This is the type of objects returned by [ScaffoldState.showBottomSheet].
+///
+/// This controller is used to display both standard and persistent bottom
+/// sheets. A bottom sheet is only persistent if it is set as the
+/// [Scaffold.bottomSheet]. Àıö€°ÀşÀşÀş Àş#Àş*  Àş5Àş<  ÀşJÀşQ  Àş[Àşn  Àş{Àş  ÀşœÀş¡Àş¢Àş£Àş¤ÀşªÀşµ     ÀşÎkÀşÔ  Àşÿw ÀÿÀÿ ÀÿÀÿ)  Àÿ7ÀÿF  Àÿ[Àÿk   ÀÿzÀÿ…  Àÿ’0Àÿ²   ÀÿÇpÀÿØ  ÀÿëÀÿû  ÀÿÇÀÿÈ  ‡•€É‡š   ‡¬‡¬  ‡´‡´  ‡¾	‡¾  ‡Ë‡Ë  ‡Ú‡Ú  ‡æ‡æ  ‡ø‡ø  ˆˆ  ˆ#ˆ#  ˆ;ˆ;  ˆE	ˆE  ˆR	ˆR            …qp…” …¼…Ø…Ù…ão† †.†J†K†U6†a †}†ı3‡
+ ‡-‡2/‡? ‡^‡c/‡p ‡ 
+  €®  package:flutter/services.dart  €â  app.dart  €ı  bottom_app_bar.dart  #  bottom_navigation_bar.dart  P  bottom_sheet_theme.dart  z  drawer_theme.dart    icon_button.dart  Á  tab_controller.dart  ç  	tabs.dart  ‚  text_button.dart  <€†€¤€¥€Õ€Ù€ôGq•¸Şú‚‚&‚'‚<‚V‚r‚s‚‚Üƒƒƒƒ1ƒMƒiƒƒ•ƒªƒÁƒ×ƒù„„N„f„„„³„´„Ì„ñ……3…I…p…q…ã†T†U††Ù†ı‡2‡c‡”‡•‡ª‡²‡¼‡É‡Ø‡ä‡öˆ
+ˆ!ˆ9ˆCˆPˆ]ˆ_ˆ`ˆªˆ®ˆñˆõ‰E‰u‰y‰ÈŠŠCŠ~Š‚ŠÊ‹‹n‹¹‹Ü‹à‹ôŒCŒGŒšŒªŒ®ŒñŒõU¦øLšÅPœ¸ÇàæçNdeµÄÊà‘,‘m‘s‘Ë‘İ‘ã’6’ˆ’Ô““S“Y“o“¿””S””ê•••m••…•Ñ–––!–'–w–¶——3—n—£—¤˜˜@˜D˜E˜•˜¬˜²™™™™!™j™¹™ú™ûšmš˜šœšš©šíšïšğ›››`›±›üœGœUœYœŒœê<ô&ÀìŸŸ$Ÿ%Ÿ1ŸRŸ¤Ÿô >  ´ İ ş¡ ¡H¡‰¡¡Á¡ä¡è¡é¢¢2¢3¢P¢s¢—¢Ÿ¢ ¢É¢ó¢û££££3£i£œ£±£µ£¶£Ò¤	¤(¤L¤v¤~¤„¤ˆ¤‰¤Ù¥!¥J¥§¥â¥æ¥ç¥ù¥ú¦I¦–¦İ§§§W§¤§ó¨¨¨X¨^¨¯¨ï©>©m©s©¼©Ü©â©øªIªOª¹ªËªÑ«««]«­«û¬M¬¬ó­­­1­‚­ˆ­ò®®
+® ®‹®‘®û¯¯¯b¯µ¯Ù¯ß°5°ˆ°¬°²°ı±±±h±¸±¾²(²:²@²Š²¡²Ğ²Ö²â²ÿ³N³{³‚³¸³ø´,´n´ƒ´‹´Ä´âµµ8µ>µµÛ¶*¶z¶™¶ç···O·p·{·Ô·Û·å·ù¸!¸+¸E¸_¸r¸›¸é¹;¹„¹Ü¹üºKº¡ºØºé»»V»¬»ñ¼H¼¼İ¼î½½k½|½‹½Â½Î½Ø½í½ù¾¾¾¾&¾*¾+¾u¾Ÿ¾í¿I¿q¿•¿¿£¿§¿¨¿æ¿üÀ @"À @IÀ @_À @ƒÀ @À @«À @ĞÀ @úÀ AÀ A*À A@À AjÀ A»À AÇÀ AãÀ BÀ B+À B:À B@À BDÀ BEÀ BÀ B¢À B¨À BùÀ CGÀ C¥À CÃÀ CÑÀ C×À D*À DLÀ DnÀ DtÀ D’À D­À DçÀ EÀ EÀ EÀ E]À EcÀ E©À FÀ FEÀ FSÀ FYÀ F¬À FÎÀ FöÀ GÀ G%À GdÀ G}À G£À GÉÀ GÓÀ GİÀ GãÀ HÀ HÀ H À H!À HjÀ H«À HÅÀ IÀ IÀ IÀ IƒÀ I›À IÀÀ IÛÀ IßÀ IàÀ IùÀ IúÀ JOÀ J¢À JïÀ KÀ KÀ KoÀ KÈÀ LÀ L+À L1À LÀ LÎÀ M#À MXÀ M^À M§À MÇÀ MÍÀ MãÀ N:À N@À N°À NÂÀ O>À OJÀ OgÀ O¼À OéÀ OğÀ PHÀ P‡À P«À PáÀ QÀ QÀ QnÀ QÈÀ RÀ RnÀ RÀ RçÀ SÀ S%À S[À S€À S‰À SèÀ SïÀ TÀ T-À T5À TMÀ TdÀ ThÀ TiÀ T­À TÃÀ TéÀ UÀ U,À UVÀ UbÀ U~À U©À UÙÀ UãÀ V	À V%À VIÀ VmÀ V|À V‚À V†À V‡À V×À VêÀ VğÀ WGÀ W›À XÀ X/À X=À XCÀ X¢À XÄÀ XæÀ XìÀ XíÀ Y'À YSÀ YWÀ YXÀ Y©À Y¯À YõÀ ZaÀ Z¯À Z½À ZÃÀ ["À [DÀ [rÀ [”À [¡À [æÀ [ÿÀ \%À \KÀ \UÀ \_À \eÀ \iÀ \jÀ \»À ]À ]$À ]rÀ ]€À ]†À ^À ^$À ^UÀ ^vÀ ^zÀ ^{À ^‡À ^®À ^ÜÀ _$À _%À _FÀ _‡À _µÀ _ÿÀ `=À `vÀ `µÀ `úÀ aSÀ aiÀ awÀ a¾À aÌÀ aÖÀ aŞÀ aäÀ aåÀ b	À b-À bHÀ bOÀ bSÀ bTÀ b`À bsÀ bÀ bÁÀ bßÀ búÀ cÀ cÀ cÀ cÀ cNÀ cpÀ cŠÀ cÆÀ cÿÀ d À d8À d9À dEÀ d·À d¹À dºÀ eÀ e.À e2À elÀ e´À eğÀ eôÀ f4À fiÀ ftÀ f–À fçÀ g/À gSÀ gvÀ g—À gµÀ gáÀ gşÀ h À h@À h`À h†À h§À h­À h®À hãÀ héÀ i5À i\À i]À i‘À i—À iÙÀ iùÀ jÀ jÀ j`À jwÀ j}À jÂÀ kÀ kZÀ kqÀ kwÀ kÇÀ lÀ ldÀ l~À lœÀ lÀ läÀ lûÀ mÀ mFÀ mÀ m»À mÁÀ nÀ n^À n®À nÂÀ nİÀ nŞÀ o&À o?À oEÀ oÀ o²À pÀ p3À p9À pwÀ p­À pËÀ pÌÀ qÀ q2À q8À q‡À qÕÀ r!À rqÀ r”À r·À r¸À râÀ rèÀ s7À sƒÀ s¸À s¾À tÀ tYÀ t©À tÒÀ tØÀ u'À uJÀ ueÀ ufÀ u—À uÀ uìÀ vÀ vÀ v?À vEÀ všÀ v»À v¼À vúÀ wÀ w!À w"À wnÀ wrÀ w»À xÀ x'À xsÀ xtÀ xĞÀ xÑÀ xıÀ y'À yVÀ yoÀ ypÀ y|À y½À yÜÀ zÀ z8À zRÀ zYÀ z]À z^À zjÀ z€À zúÀ zşÀ { À {À {NÀ {RÀ {”À {ÃÀ {ÇÀ |À |fÀ |jÀ |¶À |øÀ }À }À }fÀ }«À }¶À }ÏÀ ~À ~.À ~OÀ ~rÀ ~xÀ ~yÀ ~ÂÀ À À KÀ sÀ tÀ ´À ºÀ şÀ €&À €'À €kÀ €‰À €œÀ €¢À €£À €ÁÀ €àÀ À !À 'À (À QÀ …À ¥À ¸À ÀÀ ıÀ ‚À ‚À ‚ZÀ ‚pÀ ‚À ‚²À ‚ÖÀ ‚İÀ ‚úÀ ƒOÀ ƒªÀ ƒ±À ƒµÀ ƒ·À ƒ¸À „À „XÀ „YÀ „wÀ „œÀ „¹À „ºÀ „ÆÀ „åÀ „õÀ …:À …„À … À …ôÀ †JÀ †©À †´À †¼À †ÏÀ †ÙÀ ‡%À ‡)À ‡*À ‡?À ‡cÀ ‡‡À ‡®À ‡µÀ ˆÀ ˆ9À ˆoÀ ˆ©À ˆ°À ˆÇÀ ˆËÀ ˆÍÀ ˆÎÀ ‰À ‰lÀ ‰oÀ ‰ºÀ ŠÀ Š\À ŠªÀ ŠùÀ ‹À ‹NÀ ‹lÀ ‹€À ‹•À ‹¼À ‹ÜÀ ŒÀ Œ-À ŒOÀ ŒyÀ ŒzÀ ŒÀ Œ»À ŒàÀ ŒáÀ 2À ƒÀ ÖÀ À +À NÀ hÀ |À ‚À ªÀ èÀ $À SÀ WÀ XÀ dÀ ĞÀ ÒÀ ÓÀ (À wÀ “À –À ëÀ ‘:À ‘gÀ ‘~À ‘œÀ ‘ÆÀ ‘ŞÀ ‘äÀ ‘åÀ ‘úÀ ’À ’8À ’9À ’EÀ ’lÀ ’À ’±À ’·À ’¸À ’ÒÀ “À “nÀ “­À “®À “×À ”)À ”MÀ ”NÀ ”€À ”ªÀ ”ıÀ •À •À •:À •\À •‹À •£À •ÁÀ •ĞÀ •İÀ •ôÀ •ÿÀ –À –À –À –À –À –OÀ –cÀ –€À –¢À –ÃÀ –çÀ —	À —AÀ —xÀ —µÀ —ëÀ ˜À ˜2À ˜PÀ ˜zÀ ˜¬À ˜²À ˜³À ˜ÌÀ ˜ñÀ ™À ™2À ™WÀ ™‹À ™ŒÀ ™×À š!À š[À š¤À š¥À šÆÀ šåÀ šæÀ ›À ›À › À ›BÀ ›ŠÀ ›‹À ›ÙÀ œ(À œxÀ œ´À œµÀ À 9À VÀ |À ›À œÀ ÆÀ À [À “À ™À šÀ ¾À õÀ ŸqÀ Ÿ©À ŸõÀ  RÀ  XÀ  YÀ  À  ÌÀ  ıÀ ¡JÀ ¡SÀ ¡ÆÀ ¡ûÀ ¢jÀ ¢pÀ ¢qÀ ¢šÀ ¢ÌÀ £(À £vÀ £wÀ £ªÀ £×À ¤À ¤À ¤À ¤À ¤eÀ ¤©À ¤ËÀ ¥5À ¥6À ¥^À ¥¦À ¥§À ¥¿À ¥íÀ ¦OÀ ¦¨À ¦°À ¦±À ¦óÀ §$À §FÀ §À §ÄÀ §èÀ §ñÀ ¨)À ¨kÀ ¨qÀ ¨rÀ ¨ÄÀ ©À ©ZÀ ©¤À ©«À ª À ªCÀ ª‘À ªŞÀ «.À «UÀ «VÀ «|À «ŸÀ «ÌÀ ¬À ¬FÀ ¬hÀ ¬qÀ ¬ºÀ ¬õÀ ¬ûÀ ¬üÀ ­BÀ ­nÀ ­±À ®À ®À ®À ®7À ®{À ®¬À ®êÀ ®óÀ ¯KÀ ¯×À ¯İÀ ¯ŞÀ °À °>À °œÀ °À °ëÀ ±À ±bÀ ±ŒÀ ±²À ±üÀ ²_À ²À ²¬À ²ÊÀ ²æÀ ³
+À ³:À ³`À ³ˆÀ ³‘À ³÷À ´_À ´¬À ´ÎÀ ´íÀ µ*À µ3À µwÀ µ­À µ³À µ´À µàÀ ¶8À ¶_À ¶ƒÀ ¶¥À ¶éÀ ¶ôÀ ¶üÀ ¶ıÀ ·%À ·tÀ ·¢À ·ÔÀ ¸À ¸8À ¸nÀ ¸«À ¸ÜÀ ¹À ¹DÀ ¹xÀ ¹­À ¹ßÀ ºÀ ºHÀ ºÀ º¸À ºğÀ »&À »dÀ »”À »À »ûÀ ¼)À ¼‰À ¼šÀ ¼ØÀ ¼âÀ ¼ñÀ ½5À ½…À ½ÖÀ ¾"À ¾7À ¾ƒÀ ¾´À ¾éÀ ¿À ¿À ¿À ¿dÀ ¿ÍÀ ¿ÎÀ ¿ßÀ À À À+À ÀÀ ÀòÀ Á]À ÁÀ ÁØÀ ÁúÀ Â6À Â}À ÂÀ ÂüÀ ÃSÀ ÃªÀ ÃüÀ ÄÀ Ä&À Ä—À Ä¨À Ä¸À ÄÄÀ ÄÎÀ ÄãÀ ÄïÀ ÄõÀ ÄöÀ Å#À Å„À Å¿À ÅÅÀ ÅÆÀ ÅğÀ Æ5À ÆmÀ ÆsÀ ÆtÀ Æ¡À ÆéÀ Ç$À Ç*À Ç+À ÇMÀ ÇƒÀ Ç½À ÇÄÀ ÇÈÀ ÇÉÀ ÇÕÀ È
+À È8À ÈnÀ È¢À ÉÀ ÉpÀ ÉĞÀ ÉşÀ ÊEÀ ÊIÀ ÊKÀ ÊLÀ Ê™À ÊÀ ÊæÀ ÊêÀ Ë%À ËjÀ Ë©À ËãÀ Ì"À ÌLÀ ÌeÀ Ì‰À Ì®À ÌÒÀ Ì÷À ÌıÀ ÌşÀ ÍÀ ÍAÀ ÍyÀ Í­À Í®À ÍéÀ ÎÀ ÎÀ Î%À Î…À Î‡À ÎˆÀ ÏÀ Ï\À Ï‘À ÏÁÀ ÏñÀ Ğ*À Ğ]À ĞÀ ĞÈÀ ÑAÀ ÑrÀ Ñ«À ÑãÀ ÑıÀ ÑşÀ Ò
+À ÒÀ Ò6À Ò7À ÒfÀ Ò’À Ò¥À ÒæÀ ÒÿÀ Ó À Ó À ÓsÀ ÓÀ Ó¹À ÓÆÀ ÔÀ Ô`À ÔÀ Ô‡À Ô‹À ÔŒÀ Ô˜À Ô«À ÔÎÀ ÔúÀ Õ/À Õ^À ÕxÀ ÕÀ Õ‘À Õ’À ÕÀ ÕâÀ ÖÀ Ö„À Ö À ÖíÀ ×À ×À ×GÀ ×}À ×ÖÀ ×äÀ ×êÀ ØÀ ØWÀ Ø“À ØâÀ ÙÀ Ù<À Ù`À ÙÀ Ù˜À Ù§À ÙöÀ ÚDÀ ÚÀ Ú¹À ÚÕÀ ÚöÀ ÛÀ Û;À ÛCÀ ÛIÀ ÛMÀ ÛNÀ Û”À ÛÈÀ ÛÖÀ ÜÀ ÜÀ Ü"À ÜLÀ ÜuÀ ÜyÀ ÜzÀ Ü—À ÜÃÀ ÜôÀ İ'À İJÀ İfÀ İmÀ İ¢À İŞÀ ŞÀ Ş!À Ş*À Ş+À Ş”À ŞÀÀ ŞÇÀ ŞÈÀ Ş÷À ß-À ßUÀ ßqÀ ßxÀ ßëÀ ßìÀ à"À à À á$À á%À áFÀ á–À áÊÀ áıÀ âTÀ âªÀ â·À ãÀ ã‰À ãùÀ äkÀ äqÀ ärÀ äâÀ åÀ å[À å_À å`À å§À å¹À åñÀ æ'À æSÀ æ[À æcÀ ægÀ æhÀ æ¡À æËÀ æéÀ æíÀ æîÀ æúÀ ç!À ç3À ç[À çuÀ ç£À çâÀ çşÀ è.À èSÀ èaÀ èpÀ èÀ è»À èäÀ éÀ é>À éOÀ é^À é™À é´À éçÀ ê
+À ê9À ê\À êkÀ êwÀ ê„À êŸÀ êÊÀ êñÀ ë!À ëDÀ ëSÀ ë`À ëiÀ ëpÀ ëtÀ ëuÀ ë“À ëôÀ ëøÀ ëùÀ ì%À ìNÀ ìvÀ ì}À ìÀ ìƒÀ ì„À ìÆÀ ìÊÀ íÀ íÀ íGÀ í˜À íÆÀ íÊÀ íŞÀ î,À îxÀ îÀÀ îèÀ îìÀ ï5À ïEÀ ïIÀ ï]À ï«À ïúÀ ğIÀ ğƒÀ ğ‡À ğìÀ ğğÀ ñ9À ñIÀ ñMÀ ñaÀ ñ®À ñÿÀ òKÀ òƒÀ òÒÀ ó	À óÀ ópÀ ótÀ ó½À óÍÀ óÑÀ ôÀ ôÀ ôXÀ ôŸÀ ôæÀ õ-À õqÀ õ¦À õêÀ ö,À ö;À ö?À öÀ öÅÀ ÷À ÷FÀ ÷~À ÷¿À ÷ÙÀ ÷İÀ ø$À ø(À øgÀ ø¶À ù
+À ùÀ ù]À ùÅÀ ú
+À úÀ úvÀ úËÀ úÏÀ úæÀ úêÀ ûÀ ûÀ ûDÀ û{À û¹À ûçÀ ûëÀ ü2À üoÀ ü½À ıÀ ıLÀ ıWÀ ı[À ıoÀ ıÀÀ ş
+À şÀ şÀ şgÀ ş“À ş©À şíÀ ÿ#À ÿ/À ÿ7À ÿ>À ÿFÀ ÿVÀ ÿZÀ ÿÀ ÿİÀ À À &À *À zÀ À íÀ(ÀyÀÊÀÀ`ÀqÀÀÀ	ÀÀkÀºÀÀIÀ™ÀÖÀÀmÀ¢ÀöÀ>À…ÀâÀ
+ÀGÀZÀiÀzÀ‰À¨ÀÏÀöÀÀ]ÀnÀˆÀœÀ¹À×ÀíÀ	À	*À	CÀ	À	œÀ	ÅÀ	àÀ	şÀ
++À
+[À
+sÀ
+yÀ
+zÀ
+ÀÀÀSÀ{ÀÀÎÀÀ"ÀiÀ¯ÀûÀDÀŠÀÀ À¦ÀîÀÀ,À-À{ÀÇÀõÀûÀAÀZÀ`À‰ÀÀŸÀ¥ÀïÀ	À.À/ÀgÀŒÀÀ¸À¾ÀÀCÀÀÜÀÀÀcÀ´ÀÀJÀsÀyÀÇÀÀdÀ™À¯À°ÀüÀÀ,ÀRÀSÀ¡À§ÀÀVÀWÀ²À¸À"ÀfÀgÀ°À¶À ÀHÀNÀ‡ÀÀÈÀúÀ)À*ÀyÀÀ³ÀëÀìÀ6À‚À¬À²ÀÎÀÔÀÀ!ÀtÀ£À©À¿ÀùÀ:À‹À•À›ÀíÀÿÀÀÀoÀ˜À™ÀãÀ(ÀRÀXÀtÀzÀÄÀÊÀ ÀOÀUÀkÀ›ÀßÀ -À =À CÀ ™À «À ÆÀ ÇÀ!!À!MÀ!NÀ!©À!¯À!ùÀ"3À"TÀ"UÀ"¢À"¨À"êÀ#
+À#À#SÀ#YÀ#§À#ÈÀ#ÎÀ$À$4À$YÀ$ZÀ$ˆÀ$À$İÀ%+À%aÀ%gÀ%·À&À&TÀ&{À&À&ÉÀ'À'DÀ'JÀ'—À'àÀ'õÀ'ûÀ(GÀ(’À(ŞÀ(şÀ)À)À)À)hÀ)ŸÀ)åÀ*1À*sÀ*À*‘À*ÚÀ+)À+uÀ+{À+ÃÀ,À,`À,fÀ,~À,¦À,§À,ğÀ,öÀ-CÀ-ŒÀ-’À-ÖÀ-÷À.À.À.QÀ.„À.…À.ÏÀ.İÀ.ãÀ/)À/sÀ/ÁÀ0À0<À0hÀ0À0À0ÒÀ0ëÀ0ñÀ1*À10À1iÀ1“À1”À1ÖÀ1ïÀ1õÀ2.À24À2mÀ2šÀ2›À2áÀ2çÀ32À3eÀ3kÀ3¸À4	À4À4À4%À4rÀ4„À4£À4¤À4ñÀ5À5À5fÀ5ªÀ5°À5ğÀ5öÀ6À6\À6À6“À6áÀ6óÀ6ùÀ7À7_À7ªÀ7÷À8HÀ8À8¡À8§À8õÀ9À9À9ZÀ9¥À9õÀ:EÀ:À:…À:ÕÀ;À;bÀ;hÀ;µÀ;üÀ<.À<‚À<œÀ<±À<·À<ëÀ<ÿÀ=PÀ=YÀ=qÀ=ÜÀ>>À>‘À>šÀ>«À?À?fÀ?“À?ÚÀ?ãÀ?ôÀ@TÀ@²ÀAÀAqÀAÎÀB(ÀBUÀB^ÀB•ÀBÀB¡ÀB¢ÀBïÀCÀCÀChÀC°ÀC¶ÀCöÀCüÀDÀDÀD[ÀD¦ÀD¾ÀDöÀE3ÀE7ÀE8ÀE…ÀEµÀE»ÀEşÀFÀFNÀF˜ÀFæÀFøÀFşÀGKÀG™ÀGßÀHÀHÀH_ÀH®ÀHıÀIGÀIYÀI§ÀJÀJ0ÀJfÀJ|ÀJ×ÀJâÀJüÀK`ÀKµÀKÀÀKÓÀL8ÀL’ÀLÁÀM
+ÀMÀM(ÀMŠÀMêÀNJÀN´ÀN¿ÀNøÀOÀOÀO3ÀO7ÀO8ÀO†ÀO”ÀOšÀOçÀP5ÀP‚ÀPÓÀPèÀPîÀQ.ÀQ4ÀQDÀQJÀQ›ÀQàÀR4ÀRRÀR·ÀRâÀRïÀSGÀSrÀSxÀS|ÀS}ÀS‰ÀS»ÀS½ÀS¾ÀSÚÀSŞÀT*ÀTRÀT°ÀT¼ÀTñÀTòÀTşÀUGÀUÀUÂÀUÆÀUÇÀU×ÀUØÀV2ÀVÀVÀVºÀV»ÀVùÀW(ÀWfÀW•ÀWÖÀXÀXWÀX¢ÀX£ÀX¿ÀXğÀXöÀY?ÀYrÀY°ÀYñÀYòÀZ!ÀZ'ÀZ7ÀZ=ÀZ‰ÀZÀZÎÀZÏÀ[À[À[À[À[mÀ[„À[ºÀ[»À[éÀ\7À\KÀ\sÀ\}À\«À\±À\µÀ\¶À\çÀ];À]OÀ]zÀ]„À]µÀ]»À]¿À]ÀÀ]ãÀ]éÀ^:À^lÀ^rÀ^ÀÀ_À_À_$À_iÀ_€À_†À_×À_íÀ`5À``À`fÀ`‹À`À`À`¼À`ÂÀaÀaQÀaWÀa¥ÀaõÀbÀb	ÀbQÀbhÀbnÀb¿ÀbØÀcÀcBÀcHÀcpÀctÀcuÀc®ÀcÜÀcİÀcïÀd@ÀdAÀdÀd©Àe,Àe[ÀekÀelÀeŸÀe³ÀeãÀeíÀeóÀe÷ÀeøÀfÀfÀfkÀf ÀgÀgÀgWÀgxÀhÀhHÀhXÀhYÀh˜Àh¬ÀhèÀhòÀhøÀhüÀhıÀiÀiÀidÀi°ÀiÃÀjÀjQÀj‰Àj¼Àj½ÀjéÀk.ÀkƒÀkÕÀl ÀlpÀlÎÀm(Àm^ÀmªÀmñÀnÀnTÀn‡Àn—ÀnğÀnüÀo7ÀoiÀosÀo‰Ào‘Ào’ÀoêÀpDÀp`ÀpÀq	ÀqDÀqqÀq{Àq«Àq³Àq´ÀqãÀrÀrLÀrŒÀr¼ÀrâÀsÀsWÀsŸÀs²ÀsÃÀsÒÀsßÀsêÀtÀt8ÀtAÀtGÀtKÀtLÀtpÀt—ÀtÏÀtõÀtıÀuÀuPÀuÀu‹Àu Àu¬Àu²Àu¶Àu·ÀuñÀu÷ÀvHÀv_ÀvƒÀvªÀv¯Àv³Àv´ÀvñÀv÷ÀwHÀwbÀwÀw¸Àw¾ÀwÂÀwÃÀwëÀx%Àx)Àx*Àx_Àx|ÀxœÀxÒÀxîÀyÀyÀy5ÀyVÀylÀy†Ày¸Ày¿ÀyÏÀz&ÀzBÀzÀzÎÀ{*À{5À{=À{PÀ{ZÀ{[À{”À{üÀ|'À|(À|GÀ|fÀ|gÀ|À|ºÀ|ìÀ}À}IÀ}QÀ}WÀ}XÀ}~À}™À}ÂÀ}ÒÀ}ÚÀ~À~HÀ~kÀ~lÀ~†À~»À~ÃÀ~ÄÀ~ğÀÀ$À]ÀÀ‹ÀŒÀºÀëÀóÀ€À€À€À€HÀ€UÀ€~À€İÀÀÀÀÀ?ÀkÀŠÀ£ÀÀÀÈÀÎÀÏÀ÷À‚À‚BÀ‚qÀ‚—À‚­À‚ØÀ‚êÀ‚ôÀƒ1ÀƒPÀƒYÀƒqÀƒ­ÀƒÅÀƒıÀ„À„À„À„4À„QÀ„pÀ„ À„ÉÀ„ÓÀ„ÜÀ„ôÀ…À…>À…ZÀ…nÀ…À…°À…·À…¸À…ÑÀ†À†À†À†BÀ†UÀ†fÀ†zÀ†‘À†µÀ†ıÀ‡À‡À‡À‡À‡lÀ‡­À‡³ÀˆÀˆÀˆÀˆ`Àˆ¯ÀˆÂÀˆÈÀ‰À‰bÀ‰†À‰ŒÀ‰ßÀŠ%ÀŠrÀŠxÀŠÈÀ‹À‹JÀ‹PÀ‹ŸÀ‹íÀŒ#ÀŒ)ÀŒyÀŒÊÀÀ=ÀCÀYÀ£ÀíÀÀ#À†À˜ÀÀíÀ&À,ÀxÀ´ÀãÀéÀ3À€À¯ÀµÀ‘À‘
+À‘ À‘lÀ‘²À‘¸À’À’-À’=À’CÀ’’À’¦À’òÀ“?À“OÀ“ À“óÀ”OÀ”›À”×À•
+À•'À•CÀ•ZÀ•rÀ•ŠÀ•«À•ÁÀ•ÛÀ–À–<À–CÀ–SÀ–{À–—À–âÀ—#À—À—ŠÀ—’À—¥À—¯À—İÀ—ŞÀ—şÀ˜HÀ˜¨À˜¾À˜ĞÀ˜ÿÀ™À™-À™VÀ™€À™À™´À™ØÀ™úÀšÀšBÀš“ÀšœÀš¤ÀšÅÀšÉÀšÊÀšêÀ›*À›mÀ›´À›óÀ›ôÀœ:Àœ;Àœ|Àœ£À	À
+ÀKÀrÀ°ÀüÀ8ÀtÀ{ÀÀ€À±ÀŞÀŸÀŸ"ÀŸ#ÀŸuÀŸÈÀ À CÀ ¹À ôÀ¡¿À¢:À¢@À¢AÀ¢SÀ¢“À¢ÆÀ¢ÎÀ¢ÏÀ£-À£ŠÀ£ŸÀ£ìÀ£ğÀ£ñÀ¤"À¤#À¤sÀ¤¿À¤éÀ¥À¥hÀ¥¹À¥âÀ¥ïÀ¦%À¦HÀ¦QÀ¦WÀ¦[À¦\À¦kÀ¦lÀ¦ À¦¡À¦ÈÀ¦üÀ§ À§À§À§"À§9À§À¨À¨sÀ¨¾À¨ıÀ©À©"À©RÀ©YÀ©ZÀ©ŸÀ©ËÀ©ŞÀ©åÀ©éÀ©êÀ©öÀª#ÀªIÀª¼À«À«‰À«À«èÀ¬WÀ¬]À¬”À¬¦À­À­BÀ­\À­µÀ­ïÀ­şÀ®À®NÀ®«À®æÀ®õÀ¯À¯À¯"À¯.À¯VÀ¯zÀ¯ÊÀ¯öÀ°À°-À°5À°;À°?À°@À°LÀ°mÀ°¾À°õÀ±VÀ±¦À±ÌÀ²*À²WÀ²]À²¢À²ÕÀ²şÀ²ÿÀ³'À³JÀ³NÀ³OÀ³[À³nÀ³À³ÂÀ³ûÀ´&À´CÀ´cÀ´xÀ´|À´}À´“À´°À´ÃÀ´ÙÀ´şÀµ"ÀµHÀµoÀµ“Àµ¿ÀµÆÀ¶À¶+À¶NÀ¶uÀ¶À¶¥À¶ÂÀ¶úÀ· À·À·GÀ·cÀ·¬À·µÀ·»À·¼À·ÕÀ·éÀ·ûÀ¸À¸IÀ¸TÀ¸]À¸cÀ¸gÀ¸hÀ¸·À¸ÛÀ¸÷À¹À¹À¹8À¹VÀ¹€À¹´À¹ñÀº ÀºUÀºÀºÍÀºñÀºüÀ»À»aÀ» À»ÁÀ¼À¼%À¼.À¼4À¼8À¼9À¼…À¼¦À¼¿À¼ÔÀ¼æÀ½ À½À½GÀ½xÀ½µÀ½äÀ¾À¾^À¾‹À¾¬À¾·À¾ÕÀ¿À¿XÀ¿yÀ¿¹À¿İÀ¿æÀ¿ìÀ¿ğÀ¿ñÀÀÀÀ8ÀÀ9ÀÀÀÀ²ÀÀûÀÁ	ÀÁÀÁ!ÀÁ?ÀÁzÀÁ‚ÀÁ†ÀÁ‡ÀÁ“ÀÁºÀÁèÀÂÀÂMÀÂ‘ÀÂ’ÀÂÄÀÂ×ÀÂçÀÃÀÃ?ÀÃ~ÀÃ¾ÀÃÇÀÃáÀÄÀÄ0ÀÄQÀÄºÀÄîÀÄõÀÅÀÅ$ÀÅ6ÀÅLÀÅjÀÅŒÀÅ—ÀÅ¸ÀÅÙÀÅùÀÆÀÆ>ÀÆGÀÆMÀÆNÀÆoÀÆÉÀÇ1ÀÇwÀÇŒÀÇÀÇ¶ÀÇûÀÈ-ÀÈ[ÀÈ~ÀÈ‹ÀÈ–ÀÈ´ÀÈÖÀÈ÷ÀÉÀÉ=ÀÉFÀÉLÀÉMÀÉrÀÉÀÉÀÉÚÀÉüÀÊ'ÀÊCÀÊhÀÊ±ÀÊ¼ÀÊÅÀÊÚÀÊìÀÊûÀËÀË@ÀË`ÀËƒÀË»ÀËÄÀËÊÀËËÀËôÀÌÀÌoÀÌ›ÀÌ¾ÀÍÀÍbÀÍcÀÍxÀÍŠÀÍ¯ÀÍÏÀÍñÀÎÀÎ4ÀÎŸÀÎŞÀÎçÀÎíÀÎîÀÏÀÏNÀÏzÀÏÍÀĞ9ÀĞrÀĞsÀĞˆÀĞšÀĞÅÀĞëÀÑÀÑ>ÀÑaÀÑ„ÀÑÃÀÑÌÀÑÒÀÑÓÀÒÀÒÀÒ,ÀÒ?ÀÒdÀÒ€ÀÒÂÀÒÑÀÒŞÀÒùÀÓÀÓ5ÀÓSÀÓ…ÀÓ£ÀÓâÀÔÀÔ(ÀÔiÀÔ¨ÀÔ½ÀÔĞÀÔáÀÔğÀÔıÀÕÀÕ0ÀÕRÀÕrÀÕ•ÀÕÖÀÖÀÖÀÖ$ÀÖ%ÀÖSÀÖhÀÖzÀÖÀÖÉÀÖëÀ×À×.À×RÀ×‘À×šÀ× À×¡À×´À×ÄÀ×ëÀØ*ÀØdÀØ‘ÀØ×ÀÙÀÙÀÙ6ÀÙUÀÙsÀÙ“ÀÙ´ÀÙ»ÀÙ¼ÀÙŞÀÙıÀÚÀÚ5ÀÚIÀÚdÀÚ’ÀÚºÀÛÀÛCÀÛPÀÛsÀÛ—ÀÛ¹ÀÛŞÀÜÀÜÀÜ1ÀÜTÀÜuÀÜ˜ÀÜ§ÀÜ­ÀÜ®ÀÜĞÀÜıÀİ-Àİ:ÀİjÀİ—ÀİÀİÀİæÀŞ/ÀŞˆÀŞÀŞÀŞÚÀßÀßcÀßËÀßÒÀßÓÀàÀàJÀàKÀàfÀà‚Àà­ÀàÖÀàïÀá=Àá¿ÀáÛÀâ
+ÀâHÀâYÀâ†Àâ±ÀâÛÀã$ÀãLÀã~ÀãÕÀä=Àä’ÀäÉÀå)ÀåYÀå“ÀååÀæÀæ(ÀæLÀæ]ÀælÀæzÀæ…ÀæÀæ•Àæ™Àæ›ÀæœÀæÏÀæõÀæöÀçÀçÀç!ÀçJÀç Àç¤Àç¥Àç±Àç×ÀçÿÀè*Àè.Àè0Àè1ÀèmÀèqÀèµÀèÚÀéÀépÀéƒÀé¤Àé¥ÀéöÀê#Àê$Àê„Àê Àê¡ÀêñÀëÀëÀëÀëGÀëfÀëuÀëœÀë¸ÀëÑÀëîÀìÀì(ÀìGÀìaÀìuÀì…ÀìœÀì²ÀìÆÀìÌÀìÍÀí?ÀíXÀívÀí—ÀíºÀíÛÀíúÀîÀî5ÀîPÀîlÀîˆÀî­Àî®ÀîºÀïÀïÀïÀïMÀï“Àï”Àï ÀïµÀïÌÀğ	ÀğPÀğTÀğUÀğaÀğtÀğ’Àğ§Àğ«Àğ¬Àğ¸ÀğñÀñÀñ`ÀñdÀñeÀñvÀñ Àñ¾ÀñÂÀñÃÀñ÷Àò<Àò`ÀòdÀòeÀòªÀò÷ÀóÀó;ÀófÀómÀóqÀórÀó§ÀóÅÀóçÀóíÀóñÀóòÀô7ÀôuÀô®ÀôìÀõ[Àõ‰Àõ¯ÀöÀöÀöÀöWÀöÀö‡ÀöÔÀ÷À÷<À÷kÀ÷zÀ÷€À÷’À÷–À÷—À÷£À÷ÊÀ÷æÀøÀøJÀø`Àø”ÀøèÀù ÀùÀùÀù,ÀùEÀù}ÀùÄÀùíÀúÀúHÀúsÀú¦ÀúÑÀúøÀû"ÀûGÀû|Àû¥ÀûÆÀûõÀü"Àü/Àü:ÀüCÀüJÀüNÀüOÀüQÀüRÀüÀü”ÀüáÀüåÀı0ÀırÀıÀıôÀşÀş1ÀşFÀşWÀşwÀş–Àş§Àş¨ÀşËÀşÍÀşÎÀşıÀÿÀÿ3ÀÿWÀÿqÀÿwÀÿxÀÿÀÿÄÀÿÅÀÿÑÀ À 4À 8À :    %_kDefaultFloatingActionButtonLocation%_kDefaultFloatingActionButtonAnimator_standardBottomSheetCurve _kBottomSheetDominatesPercentage_kMinBottomSheetScrimOpacity_kMaxBottomSheetScrimOpacity_ScaffoldSlotScaffoldMessengerScaffoldMessengerState_ScaffoldMessengerScopeScaffoldPrelayoutGeometry_TransitionSnapshotFabLocationScaffoldGeometry_ScaffoldGeometryNotifier_BodyBoxConstraints_BodyBuilder_ScaffoldLayout_FloatingActionButtonTransition$_FloatingActionButtonTransitionStateScaffoldScaffoldState_DismissDrawerActionScaffoldFeatureController_StandardBottomSheet_StandardBottomSheetStatePersistentBottomSheetController_ScaffoldScope ¡œ
