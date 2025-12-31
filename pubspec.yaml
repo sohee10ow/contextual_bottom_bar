@@ -1,6 +1,8 @@
 name: contextual_bottom_bar
 description: "A Flutter bottom navigation bar that switches between global and section bars."
 version: 0.0.2
+repository: https://github.com/sohee10ow/contextual_bottom_bar.git
+issue_tracker: https://github.com/sohee10ow/contextual_bottom_bar/issues
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
