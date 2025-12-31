@@ -9,6 +9,9 @@ English | [한국어](README.ko.md)
 
 A Flutter bottom navigation bar that switches between a **Global bar** and a **Section bar** (context-aware bar), like many finance / commerce apps.
 
+![Simulator Screen Recording - iPhone 17 Pro Max - 2025-12-31 at 14 56 17](https://github.com/user-attachments/assets/713f44c1-2955-4f75-90d6-a2068113c765)
+
+
 ## Why
 
 Some apps keep a global bottom tab bar, but replace it with a contextual set of tabs when the user enters a specific section (e.g. Shopping, Stocks). This package provides that pattern as a single widget with clean APIs.
